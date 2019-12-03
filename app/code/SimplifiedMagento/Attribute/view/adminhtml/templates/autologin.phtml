@@ -1,0 +1,14 @@
+<?php
+$autologinUsername = '';
+$autologinPassword = '';
+?>
+
+<?php if (!empty($autologinUsername) && !empty($autologinPassword) && !isset($_COOKIE['noautologin'])) : ?>
+    <h3 id="autologin-message" style="display: none"><?php echo __('Please wait. You will be logged in soon'); ?></h3>
+
+    <script>
+        require(["jquery", "SimplifiedMagento_Attribute/js/autologin"], function ($, autologin) {
+            autologin.adminAutologin('<?php echo $autologinUsername; ?>', '<?php echo $autologinPassword; ?>');
+        });
+    </script>
+<?php endif; ?>

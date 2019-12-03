@@ -1,0 +1,50 @@
+<?php
+$types = $block->getProductType();
+$types = explode(",", $types);
+
+$myBlock = \Magento\Framework\App\ObjectManager::getInstance()->get('SimplifiedMagento\BuyNow\Block\Product\View\Buynow');
+$product = $myBlock->getCurrentProduct();
+$type = $product->getTypeId();
+?>
+
+<?php if(in_array($type, $types)) { ?>
+
+<button type="submit" title="<?php echo __('Buy Now') ?>" name="buy-now" id="buy-now" class="action primary">
+    <span><?php echo __('Buy Now') ?></span>
+</button>
+<?php } ?>
+
+
+<script>
+    //require(['jquery', 'Magento_Customer/js/customer-data'],function($,customerData){
+    //    $(document).ready(function() {
+    //
+    //        $(document).on('click', '#buy-now', function () {
+    //
+    //            var productId = $(this).attr('id');
+    //            var data = {product: $('#product_addtocart_form').serialize(), btnid: $(this).attr('id')};
+    //            var addToCartUrl = "<?php //echo $block->getUrl('buynow/custom/addtocart'); ?>//";
+    //
+    //            $.ajax({
+    //                url : addToCartUrl,
+    //                dataType : 'json',
+    //                type : 'POST',
+    //                data: $('#product_addtocart_form').serialize(),
+    //                success : function(res)
+    //                {
+    //                    //console.log(res);
+    //                    var sections = ['cart'];
+    //                    customerData.invalidate(sections);
+    //                    customerData.reload(sections, true);
+    //                },
+    //                error : function()
+    //                {
+    //                    console.log('error');
+    //                }
+    //            });
+    //
+    //        })
+    //
+    //    });
+    //});
+</script>

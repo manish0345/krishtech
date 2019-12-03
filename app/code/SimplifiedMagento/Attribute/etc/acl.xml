@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Acl/etc/acl.xsd">
+    <acl>
+        <resources>
+            <resource id="Magento_Backend::admin">
+                <resource id="SimplifiedMagento_Attribute::parent" title="Custom Admin Parent" translate="title" sortOrder="10">
+                    <resource id="SimplifiedMagento_Attribute::firstchild" title="First Child" translate="title" sortOrder="10">
+                        <resource id="SimplifiedMagento_Attribute::secondchild" title="Second Child" translate="title" sortOrder="10">
+                            <resource id="SimplifiedMagento_Attribute::thirdchild" title="Third Child" translate="title" sortOrder="20" />
+                            <resource id="SimplifiedMagento_Attribute::fourthchild" title="Fourth Child" translate="title" sortOrder="10" />
+                            <resource id="SimplifiedMagento_Attribute::fifthchild" title="Fifth Child" translate="title" sortOrder="30" />
+                        </resource>
+                    </resource>
+                </resource>
+
+                <resource id="Magento_Backend::stores">
+                    <resource id="Magento_Backend::stores_settings">
+                        <resource id="Magento_Config::config">
+                            <resource id="SimplifiedMagento_Attribute::helloworld_config" title="Hello World"/>
+                        </resource>
+                    </resource>
+                </resource>
+
+            </resource>
+        </resources>
+    </acl>
+</config>

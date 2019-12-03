@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add id="SimplifiedMagento_Attribute::member" title="Member" translate="title" module="SimplifiedMagento_Attribute" sortOrder="20" resource="SimplifiedMagento_Attribute::parent" />
+        <add id="SimplifiedMagento_Attribute::affiliate_member" title="Affiliate Member" translate="title" module="SimplifiedMagento_Attribute" sortOrder="10" parent="SimplifiedMagento_Attribute::member" action="affiliate/member/" resource="SimplifiedMagento_Attribute::parent" />
+
+        <add id="SimplifiedMagento_Attribute::affiliate_member_new" title="Affiliate Member New" translate="title" module="SimplifiedMagento_Attribute" sortOrder="20" parent="SimplifiedMagento_Attribute::member" action="affiliate/newlisting/" resource="SimplifiedMagento_Attribute::parent" />
+    </menu>
+</config>

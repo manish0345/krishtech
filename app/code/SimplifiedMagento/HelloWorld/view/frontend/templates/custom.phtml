@@ -1,0 +1,34 @@
+<?php
+/**
+ * We can get data using directly from block also and viewModel also
+ * But for less coding ViewModel is prefer first then block
+ */
+
+$viewModel = $block->getData('view_model');
+
+$hello = $viewModel->getHelloWorld();
+$helloArr = $viewModel->getArray();
+?>
+<h1>This is from our custom Module Template.</h1>
+<h2><?= $hello ?></h2>
+<ul>
+<?php
+foreach($helloArr as $item) {
+    echo '<li>'.$item.'</li>';
+}
+?>
+</ul>
+
+<!--<h3>--><?php //echo $this->getShowHello(); ?><!--</h3>-->
+<!---->
+<!--<ol>-->
+<!--    --><?php
+//    foreach($this->getShowArray() as $item) {
+//        echo '<li>'.$item.'</li>';
+//    }
+//    ?>
+<!--</ol>-->
+
+<hr/>
+
+<h4><?= $viewModel->getProductName(); ?></h4>

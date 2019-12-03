@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config:etc/system_file.xsd">
+    <system>
+        <tab id="Custom_Cart" translate="label" sortOrder="200">
+            <label>Custom Cart Admin</label>
+        </tab>
+        <section id="FirstCart" translate="label" sortOrder="100" showInDefault="1" showInWebsite="1" showInStore="1">
+            <label>Cart Section</label>
+            <tab>Custom_Cart</tab>
+            <resource>SimplifiedMagento_BuyNow::parent</resource>
+            <group id="FirstCartGroup" showInDefault="1" showInWebsite="1" showInStore="1">
+                <label>Cart Group</label>
+                <field id="ProductTypeField" showInDefault="1" showInWebsite="1" showInStore="1" translate="label" sortOrder="30" type="multiselect">
+                    <label>Select Product Type</label>
+                    <source_model>SimplifiedMagento\BuyNow\Model\ProductArray</source_model>
+                </field>
+            </group>
+        </section>
+
+    </system>
+</config>

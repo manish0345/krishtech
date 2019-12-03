@@ -1,0 +1,23 @@
+<?php $_product = $block->getProduct(); ?>
+<div class="social-media-icons">
+    <!-- Facebook -->
+    <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo $_product->getProductUrl();?>&t=<?php echo urlencode($_product->getName())?>" onclick='javascript:window.open(this.href,"","width=640,height=480,left=0,top=0,location=no,status=yes,scrollbars=yes,resizable=yes");return false' title="Share on facebook">
+        <img src="https://simplesharebuttons.com/images/somacro/facebook.png" alt="Facebook" width="8%" />
+    </a>
+    <!-- TWITTER -->
+    <a href="http://twitter.com/home/?status=<?php echo $_product->getProductUrl();?>(<?php echo urlencode($_product->getName())?>)" onclick='javascript:window.open(this.href,"","width=640,height=480,left=0,top=0,location=no,status=yes,scrollbars=yes,resizable=yes");return false' title="Share on Twitter">
+        <img src="https://simplesharebuttons.com/images/somacro/twitter.png" alt="Twitter" width="8%" />
+    </a>
+    <!-- Pinterest -->
+    <a href="https://pinterest.com/pin/create/button/?url=<?php echo $_product->getProductUrl(); ?>&media=<?php echo urlencode($_product->getImageUrl());?> &description=<?php echo urlencode($_product->getName()); ?>" onclick='javascript:window.open(this.href,"","width=640,height=480,left=0,top=0,location=no,status=yes,scrollbars=yes,resizable=yes");return false' title="Pin it">
+        <img src="https://simplesharebuttons.com/images/somacro/pinterest.png" alt="Pinterest" width="8%" />
+    </a>
+    <!-- Google Plus -->
+    <a href="https://plus.google.com/share?url=<?php echo $_product->getProductUrl(); ?>" onclick='javascript:window.open(this.href,"","width=640,height=480,left=0,top=0,location=no,status=yes,scrollbars=yes,resizable=yes");return false' title="Share on Google Plus">
+        <img src="https://simplesharebuttons.com/images/somacro/google.png" alt="Google" width="8%" />
+    </a>
+    <!-- LinkedIn -->
+    <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=<?php echo $_product->getProductUrl(); ?>" target="_blank">
+        <img src="https://simplesharebuttons.com/images/somacro/linkedin.png" alt="LinkedIn" width="8%" />
+    </a>
+</div>

@@ -1,0 +1,50 @@
+<!--
+/**
+ * Copyright © Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+<!--    <type name="\SimplifiedMagento\Database\Model\AffiliateMemberRepository">-->
+<!--        <plugin name="attribute_code_plugin" type="\SimplifiedMagento\Attribute\Model\Plugin\CodeAttributeExtension" />-->
+<!--    </type>-->
+
+    <type name="\Magento\Catalog\Api\ProductRepositoryInterface">
+        <plugin name="ProductExtensionAttributeOperations" type="\SimplifiedMagento\Attribute\Model\Plugin\NewCodeAttributeExtension"/>
+    </type>
+
+
+    <virtualType name="AffiliateMemberGridDataProvider" type="Magento\Framework\View\Element\UiComponent\DataProvider\DataProvider">
+        <arguments>
+            <argument name="collection" xsi:type="object" shared="false">SimplifiedMagento\Database\Model\ResourceModel\AffiliateMember\Collection</argument>
+            <argument name="filterPool" xsi:type="object" shared="false">MemberGridFilterPool</argument> <!-- Define new object for filters -->
+        </arguments>
+    </virtualType>
+
+    <!-- Create our type MemberGridFilterPool -->
+    <virtualType name="MemberGridFilterPool" type="Magento\Framework\View\Element\UiComponent\DataProvider\FilterPool">
+        <arguments>
+            <argument name="appliers" xsi:type="array">
+                <item name="regular" xsi:type="object">Magento\Framework\View\Element\UiComponent\DataProvider\RegularFilter</item>
+                <item name="fulltext" xsi:type="object">Magento\Framework\View\Element\UiComponent\DataProvider\FulltextFilter</item>
+            </argument>
+        </arguments>
+    </virtualType>
+
+    <!-- Type for affiliate_member_listing_data_source -->
+    <type name="Magento\Framework\View\Element\UiComponent\DataProvider\CollectionFactory">
+        <arguments>
+            <argument name="collections" xsi:type="array">
+                <item name="affiliate_member_listing_data_source" xsi:type="string">SimplifiedMagento\Database\Model\Resource\Grid\Collection</item>
+                <item name="affiliate_newlisting_listing_data_source" xsi:type="string">SimplifiedMagento\Database\Model\Resource\Grid\Collection</item>
+            </argument>
+        </arguments>
+    </type>
+
+    <virtualType name="SimplifiedMagento\Database\Model\Resource\Grid\Collection" type="Magento\Framework\View\Element\UiComponent\DataProvider\SearchResult">
+        <arguments>
+            <argument name="mainTable" xsi:type="string">affiliate_member</argument>
+            <argument name="resourceModel" xsi:type="string">SimplifiedMagento\Database\Model\ResourceModel\AffiliateMember</argument>
+        </arguments>
+    </virtualType>
+</config>

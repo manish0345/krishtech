@@ -1,0 +1,88 @@
+<?php declare(strict_types=1);
+
+/** @var \Magento\Framework\View\Element\Template $block */
+?>
+<form id="custom_form" method="post" data-mage-init='{"validation": {}}'>
+    <div class="control">
+        <input type="text" name="sku" id="sku" class="input-text" placeholder="<?= __('Your SKU') ?>" data-validate='{ "required": true}' />
+    </div>
+    <button type="submit" class="action-primary submit"><?= __('Submit') ?></button>
+</form>
+
+
+<script>
+    require(['jquery', 'Magento_Customer/js/customer-data'],function($,customerData){
+        $(document).ready(function() {
+            $("#custom_form").submit(function(e){
+                e.preventDefault();
+                var sku = $("#sku").val();
+
+                var url = "<?php echo $block->getBaseUrl().'rest/V1/products/' ?>" + sku;
+                $.ajax({
+                    url: url,
+                    type: "GET",
+                    data: {},
+                    showLoader: true,
+                    cache: false,
+                    success: function(result){
+                        console.log(result);
+                        var content = '<tr>';
+                        content = content + '<td>'+result.name+'</td>';
+                        content = content + '<td>'+result.sku+'</td>';
+                        content = content + '<td>'+result.type_id+'</td>';
+                        content = content + '<td><input type="number" name="qty" id="qty" min="0" max="10" value="1" /> </td>';
+                        content = content + '<td><a href="javascript:void(0);" class="action primary" id="'+result.id+'">Add to Cart</a></td>';
+                        content = content + '</tr>';
+
+                        $('#product_table #pro_field').append(content);
+                    }
+                });
+                return false;
+            });
+
+            $(document).on('click', '#pro_field a.action', function () {
+
+                var productId = $(this).attr('id');
+                var qty = $(this).parent("td").closest('tr').find("input#qty").val();
+                var data = {product: productId, qty: qty};
+                var addToCartUrl = "<?php echo $block->getUrl('helloworld/custom/addtocart'); ?>";
+
+                $.ajax({
+                    url : addToCartUrl,
+                    dataType : 'json',
+                    type : 'POST',
+                    data: data,
+                    success : function(res)
+                    {
+                        console.log('Success 111');
+                        var sections = ['cart'];
+                        customerData.invalidate(sections);
+                        customerData.reload(sections, true);
+                    },
+                    error : function()
+                    {
+                        console.log('error');
+                    }
+                });
+
+            })
+
+        });
+    });
+</script>
+
+
+<table id="product_table" border="1" width="100%" style="margin-top: 50px;">
+    <thead>
+    <tr>
+        <th>Product Name</th>
+        <th>Product SKU</th>
+        <th>Product Type</th>
+        <th>Quantity</th>
+        <th>Action</th>
+    </tr>
+    </thead>
+    <tbody id="pro_field">
+
+    </tbody>
+</table>

@@ -1,0 +1,34 @@
+<?php declare(strict_types=1);
+?>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Ui/js/core/app": {
+                "components": {
+                    "exampleUiComponent": {
+                        "component": "uiComponent",
+                        "template": "SimplifiedMagento_HelloWorld/info",
+                        "children": {
+                            "child1": {
+                                "component": "uiComponent",
+                                "template": "SimplifiedMagento_HelloWorld/info",
+                                "children": {
+                                    "child2": {
+                                        "component": "uiComponent",
+                                        "template": "SimplifiedMagento_HelloWorld/info"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+</script>
+
+<div data-bind="scope: 'exampleUiComponent'">
+    <!--- ko template: "SimplifiedMagento_HelloWorld/ui-component-template" --><!--- /ko -->
+
+    <div data-bind="template: getTemplate()"></div>
+</div>

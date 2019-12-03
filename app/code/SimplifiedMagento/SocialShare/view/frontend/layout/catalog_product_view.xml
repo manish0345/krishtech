@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<body>
+    <referenceContainer name="product.info.social">
+        <block class="Magento\Catalog\Block\Product\View" name="product.info.socialmedia" template="SimplifiedMagento_SocialShare::product/view/socialmedia.phtml"/>
+    </referenceContainer>
+</body>

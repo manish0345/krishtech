@@ -1,0 +1,103 @@
+<?php declare(strict_types=1);
+
+/** @var \Magento\Framework\View\Element\Template $block */
+?>
+<form data-mage-init='{"validation": {}}'>
+    <div class="control">
+        <input type="text" name="email" id="email" class="input-text" placeholder="<?= __('Your Email') ?>" data-validate='{ "required": true, "validate-email": true}' />
+    </div>
+    <button type="submit" class="action-primary"><?= __('Submit') ?></button>
+</form>
+
+
+<!--{"active": true, "saveState": true}-->
+<!--{"animate": {"duration": 500, "easing": "linear"}-->
+<div id="my-collapsible" data-mage-init='{ "SimplifiedMagento_HelloWorld/js/dynamic-collaps": { "ajaxContent": true } }'>
+    <div data-role="title">
+        <h2>Click Here <button data-role="trigger">Go</button></h2>
+    </div>
+    <div id="example" data-role="content"></div>
+    <a href="<?= $block->getViewFileUrl('SimplifiedMagento_HelloWorld/example-content.html') ?>" data-ajax="true"></a>
+</div>
+
+<script type="text/x-magento-init">
+    {
+        "#target" : {
+            "coffee": {
+                "base_url": "<?= $block->escapeJs($block->getBaseUrl()) ?>"
+            }
+        }
+    }
+</script>
+
+<!--<div id="target" data-mage-init='{ "SimplifiedMagento_HelloWorld/js/script-example": { "base_url": "/" } }'></div>-->
+<pre id="target"></pre>
+
+
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Ui/js/core/app": {
+                "components": {
+                    "startSimple": {
+                        "component": "SimplifiedMagento_HelloWorld/js/knockout-example",
+                        "base_url": "<?= $block->escapeJs($block->getBaseUrl()) ?>"
+                    }
+                }
+            }
+        }
+    }
+</script>
+
+<!-- Observable and Subscriber Example -->
+<!--<div data-bind="scope: 'startSimple'">-->
+<!--    <h1 data-bind="text: title"></h1>-->
+<!--    <pre data-bind="text: JSON.stringify(config, null, 2)"></pre>-->
+<!--</div>-->
+
+<!-- Computed example -->
+<!--<div data-bind="scope: 'startSimple'">-->
+<!--    <pre data-bind="text: output"></pre>-->
+<!--</div>-->
+
+<!-- Observable Array Example -->
+<div data-bind="scope: 'startSimple'">
+<!--    <table data-bind="foreach: exchange_rate">-->
+<!--        <tr>-->
+<!--            <td data-bind="text: currency_to"></td>-->
+<!--            <td data-bind="text: rate"></td>-->
+<!--        </tr>-->
+<!--    </table>-->
+
+<!--    <ul data-bind="foreach: exchange_rate">-->
+<!--        <li data-bind="text: $data"></li>-->
+<!--    </ul>-->
+
+    <!-- Virtual element example -->
+<!--        <table>-->
+<!--            <tr>-->
+<!--                <th data-bind="i18n: 'Currency To'"></th>-->
+<!--                <th data-bind="i18n: 'Rate'"></th>-->
+<!--            </tr>-->
+            <!--- ko foreach: exchange_rate -->
+<!--            <tr>-->
+<!--                <td data-bind="text: currency_to"></td>-->
+<!--                <td data-bind="text: rate"></td>-->
+<!--            </tr>-->
+            <!--- /ko -->
+<!--        </table>-->
+
+
+    <!-- ES5 ko.track example -->
+    <h3 data-bind="text: label"></h3>
+    <table data-bind="foreach: items">
+        <tr>
+            <td data-bind="text: name"></td>
+            <td data-bind="text: qty"></td>
+            <td data-bind="text: price"></td>
+            <td data-bind="text: $parent.rowTotal($data)"></td>
+        </tr>
+    </table>
+    <div>Additional Charges: <span data-bind="text: additional_charge"></span></div>
+    <strong>Total: <span data-bind="text: total()"></span></strong>
+</div>
