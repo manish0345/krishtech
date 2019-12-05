@@ -46,11 +46,6 @@ class Add extends \Magento\Checkout\Controller\Cart\Add
 
         try {
 
-            foreach ($this->cart->getQuote()->getAllItems() as $item) {
-                /** @var \Magento\Quote\Model\Quote\Item $item */
-                $item->delete();
-            }
-
             if (isset($params['qty'])) {
                 $filter = new \Zend_Filter_LocalizedToNormalized(
                     ['locale' => $this->_objectManager->get(

@@ -224,6 +224,7 @@ return [
         'Magento_WishlistSampleData' => 1,
         'SimplifiedMagento_Attribute' => 1,
         'SimplifiedMagento_BuyNow' => 0,
+        'SimplifiedMagento_ContactUs' => 1,
         'SimplifiedMagento_Database' => 1,
         'SimplifiedMagento_FirstModule' => 1,
         'SimplifiedMagento_HelloWorld' => 1,
@@ -232,6 +233,7 @@ return [
         'Amazon_Core' => 1,
         'Amazon_Login' => 1,
         'Amazon_Payment' => 1,
+        'CustomForm_MailAttachment' => 0,
         'Dotdigitalgroup_Email' => 1,
         'Faonni_SocialLogin' => 1,
         'Klarna_Core' => 1,
@@ -239,6 +241,7 @@ return [
         'Klarna_Kp' => 1,
         'Magento_PaypalReCaptcha' => 1,
         'MSP_TwoFactorAuth' => 1,
+        'MagePal_GmailSmtpApp' => 1,
         'Prince_Buynow' => 1,
         'Temando_Shipping' => 1,
         'Vertex_Tax' => 1

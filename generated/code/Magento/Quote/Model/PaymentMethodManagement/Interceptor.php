@@ -26,30 +26,4 @@ class Interceptor extends \Magento\Quote\Model\PaymentMethodManagement implement
             return $this->___callPlugins('set', func_get_args(), $pluginInfo);
         }
     }
-
-    /**
-     * {@inheritdoc}
-     */
-    public function get($cartId)
-    {
-        $pluginInfo = $this->pluginList->getNext($this->subjectType, 'get');
-        if (!$pluginInfo) {
-            return parent::get($cartId);
-        } else {
-            return $this->___callPlugins('get', func_get_args(), $pluginInfo);
-        }
-    }
-
-    /**
-     * {@inheritdoc}
-     */
-    public function getList($cartId)
-    {
-        $pluginInfo = $this->pluginList->getNext($this->subjectType, 'getList');
-        if (!$pluginInfo) {
-            return parent::getList($cartId);
-        } else {
-            return $this->___callPlugins('getList', func_get_args(), $pluginInfo);
-        }
-    }
 }

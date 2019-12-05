@@ -1,0 +1,2 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1575521192;s:6:"expire";i:1575528392;s:4:"tags";s:49:"def_STORE,def_CONFIG,def_COLLECTION_DATA,def_MAGE";}
+[{"store_id":"1","code":"default","website_id":"1","group_id":"1","name":"Default Store View","sort_order":"0","is_active":"1"},{"store_id":"3","code":"french","website_id":"1","group_id":"1","name":"French View","sort_order":"10","is_active":"1"}]
