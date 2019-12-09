@@ -1,0 +1,13 @@
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config:etc/system_file.xsd">
+    <system>
+        <section id="customer">
+            <group id="custom_group" translate="label" sortOrder="100" showInDefault="1" showInWebsite="1" showInStore="0">
+                <label>Custom Setting</label>
+                <field id="is_enabled" showInDefault="1" showInWebsite="1" showInStore="1" translate="label" sortOrder="10" type="select">
+                    <label>Is Enabled</label>
+                    <source_model>Magento\Config\Model\Config\Source\Yesno</source_model>
+                </field>
+            </group>
+        </section>
+    </system>
+</config>

@@ -233,8 +233,9 @@ return [
         'Amazon_Core' => 1,
         'Amazon_Login' => 1,
         'Amazon_Payment' => 1,
-        'CustomForm_MailAttachment' => 0,
         'Dotdigitalgroup_Email' => 1,
+        'Eadesigndev_Eacore' => 1,
+        'Eadesigndev_RomCity' => 1,
         'Faonni_SocialLogin' => 1,
         'Klarna_Core' => 1,
         'Klarna_Ordermanagement' => 1,
@@ -244,6 +245,8 @@ return [
         'MagePal_GmailSmtpApp' => 1,
         'Prince_Buynow' => 1,
         'Temando_Shipping' => 1,
+        'TrainingManish_CustomerAttribute' => 1,
+        'TrainingManish_ProductAttribute' => 1,
         'Vertex_Tax' => 1
     ]
 ];

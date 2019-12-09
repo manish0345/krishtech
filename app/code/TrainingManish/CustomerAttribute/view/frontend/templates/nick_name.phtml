@@ -1,0 +1,11 @@
+<?php
+$block = $block->getFieldValue();
+if($block == '1') {
+?>
+<div class="field nick_name">
+    <label class="label" for="nick_name"><span><?php echo __('Nick Name') ?></span></label>
+    <div class="control">
+        <input type="text" id="nick_name" name="nick_name"  title="<?php echo __('Nick Name') ?>" class="input-text" autocomplete="off">
+    </div>
+</div>
+<?php } ?>
