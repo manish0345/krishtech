@@ -1,1 +1,0 @@
-/var/www/html/magento/app/code/Prince/Buynow/view/frontend/web/js/buy-now.js

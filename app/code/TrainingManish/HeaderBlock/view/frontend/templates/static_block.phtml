@@ -1,0 +1,9 @@
+<?php
+$objectManager = \Magento\Framework\App\ObjectManager::getInstance();
+$customerSession = $objectManager->create('Magento\Customer\Model\Session');
+
+if($customerSession->isLoggedIn()) : ?>
+    <?php echo $this->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('header_content_after_login')->toHtml(); ?>
+<?php else: ?>
+    <?php echo $this->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('header_content_before_login')->toHtml(); ?>
+<?php endif;?>

@@ -246,6 +246,7 @@ return [
         'Prince_Buynow' => 1,
         'Temando_Shipping' => 1,
         'TrainingManish_CustomerAttribute' => 1,
+        'TrainingManish_HeaderBlock' => 1,
         'TrainingManish_ProductAttribute' => 1,
         'Vertex_Tax' => 1
     ]
