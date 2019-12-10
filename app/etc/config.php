@@ -237,6 +237,7 @@ return [
         'Eadesigndev_Eacore' => 1,
         'Eadesigndev_RomCity' => 1,
         'Faonni_SocialLogin' => 1,
+        'Ibnab_Tutie' => 0,
         'Klarna_Core' => 1,
         'Klarna_Ordermanagement' => 1,
         'Klarna_Kp' => 1,
