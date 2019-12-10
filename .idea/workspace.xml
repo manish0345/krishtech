@@ -3,918 +3,51 @@
   <component name="ChangeListManager">
     <list default="true" id="99f7291d-015e-4137-8179-99cd008bf758" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/etc/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/etc/config.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Amazon/Payment/Model/Method/AmazonLoginMethod/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Amazon/Payment/Model/Method/AmazonLoginMethod/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Klarna/Core/Model/Config/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Klarna/Core/Model/Config/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Klarna/Kp/Model/Payment/Kp/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Klarna/Kp/Model/Payment/Kp/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/MSP/ReCaptcha/Command/ReCaptcha/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/MSP/ReCaptcha/Command/ReCaptcha/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/MSP/TwoFactorAuth/Command/TfaDisable/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/MSP/TwoFactorAuth/Command/TfaDisable/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/MSP/TwoFactorAuth/Command/TfaProviders/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/MSP/TwoFactorAuth/Command/TfaProviders/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/MSP/TwoFactorAuth/Command/TfaReset/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/MSP/TwoFactorAuth/Command/TfaReset/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/MSP/TwoFactorAuth/Model/TfaSession/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/MSP/TwoFactorAuth/Model/TfaSession/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/AdminNotification/Model/ResourceModel/System/Message/Collection/Synchronized/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/AdminNotification/Model/ResourceModel/System/Message/Collection/Synchronized/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/AdminNotification/Ui/Component/DataProvider/DataProvider/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/AdminNotification/Ui/Component/DataProvider/DataProvider/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Authorization/Model/Role/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Authorization/Model/Role/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Authorizenet/Model/Directpost/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Authorizenet/Model/Directpost/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Backend/Block/Store/Switcher/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Backend/Block/Store/Switcher/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Backend/Console/Command/CacheCleanCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Backend/Console/Command/CacheCleanCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Backend/Console/Command/CacheDisableCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Backend/Console/Command/CacheDisableCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Backend/Console/Command/CacheEnableCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Backend/Console/Command/CacheEnableCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Backend/Console/Command/CacheFlushCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Backend/Console/Command/CacheFlushCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Backend/Console/Command/CacheStatusCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Backend/Console/Command/CacheStatusCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Backend/Controller/Adminhtml/Cache/Index/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Backend/Controller/Adminhtml/Cache/Index/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Backend/Controller/Adminhtml/Cache/MassRefresh/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Backend/Controller/Adminhtml/Cache/MassRefresh/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Backend/Model/Auth/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Backend/Model/Auth/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Backend/Model/Auth/Session/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Backend/Model/Auth/Session/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Backend/Model/Menu/Builder/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Backend/Model/Menu/Builder/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Backend/Model/Session/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Backend/Model/Session/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Backend/Model/Session/Quote/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Backend/Model/Session/Quote/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Backend/Model/View/Result/Forward/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Backend/Model/View/Result/Forward/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Backend/Model/View/Result/Page/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Backend/Model/View/Result/Page/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Backend/Model/View/Result/Redirect/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Backend/Model/View/Result/Redirect/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Catalog/Block/Adminhtml/Product/Attribute/Edit/Tab/Front/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Catalog/Block/Adminhtml/Product/Attribute/Edit/Tab/Front/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Catalog/Block/Product/AbstractProduct/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Catalog/Block/Product/AbstractProduct/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Catalog/Block/Product/ListProduct/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Catalog/Block/Product/ListProduct/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Catalog/Block/Product/ProductList/Item/AddTo/Compare/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Catalog/Block/Product/ProductList/Item/AddTo/Compare/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Catalog/Block/Product/ProductList/Item/Container/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Catalog/Block/Product/ProductList/Item/Container/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Catalog/Console/Command/ProductAttributesCleanUp/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Catalog/Console/Command/ProductAttributesCleanUp/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Catalog/Controller/Adminhtml/Product/Attribute/Edit/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Catalog/Controller/Adminhtml/Product/Attribute/Edit/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Catalog/Controller/Adminhtml/Product/Attribute/Index/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Catalog/Controller/Adminhtml/Product/Attribute/Index/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Catalog/Controller/Adminhtml/Product/Attribute/Save/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Catalog/Controller/Adminhtml/Product/Attribute/Save/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Catalog/Controller/Adminhtml/Product/Attribute/Validate/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Catalog/Controller/Adminhtml/Product/Attribute/Validate/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Catalog/Controller/Adminhtml/Product/Edit/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Catalog/Controller/Adminhtml/Product/Edit/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Catalog/Controller/Adminhtml/Product/Index/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Catalog/Controller/Adminhtml/Product/Index/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Catalog/Controller/Category/View/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Catalog/Controller/Category/View/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Catalog/Helper/Product/Configuration/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Catalog/Helper/Product/Configuration/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Catalog/Model/Product/Attribute/Backend/Boolean/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Catalog/Model/Product/Attribute/Backend/Boolean/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Catalog/Model/Product/Attribute/Backend/Category/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Catalog/Model/Product/Attribute/Backend/Category/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Catalog/Model/Product/Attribute/Backend/Sku/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Catalog/Model/Product/Attribute/Backend/Sku/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Catalog/Model/Product/Attribute/Backend/Stock/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Catalog/Model/Product/Attribute/Backend/Stock/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Catalog/Model/Product/Attribute/Backend/Tierprice/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Catalog/Model/Product/Attribute/Backend/Tierprice/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Catalog/Model/Product/Attribute/Backend/Weight/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Catalog/Model/Product/Attribute/Backend/Weight/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Catalog/Model/Product/Attribute/Repository/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Catalog/Model/Product/Attribute/Repository/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Catalog/Model/Product/Gallery/ReadHandler/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Catalog/Model/Product/Gallery/ReadHandler/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Catalog/Model/Product/Link/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Catalog/Model/Product/Link/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Catalog/Model/Product/Option/Repository/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Catalog/Model/Product/Option/Repository/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Catalog/Model/ResourceModel/Attribute/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Catalog/Model/ResourceModel/Attribute/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Catalog/Model/ResourceModel/Config/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Catalog/Model/ResourceModel/Config/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Catalog/Model/ResourceModel/Product/Compare/Item/Collection/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Catalog/Model/ResourceModel/Product/Compare/Item/Collection/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Catalog/Model/ResourceModel/Product/Gallery/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Catalog/Model/ResourceModel/Product/Gallery/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Catalog/Model/ResourceModel/Product/Link/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Catalog/Model/ResourceModel/Product/Link/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Catalog/Model/ResourceModel/Product/Link/Product/Collection/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Catalog/Model/ResourceModel/Product/Link/Product/Collection/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Catalog/Model/Session/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Catalog/Model/Session/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Catalog/Pricing/Render/FinalPriceBox/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Catalog/Pricing/Render/FinalPriceBox/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Catalog/Ui/DataProvider/Product/ProductCollection/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Catalog/Ui/DataProvider/Product/ProductCollection/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/CatalogInventory/Helper/Stock/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/CatalogInventory/Helper/Stock/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/CatalogInventory/Model/Adminhtml/Stock/Item/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/CatalogInventory/Model/Adminhtml/Stock/Item/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/CatalogInventory/Model/Quote/Item/QuantityValidator/Initializer/Option/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/CatalogInventory/Model/Quote/Item/QuantityValidator/Initializer/Option/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/CatalogInventory/Model/Stock/Item/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/CatalogInventory/Model/Stock/Item/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/CatalogInventory/Model/StockState/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/CatalogInventory/Model/StockState/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/CatalogSearch/Model/Adapter/Mysql/Aggregation/DataProvider/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/CatalogSearch/Model/Adapter/Mysql/Aggregation/DataProvider/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/CatalogSearch/Model/ResourceModel/Fulltext/Collection/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/CatalogSearch/Model/ResourceModel/Fulltext/Collection/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/CatalogSearch/Model/ResourceModel/Search/Collection/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/CatalogSearch/Model/ResourceModel/Search/Collection/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/CatalogWidget/Block/Product/ProductsList/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/CatalogWidget/Block/Product/ProductsList/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Checkout/Block/Cart/Sidebar/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Checkout/Block/Cart/Sidebar/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Checkout/CustomerData/Cart/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Checkout/CustomerData/Cart/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Checkout/Model/Cart/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Checkout/Model/Cart/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Checkout/Model/Session/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Checkout/Model/Session/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Cms/Controller/Adminhtml/Block/Edit/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Cms/Controller/Adminhtml/Block/Edit/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Cms/Controller/Adminhtml/Block/Index/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Cms/Controller/Adminhtml/Block/Index/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Cms/Controller/Adminhtml/Block/NewAction/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Cms/Controller/Adminhtml/Block/NewAction/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Cms/Controller/Adminhtml/Block/Save/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Cms/Controller/Adminhtml/Block/Save/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Cms/Controller/Index/Index/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Cms/Controller/Index/Index/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Cms/Model/ResourceModel/Page/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Cms/Model/ResourceModel/Page/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Config/App/Config/Source/DumpConfigSourceAggregated/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Config/App/Config/Source/DumpConfigSourceAggregated/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Config/Console/Command/ConfigSetCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Config/Console/Command/ConfigSetCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Config/Console/Command/ConfigShowCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Config/Console/Command/ConfigShowCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Config/Model/Config/Backend/Encrypted/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Config/Model/Config/Backend/Encrypted/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Config/Model/Config/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Config/Model/Config/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Config/Model/Config/Structure/Element/Field/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Config/Model/Config/Structure/Element/Field/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Config/Model/Config/Structure/Element/Group/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Config/Model/Config/Structure/Element/Group/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Config/Model/Config/Structure/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Config/Model/Config/Structure/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/ConfigurableProduct/Block/Adminhtml/Product/Edit/Tab/Variations/Config/Matrix/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/ConfigurableProduct/Block/Adminhtml/Product/Edit/Tab/Variations/Config/Matrix/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/ConfigurableProduct/Model/ResourceModel/Product/Type/Configurable/Product/Collection/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/ConfigurableProduct/Model/ResourceModel/Product/Type/Configurable/Product/Collection/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/ConfigurableProduct/Pricing/Render/FinalPriceBox/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/ConfigurableProduct/Pricing/Render/FinalPriceBox/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Cron/Console/Command/CronCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Cron/Console/Command/CronCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Cron/Console/Command/CronInstallCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Cron/Console/Command/CronInstallCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Cron/Console/Command/CronRemoveCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Cron/Console/Command/CronRemoveCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Customer/Block/Account/AuthenticationPopup/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Customer/Block/Account/AuthenticationPopup/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Customer/Console/Command/UpgradeHashAlgorithmCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Customer/Console/Command/UpgradeHashAlgorithmCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Customer/Controller/Account/Edit/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Customer/Controller/Account/Edit/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Customer/Controller/Account/Index/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Customer/Controller/Account/Index/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Customer/Controller/Address/Index/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Customer/Controller/Address/Index/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Customer/Controller/Section/Load/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Customer/Controller/Section/Load/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Customer/Model/Attribute/Backend/Data/Boolean/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Customer/Model/Attribute/Backend/Data/Boolean/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Customer/Model/Backend/Customer/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Customer/Model/Backend/Customer/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Customer/Model/Customer/Attribute/Backend/Billing/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Customer/Model/Customer/Attribute/Backend/Billing/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Customer/Model/Customer/Attribute/Backend/Password/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Customer/Model/Customer/Attribute/Backend/Password/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Customer/Model/Customer/Attribute/Backend/Shipping/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Customer/Model/Customer/Attribute/Backend/Shipping/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Customer/Model/Customer/Attribute/Backend/Store/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Customer/Model/Customer/Attribute/Backend/Store/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Customer/Model/Customer/Attribute/Backend/Website/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Customer/Model/Customer/Attribute/Backend/Website/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Customer/Model/Group/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Customer/Model/Group/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Customer/Model/ResourceModel/Address/Attribute/Backend/Region/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Customer/Model/ResourceModel/Address/Attribute/Backend/Region/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Customer/Model/ResourceModel/Visitor/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Customer/Model/ResourceModel/Visitor/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Deploy/Console/Command/App/ApplicationDumpCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Deploy/Console/Command/App/ApplicationDumpCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Deploy/Console/Command/App/ConfigImportCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Deploy/Console/Command/App/ConfigImportCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Deploy/Console/Command/App/ConfigStatusCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Deploy/Console/Command/App/ConfigStatusCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Deploy/Console/Command/App/SensitiveConfigSetCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Deploy/Console/Command/App/SensitiveConfigSetCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Deploy/Console/Command/SetModeCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Deploy/Console/Command/SetModeCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Deploy/Console/Command/ShowModeCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Deploy/Console/Command/ShowModeCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Developer/Console/Command/DevTestsRunCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Developer/Console/Command/DevTestsRunCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Developer/Console/Command/DiInfoCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Developer/Console/Command/DiInfoCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Developer/Console/Command/GeneratePatchCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Developer/Console/Command/GeneratePatchCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Developer/Console/Command/ProfilerDisableCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Developer/Console/Command/ProfilerDisableCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Developer/Console/Command/ProfilerEnableCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Developer/Console/Command/ProfilerEnableCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Developer/Console/Command/QueryLogDisableCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Developer/Console/Command/QueryLogDisableCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Developer/Console/Command/QueryLogEnableCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Developer/Console/Command/QueryLogEnableCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Developer/Console/Command/SourceThemeDeployCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Developer/Console/Command/SourceThemeDeployCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Developer/Console/Command/TablesWhitelistGenerateCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Developer/Console/Command/TablesWhitelistGenerateCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Developer/Console/Command/TemplateHintsDisableCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Developer/Console/Command/TemplateHintsDisableCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Developer/Console/Command/TemplateHintsEnableCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Developer/Console/Command/TemplateHintsEnableCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Developer/Console/Command/XmlCatalogGenerateCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Developer/Console/Command/XmlCatalogGenerateCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Developer/Console/Command/XmlConverterCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Developer/Console/Command/XmlConverterCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Directory/Model/AllowedCountries/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Directory/Model/AllowedCountries/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Eav/Model/Adminhtml/System/Config/Source/Inputtype/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Eav/Model/Adminhtml/System/Config/Source/Inputtype/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Eav/Model/AttributeSetRepository/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Eav/Model/AttributeSetRepository/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Eav/Model/Entity/Attribute/Backend/ArrayBackend/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Eav/Model/Entity/Attribute/Backend/ArrayBackend/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Eav/Model/Entity/Attribute/Config/Reader/Proxy.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Eav/Model/ResourceModel/Entity/Attribute/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Eav/Model/ResourceModel/Entity/Attribute/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Framework/App/Action/Forward/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Framework/App/Action/Forward/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Framework/App/Config/Value/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Framework/App/Config/Value/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Framework/App/Http/Context/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Framework/App/Http/Context/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Framework/App/Http/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Framework/App/Http/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Framework/App/MaintenanceMode/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Framework/App/MaintenanceMode/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Framework/App/ResourceConnection/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Framework/App/ResourceConnection/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Framework/App/State/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Framework/App/State/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Framework/Controller/Result/Json/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Framework/Controller/Result/Json/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Framework/Message/Session/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Framework/Message/Session/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Framework/View/Asset/MergeService/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Framework/View/Asset/MergeService/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Framework/View/Asset/Minification/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Framework/View/Asset/Minification/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Framework/View/Model/Layout/Merge/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Framework/View/Model/Layout/Merge/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Framework/View/Result/Page/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Framework/View/Result/Page/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/GroupedProduct/Model/Product/Type/Grouped/Backend/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/GroupedProduct/Model/Product/Type/Grouped/Backend/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Indexer/Console/Command/IndexerInfoCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Indexer/Console/Command/IndexerInfoCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Indexer/Console/Command/IndexerReindexCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Indexer/Console/Command/IndexerReindexCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Indexer/Console/Command/IndexerResetStateCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Indexer/Console/Command/IndexerResetStateCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Indexer/Console/Command/IndexerSetDimensionsModeCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Indexer/Console/Command/IndexerSetDimensionsModeCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Indexer/Console/Command/IndexerSetModeCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Indexer/Console/Command/IndexerSetModeCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Indexer/Console/Command/IndexerShowDimensionsModeCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Indexer/Console/Command/IndexerShowDimensionsModeCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Indexer/Console/Command/IndexerShowModeCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Indexer/Console/Command/IndexerShowModeCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Indexer/Console/Command/IndexerStatusCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Indexer/Console/Command/IndexerStatusCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Indexer/Model/Mview/View/State/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Indexer/Model/Mview/View/State/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Inventory/Model/SourceRepository/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Inventory/Model/SourceRepository/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/InventoryDistanceBasedSourceSelection/Console/Command/ImportGeoNamesCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/InventoryDistanceBasedSourceSelection/Console/Command/ImportGeoNamesCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/InventoryReservationCli/Command/CreateCompensations/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/InventoryReservationCli/Command/CreateCompensations/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/InventoryReservationCli/Command/ShowInconsistencies/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/InventoryReservationCli/Command/ShowInconsistencies/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/LayeredNavigation/Block/Navigation/FilterRenderer/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/LayeredNavigation/Block/Navigation/FilterRenderer/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/MediaStorage/Console/Command/ImagesResizeCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/MediaStorage/Console/Command/ImagesResizeCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/MediaStorage/Model/File/Storage/Response/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/MediaStorage/Model/File/Storage/Response/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/MessageQueue/Console/ConsumerListCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/MessageQueue/Console/ConsumerListCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/MessageQueue/Console/StartConsumerCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/MessageQueue/Console/StartConsumerCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/NewRelicReporting/Console/Command/DeployMarker/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/NewRelicReporting/Console/Command/DeployMarker/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Newsletter/Model/Subscriber/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Newsletter/Model/Subscriber/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/OfflinePayments/Model/Banktransfer/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/OfflinePayments/Model/Banktransfer/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/OfflinePayments/Model/Cashondelivery/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/OfflinePayments/Model/Cashondelivery/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/OfflinePayments/Model/Checkmo/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/OfflinePayments/Model/Checkmo/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/OfflinePayments/Model/Purchaseorder/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/OfflinePayments/Model/Purchaseorder/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/PageCache/Console/Command/GenerateVclCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/PageCache/Console/Command/GenerateVclCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Payment/Helper/Data/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Payment/Helper/Data/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Payment/Model/Method/Adapter/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Payment/Model/Method/Adapter/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Payment/Model/Method/Free/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Payment/Model/Method/Free/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Payment/Model/Method/Substitution/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Payment/Model/Method/Substitution/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Paypal/Model/Bml/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Paypal/Model/Bml/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Paypal/Model/Express/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Paypal/Model/Express/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Paypal/Model/Hostedpro/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Paypal/Model/Hostedpro/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Paypal/Model/Method/Agreement/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Paypal/Model/Method/Agreement/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Paypal/Model/Payflow/Bml/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Paypal/Model/Payflow/Bml/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Paypal/Model/Payflow/Transparent/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Paypal/Model/Payflow/Transparent/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Paypal/Model/PayflowExpress/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Paypal/Model/PayflowExpress/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Paypal/Model/Payflowadvanced/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Paypal/Model/Payflowadvanced/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Paypal/Model/Payflowlink/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Paypal/Model/Payflowlink/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Quote/Model/Quote/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Quote/Model/Quote/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Quote/Model/Quote/Item/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Quote/Model/Quote/Item/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Quote/Model/Quote/Item/Processor/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Quote/Model/Quote/Item/Processor/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Quote/Model/QuoteRepository/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Quote/Model/QuoteRepository/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Review/Model/ResourceModel/Review/Product/Collection/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Review/Model/ResourceModel/Review/Product/Collection/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Sales/Console/Command/EncryptionPaymentDataUpdateCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Sales/Console/Command/EncryptionPaymentDataUpdateCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Sales/Model/Order/CreditmemoRepository/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Sales/Model/Order/CreditmemoRepository/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Sales/Model/Order/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Sales/Model/Order/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Sales/Model/Order/InvoiceRepository/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Sales/Model/Order/InvoiceRepository/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Sales/Model/Order/Item/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Sales/Model/Order/Item/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Sales/Model/Order/Payment/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Sales/Model/Order/Payment/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Sales/Model/Order/ShipmentRepository/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Sales/Model/Order/ShipmentRepository/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Sales/Model/Order/ShippingBuilder/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Sales/Model/Order/ShippingBuilder/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Sales/Model/OrderRepository/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Sales/Model/OrderRepository/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Sales/Model/ResourceModel/Order/Handler/Address/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Sales/Model/ResourceModel/Order/Handler/Address/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Sales/Model/ResourceModel/Order/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Sales/Model/ResourceModel/Order/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/SampleData/Console/Command/SampleDataDeployCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/SampleData/Console/Command/SampleDataDeployCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/SampleData/Console/Command/SampleDataRemoveCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/SampleData/Console/Command/SampleDataRemoveCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/SampleData/Console/Command/SampleDataResetCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/SampleData/Console/Command/SampleDataResetCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Store/Console/Command/StoreListCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Store/Console/Command/StoreListCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Store/Console/Command/WebsiteListCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Store/Console/Command/WebsiteListCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Store/Model/ResourceModel/Store/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Store/Model/ResourceModel/Store/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Store/Model/ResourceModel/Website/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Store/Model/ResourceModel/Website/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Store/Model/Store/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Store/Model/Store/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Store/Model/StoreCookieManager/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Store/Model/StoreCookieManager/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Store/Model/Website/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Store/Model/Website/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Swatches/Block/Product/Renderer/Listing/Configurable/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Swatches/Block/Product/Renderer/Listing/Configurable/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Tax/Model/Sales/Total/Quote/Shipping/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Tax/Model/Sales/Total/Quote/Shipping/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Tax/Model/Sales/Total/Quote/Subtotal/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Tax/Model/Sales/Total/Quote/Subtotal/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Tax/Model/Sales/Total/Quote/Tax/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Tax/Model/Sales/Total/Quote/Tax/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Theme/Block/Html/Topmenu/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Theme/Block/Html/Topmenu/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Theme/Console/Command/ThemeUninstallCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Theme/Console/Command/ThemeUninstallCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Translation/Console/Command/UninstallLanguageCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Translation/Console/Command/UninstallLanguageCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Ui/Controller/Adminhtml/Bookmark/Save/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Ui/Controller/Adminhtml/Bookmark/Save/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Ui/Controller/Adminhtml/Index/Render/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Ui/Controller/Adminhtml/Index/Render/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/User/Console/UnlockAdminAccountCommand/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/User/Console/UnlockAdminAccountCommand/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/User/Model/User/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/User/Model/User/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Vault/Model/Method/NullPaymentProvider/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Vault/Model/Method/NullPaymentProvider/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Vault/Model/Method/Vault/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Vault/Model/Method/Vault/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Webapi/Model/Cache/Type/Webapi/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Webapi/Model/Cache/Type/Webapi/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Widget/Model/Widget/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Widget/Model/Widget/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Wishlist/Block/Catalog/Product/ProductList/Item/AddTo/Wishlist/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Wishlist/Block/Catalog/Product/ProductList/Item/AddTo/Wishlist/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Magento/Wishlist/Block/Customer/Sidebar/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Magento/Wishlist/Block/Customer/Sidebar/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/Prince/Buynow/Block/Product/ListProduct/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/Prince/Buynow/Block/Product/ListProduct/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/SimplifiedMagento/Attribute/Model/Config/Validation/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/SimplifiedMagento/Attribute/Model/Config/Validation/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/code/SimplifiedMagento/FirstModule/Console/Command/HelloWorld/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code/SimplifiedMagento/FirstModule/Console/Command/HelloWorld/Interceptor.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_AdminNotification/template/grid/cells/message.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_AsynchronousOperations/template/grid/cells/actions.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Catalog/catalog/product/attribute/unique-validate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Catalog/js/components/attribute-set-select.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Catalog/js/components/attributes-insert-listing.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Catalog/js/components/dynamic-rows-import-custom-options.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Catalog/js/components/dynamic-rows-tier-price.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Catalog/js/components/import-handler.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Catalog/js/components/new-attribute-insert-form.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Catalog/js/components/new-category.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Catalog/js/components/url-key-handle-changes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Catalog/js/options.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Catalog/js/tier-price/percentage-processor.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Catalog/js/tier-price/value-type-select.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Catalog/js/utils/percentage-price-calculator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_CatalogInventory/js/components/qty-validator-changer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_CatalogInventory/js/components/use-config-min-sale-qty.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_CatalogInventory/js/components/use-config-settings.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_ConfigurableProduct/js/components/associated-product-insert-listing.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_ConfigurableProduct/js/components/container-configurable-handler.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_ConfigurableProduct/js/components/custom-options-warning.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_ConfigurableProduct/js/components/dynamic-rows-configurable.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_ConfigurableProduct/js/components/modal-configurable.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_ConfigurableProduct/js/components/price-configurable.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_ConfigurableProduct/js/variations/variations.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_ConfigurableProduct/product/product.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Downloadable/js/components/is-downloadable-handler.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Eav/js/input-types.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_InventoryCatalogAdminUi/js/product/form/qty.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_InventoryCatalogAdminUi/js/product/form/source-items.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_InventoryCatalogAdminUi/js/product/form/stock-status.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_InventoryConfigurableProductAdminUi/js/components/sources-visibility-checker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_InventorySalesAdminUi/js/product/grid/cell/salable-quantity.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_InventorySalesAdminUi/template/product/grid/cell/salable-quantity.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_ProductVideo/css/gallery-delete-tooltip.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Swatches/css/swatches.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Swatches/js/product-attributes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Swatches/js/text.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Swatches/js/visual.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/dynamic-rows/action-delete.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/dynamic-rows/dnd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/dynamic-rows/dynamic-rows-grid.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/dynamic-rows/dynamic-rows.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/dynamic-rows/record.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/form/components/html.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/form/components/insert-listing.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/form/element/single-checkbox-use-config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/form/element/text.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/form/element/textarea.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/grid/columns/thumbnail.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/grid/tree-massactions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/dynamic-rows/templates/default.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/dynamic-rows/templates/grid.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/form/components/button/container.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/grid/cells/thumbnail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/grid/cells/thumbnail/preview.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/grid/filters/elements/ui-select-optgroup.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/grid/submenu.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/grid/tree-massactions.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/group/group.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Weee/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/fonts/Blank-Theme-Icons/Blank-Theme-Icons.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/jquery/colorpicker/css/colorpicker.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/jquery/colorpicker/js/colorpicker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/jquery/fileUploader/css/jquery.fileupload-ui.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/backend/button.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/deployed_version.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/deployed_version.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/frontend/Magento/luma/en_US/Magento_Catalog/js/catalog-add-to-cart.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/frontend/Magento/luma/en_US/Magento_Catalog/js/price-box.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/frontend/Magento/luma/en_US/Magento_Catalog/js/price-utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/frontend/Magento/luma/en_US/Magento_Catalog/js/product/list/toolbar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/frontend/Magento/luma/en_US/Magento_Catalog/js/product/view/product-ids-resolver.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/frontend/Magento/luma/en_US/Magento_Catalog/js/product/view/product-ids.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/frontend/Magento/luma/en_US/Magento_Cookie/js/require-cookie.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/frontend/Magento/luma/en_US/Magento_Customer/js/address.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/frontend/Magento/luma/en_US/Magento_Customer/js/change-email-password.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/frontend/Magento/luma/en_US/Magento_Customer/js/password-strength-indicator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/frontend/Magento/luma/en_US/Magento_Customer/js/zxcvbn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/frontend/Magento/luma/en_US/Magento_Sales/js/view/last-ordered-items.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/frontend/Magento/luma/en_US/Magento_Swatches/js/swatch-renderer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/frontend/Magento/luma/en_US/Magento_Wishlist/js/add-to-wishlist.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/frontend/Magento/luma/en_US/Prince_Buynow/css/buynow.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/frontend/Magento/luma/en_US/Prince_Buynow/js/buy-now.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/frontend/Magento/luma/en_US/SimplifiedMagento_HelloWorld/js/add-to-cart-mixin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/frontend/Magento/luma/en_US/images/select-bg.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/frontend/Magento/luma/en_US/jquery/jquery.parsequery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/frontend/Magento/luma/en_US/mage/accordion.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/frontend/Magento/luma/en_US/mage/toggle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---def_1A7658C4C40F180CD5414CC43DDBB088D4D68D60" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---def_ATTRIBUTE_METADATA_INSTANCES_CACHECUSTOMERDOB1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---def_ATTRIBUTE_METADATA_INSTANCES_CACHECUSTOMERPREFIX1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---def_BLOCK_A63505DA174568C5D5F92AD8430AFA0F051CD9F7_1738" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---def_CATALOG_ATTRIBUTES" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---def_DB_PDO_MYSQL_DDL_CUSTOMER_ENTITY_3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---def_EAV_ENTITY_ATTRIBUTES_2_1_2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---def_LAYOUT_FRONTEND_STORE1_37C8919AC00014B436DCA2B86A497776E_PAGE_LAYOUT_MERGED" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---def_LAYOUT_FRONTEND_STORE1_3PAGE_LAYOUT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---def_RELEASE_NOTIFICATION_POPUP_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---def_SERVICEINTERFACEMETHODSMAP_1F3F4C8F084348D2C2B5C3E1BB421D71" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---def_STRUCTURE_LAYOUT_ADMINHTML_STORE1_2FC0CB3B6ECD73A6664D7093459BE0538" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---def_STRUCTURE_LAYOUT_FRONTEND_STORE1_3C7461AF04BB11FE209659D7147D2C579" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---def_SWATCH_ATTRIBUTE_LIST" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---def_SYSTEM_STORES_STORE_VIEW1" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--0/mage---def_SYSTEM_STORES_STORE_VIEW1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---def_SYSTEM_WEBSITES_1" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--0/mage---def_SYSTEM_WEBSITES_1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---def_SYSTEM_WEBSITES_2" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--0/mage---def_SYSTEM_WEBSITES_2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---def_THEMEADMINHTML_MAGENTO_BACKEND" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--0/mage---def_THEMEADMINHTML_MAGENTO_BACKEND" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---def_THEMEFRONTEND_MAGENTO_BLANK" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---def_UI_COMPONENT_CONFIGURATION_DATA_CMS_BLOCK_FORM" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---def_Zend_LocaleC_en_US_currencytoname_USD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--1/mage---def_07715B3FBAF7E9D8AA954BB0E3A67679706C8FC6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--1/mage---def_24242D34121944E7CB9B31DC7C474712A2E741FC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--1/mage---def_ADMINHTML__BACKEND_SYSTEM_CONFIGURATION_STRUCTURE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--1/mage---def_ADMINHTML__WIDGET_CONFIG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--1/mage---def_ATTRIBUTE_METADATA_INSTANCES_CACHECUSTOMERLASTNAME1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--1/mage---def_ATTRIBUTE_NAVIGATION_OPTION_FORMAT_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--1/mage---def_BLOCK_10019BA86F329966749719121302AB676119FF01" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--1/mage---def_DB_PDO_MYSQL_DDL_CATALOG_PRODUCT_ENTITY_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--1/mage---def_DICONFIG569DB104F84F324ED94D583AAA4DCAEE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--1/mage---def_EAV_ENTITY_ATTRIBUTES_2_0_0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--1/mage---def_EAV_STORE_LABEL_ATTRIBUTE34" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--1/mage---def_EAV_STORE_LABEL_ATTRIBUTE40" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--1/mage---def_FB1AD889EFE00E32B6D3375E26900010B1E736DA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--1/mage---def_LAYOUT_ADMINHTML_STORE1_2E6FE115BA31D500509103893A62701CF_PAGE_LAYOUT_MERGED" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--1/mage---def_PRODUCT_LISTING_SORT_BY_ATTRIBUTES4_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--1/mage---def_SERVICEINTERFACEMETHODSMAP_B2E1B9CABEF6F2EDD3AA0AFC1BC1A75F" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--1/mage---def_TRANSLATE_EN_US_ADMINHTML_ADMIN_MAGENTO_BACKEND_MAGENTO_BACKEND" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--1/mage---def_TRANSLATE_EN_US_ADMINHTML_ADMIN_MAGENTO_BACKEND_MAGENTO_CMS" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--1/mage---def_TRANSLATE_EN_US_ADMINHTML_ADMIN_MAGENTO_BACKEND_MAGENTO_CMS" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---def_APP_4169C5DEEEB8F84FEFBFAC574BE2769B" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/TrainingManish/CustomerAttribute/view/frontend/templates/account/dashboard/info.phtml" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/TrainingManish/CustomerAttribute/view/frontend/templates/account/dashboard/info.phtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---def_Zend_LocaleC_en_US_currencytoname_USD" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--0/mage---def_Zend_LocaleC_en_US_currencytoname_USD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---def_APP_4169C5DEEEB8F84FEFBFAC574BE2769B" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--2/mage---def_APP_4169C5DEEEB8F84FEFBFAC574BE2769B" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---def_APP_C66873D7398CA590E80B1D94EA2ECEF5" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--2/mage---def_APP_C66873D7398CA590E80B1D94EA2ECEF5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---def_AUTHORIZATION_RULE_CACHED_DATA" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--2/mage---def_AUTHORIZATION_RULE_CACHED_DATA" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---def_BLOCK_41233F520CC64B9155E49CA5DBA68347EAF0256A" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---def_BLOCK_5DD9FF5C1410FC2997D3A778AEEE02694AD0B3C5_1818" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---def_BLOCK_6306536845AB8AC348665674A297084C74115486_1902" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---def_BLOCK_A63505DA174568C5D5F92AD8430AFA0F051CD9F7_1690" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---def_BLOCK_A63505DA174568C5D5F92AD8430AFA0F051CD9F7_1754" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---def_EAV_ENTITY_ATTRIBUTES_4_1_9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---def_EXTENSION_ATTRIBUTES_CONFIG" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--2/mage---def_EXTENSION_ATTRIBUTES_CONFIG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---def_FIELDSET_CONFIG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---def_FRONTEND__ROUTESCONFIG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---def_LAYOUT_FRONTEND_STORE1_36F1B068EC7CCF4878F9284DD1137AFD1_PAGE_LAYOUT_MERGED" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---def_REQUEST_DECLARATION" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---def_SERVICEINTERFACEMETHODSMAP_081054F9BC1B027F095906B4565EC5B4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---def_SYSTEM_SCOPES" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--2/mage---def_SYSTEM_SCOPES" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---def_SYSTEM_WEBSITES_MY_STORE1" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--2/mage---def_SYSTEM_WEBSITES_MY_STORE1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---def_Zend_LocaleC_en_US_nametocurrency_USD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---def_99993EFF1F999B9BDDFF9C5F0CD583E879E831E3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---def_ATTRIBUTE_METADATA_INSTANCES_CACHECUSTOMERMIDDLENAME1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---def_ATTRIBUTE_NAVIGATION_OPTION_CLIMATE_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---def_ATTRIBUTE_NAVIGATION_OPTION_ECO_COLLECTION_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---def_ATTRIBUTE_NAVIGATION_OPTION_SALE_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---def_COLLECTION_C319C3FD037CBC8605769ED682431E0E" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---def_COLLECTION_D6F1C231BE583492AEC4B20887948512" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---def_DB_PDO_MYSQL_DDL_CMS_PAGE_3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---def_EAV_ENTITY_ATTRIBUTES_4_0_0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---def_EAV_STORE_LABEL_ATTRIBUTE39" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---def_LAYOUT_ADMINHTML_STORE1_2" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--3/mage---def_LAYOUT_ADMINHTML_STORE1_2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---def_SERVICEINTERFACEMETHODSMAP_5A95292890A50FCBBE2133A7BF1340F9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---def_SYSTEM_WEBSITES_0" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--3/mage---def_SYSTEM_WEBSITES_0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---def_THEMEFRONTEND_MAGENTO_LUMA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---def_THEME_BY_ID_3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---def_TRANSLATE_EN_US_FRONTEND_DEFAULT_MAGENTO_LUMA_" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---def_ATTRIBUTE_METADATA_INSTANCES_CACHECUSTOMERTAXVAT1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---def_ATTRIBUTE_NAVIGATION_OPTION_COLLAR_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---def_ATTRIBUTE_NAVIGATION_OPTION_SIZE_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---def_BLOCK_5DD9FF5C1410FC2997D3A778AEEE02694AD0B3C5_164" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---def_BLOCK_5DD9FF5C1410FC2997D3A778AEEE02694AD0B3C5_700" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---def_BLOCK_A63505DA174568C5D5F92AD8430AFA0F051CD9F7_1722" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---def_BLOCK_A63505DA174568C5D5F92AD8430AFA0F051CD9F7_1818" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---def_CONFIGURATION_FILES_ACCESS_LEVEL_VERIFICATION" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---def_CONFIGURATION_FILES_ACCESS_LEVEL_VERIFICATION" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---def_DB_PDO_MYSQL_DDL_ADMIN_USER_SESSION_1" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---def_DB_PDO_MYSQL_DDL_ADMIN_USER_SESSION_1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---def_EAV_ENTITY_ATTRIBUTES_1_1_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---def_EAV_STORE_LABEL_ATTRIBUTE141" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---def_EAV_STORE_LABEL_ATTRIBUTE32" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---def_FRONTEND__DICONFIG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---def_INITIAL_CONFIG" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---def_INITIAL_CONFIG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---def_LAYOUT_FRONTEND_STORE1_36B68E49844F921F4E46B71FCED644347_PAGE_LAYOUT_MERGED" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---def_LAYOUT_FRONTEND_STORE1_391901ABDE900E5CE2FA31F9DB00833BA_PAGE_LAYOUT_MERGED" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---def_SECTIONS_INVALIDATION_CONFIG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---def_STRUCTURE_LAYOUT_ADMINHTML_STORE1_2D41D8CD98F00B204E9800998ECF8427E" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---def_STRUCTURE_LAYOUT_ADMINHTML_STORE1_2D41D8CD98F00B204E9800998ECF8427E" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---def_SYSTEM_DEFAULT" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---def_SYSTEM_DEFAULT" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---def_SYSTEM_STORES_1" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---def_SYSTEM_STORES_1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---def_TRANSLATE_EN_US_ADMINHTML_ADMIN_MAGENTO_BACKEND_MAGENTO_UI" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---def_TRANSLATE_EN_US_ADMINHTML_ADMIN_MAGENTO_BACKEND_MAGENTO_UI" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---def_UI_COMPONENT_TEMPLATES" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---def_UI_COMPONENT_TEMPLATES" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---def_Zend_LocaleC_en_US_currencysymbol_" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---def_Zend_LocaleL_en_US_symbols_" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---def_84032410D1DA1E760B085D46E630F83217AF6400" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---def_ATTRIBUTE_METADATA_INSTANCES_CACHECUSTOMERFIRSTNAME1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---def_ATTRIBUTE_METADATA_INSTANCES_CACHECUSTOMERSUFFIX1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---def_ATTRIBUTE_METADATA_INSTANCES_CACHECUSTOMER_ADDRESSALL1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---def_ATTRIBUTE_NAVIGATION_OPTION_MANUFACTURER_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---def_COLLECTION_FF58C6D99650AC320CBA4375E7223E12" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---def_DB_PDO_MYSQL_DDL_CATALOG_PRODUCT_ENTITY_3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---def_DB_PDO_MYSQL_DDL_CUSTOMER_ADDRESS_ENTITY_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---def_DB_PDO_MYSQL_DDL_EAV_ATTRIBUTE_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---def_DB_PDO_MYSQL_DDL_SALES_ORDER_PAYMENT_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---def_DB_PDO_MYSQL_DDL_UI_BOOKMARK_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---def_DICONFIG2F329B12F154DE38CF8380F27D9675A1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---def_EAV_STORE_LABEL_ATTRIBUTE23" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---def_EAV_STORE_LABEL_ATTRIBUTE33" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---def_GLOBAL__DICONFIG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---def_LAYOUT_ADMINHTML_STORE1_26F1B068EC7CCF4878F9284DD1137AFD1_PAGE_LAYOUT_MERGED" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--5/mage---def_LAYOUT_ADMINHTML_STORE1_26F1B068EC7CCF4878F9284DD1137AFD1_PAGE_LAYOUT_MERGED" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---def_PROVIDER_ACL_RESOURCES_CACHE" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--5/mage---def_PROVIDER_ACL_RESOURCES_CACHE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---def_RELEASE_NOTIFICATION_CONTENT_2__3__2_COMMUNITY_EN_US" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---def_SERVICEINTERFACEMETHODSMAP_B522081A64FBE216EBB3559D20D01B76" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---def_STRUCTURE_LAYOUT_FRONTEND_STORE1_36B68E49844F921F4E46B71FCED644347" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---def_STRUCTURE_LAYOUT_FRONTEND_STORE1_3A6C36867E85C9C89105BD96828B3D8F3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---def_UI_COMPONENT_CONFIGURATION_DATA_NOTIFICATION_AREA" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--5/mage---def_UI_COMPONENT_CONFIGURATION_DATA_NOTIFICATION_AREA" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---def_7753E036C587F0D3D85C7E73F593953B8D4A3CCA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---def_ADMINHTML__CONFIG_CACHE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---def_ATTRIBUTE_METADATA_INSTANCES_CACHECUSTOMERGENDER1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---def_B549F2391A4E4C94D7E03E61CF3C837A8AB2451D" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---def_BLOCK_5DD9FF5C1410FC2997D3A778AEEE02694AD0B3C5_1562" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---def_BLOCK_6306536845AB8AC348665674A297084C74115486_1114" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---def_D4DB69BBC8A38F6FD2C7E527B3A103AB1BF1D2C4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---def_DB_PDO_MYSQL_DDL_CUSTOMER_ENTITY_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---def_DB_PDO_MYSQL_DDL_SALES_ORDER_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---def_DESIGN_CHANGE_715C7FDE39DC389AA058482724485F24" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---def_DICONFIG8426A29A8993E4BF15BC2DA496FCB787" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---def_FRONTEND__WIDGET_CONFIG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---def_LAYOUT_ADMINHTML_STORE1_2CF9AB1B1723BEDC1DCD665A812B00335_PAGE_LAYOUT_MERGED" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--6/mage---def_LAYOUT_ADMINHTML_STORE1_2CF9AB1B1723BEDC1DCD665A812B00335_PAGE_LAYOUT_MERGED" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---def_LAYOUT_FRONTEND_STORE1_3C7461AF04BB11FE209659D7147D2C579_PAGE_LAYOUT_MERGED" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---def_PRODUCT_TYPES_CONFIG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---def_STRUCTURE_LAYOUT_ADMINHTML_STORE1_22174B5F72121CA44E31323FD9B80474C" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---def_STRUCTURE_LAYOUT_ADMINHTML_STORE1_2E6FE115BA31D500509103893A62701CF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---def_STRUCTURE_LAYOUT_FRONTEND_STORE1_3115018A2A7E97323F8AE1FC511009F51" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---def_SYSTEM_STORES_ADMIN" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--6/mage---def_SYSTEM_STORES_ADMIN" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---def_TRANSLATE_EN_US_FRONTEND_DEFAULT_MAGENTO_LUMA_MAGENTO_CUSTOMER" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---def_ATTRIBUTE_NAVIGATION_OPTION_CATEGORY_GEAR_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---def_ATTRIBUTE_NAVIGATION_OPTION_PERFORMANCE_FABRIC_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---def_ATTRIBUTE_NAVIGATION_OPTION_STRAP_BAGS_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---def_BLOCK_A63505DA174568C5D5F92AD8430AFA0F051CD9F7_1770" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---def_COLLECTION_8D2C487F4E18AF3D405DDA7C0AE163C1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---def_D57AFD606FD17D51D27499C6FAA180406A904372" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---def_DB_PDO_MYSQL_DDL_CATALOG_CATEGORY_ENTITY_3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---def_DB_PDO_MYSQL_DDL_CUSTOMER_EAV_ATTRIBUTE_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---def_DB_PDO_MYSQL_DDL_QUOTE_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---def_DB_PDO_MYSQL_DDL_SALES_ORDER_ADDRESS_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---def_EAV_ENTITY_ATTRIBUTES_2_0_2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---def_EAV_ENTITY_ATTRIBUTES_BY_SET_ID1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---def_EAV_STORE_LABEL_ATTRIBUTE36" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---def_FRONTEND__EVENT_CONFIG_CACHE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---def_LAYOUT_ADMINHTML_STORE1_2FC0CB3B6ECD73A6664D7093459BE0538_PAGE_LAYOUT_MERGED" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---def_LAYOUT_FRONTEND_STORE1_3115018A2A7E97323F8AE1FC511009F51_PAGE_LAYOUT_MERGED" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---def_LAYOUT_FRONTEND_STORE1_3D41D8CD98F00B204E9800998ECF8427E_PAGE_LAYOUT_MERGED" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---def_SERVICEINTERFACEMETHODSMAP_CCD226BCE2AA2A1F722BEB3017EB6DBB" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---def_STRUCTURE_LAYOUT_FRONTEND_STORE1_37C8919AC00014B436DCA2B86A497776E" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---def_STRUCTURE_LAYOUT_FRONTEND_STORE1_391901ABDE900E5CE2FA31F9DB00833BA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---def_STRUCTURE_LAYOUT_FRONTEND_STORE1_3CD60BD5861930399B146FB5ABDC864AB" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---def_SYSTEM_STORES_2" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--7/mage---def_SYSTEM_STORES_2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---def_SYSTEM_WEBSITES_BASE" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--7/mage---def_SYSTEM_WEBSITES_BASE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---def_Zend_LocaleC_en_US_nametocurrency_" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---def_3B664DEE7186DCDB984A7A5BC98D35413EC61BA4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---def_448F9BC8C3B760DDB11EC1212EE434FA5F809273" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---def_ADMINHTML__RESOURCESCACHE" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---def_ADMINHTML__RESOURCESCACHE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---def_ATTRIBUTE_NAVIGATION_OPTION_GENDER_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---def_ATTRIBUTE_NAVIGATION_OPTION_SLEEVE_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---def_BLOCK_A7B0164946D947E2D11F34760570F721568F98D0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---def_DB_PDO_MYSQL_DDL_CMS_BLOCK_3" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---def_DB_PDO_MYSQL_DDL_CMS_BLOCK_3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---def_DB_PDO_MYSQL_DDL_QUOTE_ADDRESS_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---def_DB_PDO_MYSQL_DDL_SALES_ORDER_ITEM_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---def_EAV_ENTITY_ATTRIBUTESCATALOG_PRODUCT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---def_INDEXER_CONFIG" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---def_INDEXER_CONFIG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---def_LAYOUT_ADMINHTML_STORE1_22174B5F72121CA44E31323FD9B80474C_PAGE_LAYOUT_MERGED" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---def_LAYOUT_ADMINHTML_STORE1_2F695F3C45C1EB298DA135279FB0721D6_PAGE_LAYOUT_MERGED" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---def_LAYOUT_ADMINHTML_STORE1_2F695F3C45C1EB298DA135279FB0721D6_PAGE_LAYOUT_MERGED" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---def_LAYOUT_ADMINHTML_STORE1_2PAGE_LAYOUT" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---def_LAYOUT_ADMINHTML_STORE1_2PAGE_LAYOUT" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---def_APP_84AD731899034CBB84040113639CC5BF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---def_ATTRIBUTE_NAVIGATION_OPTION_ACTIVITY_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---def_AUTHORIZATION_ROLE_CACHED_DATA" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---def_AUTHORIZATION_ROLE_CACHED_DATA" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---def_BLOCK_4FCF954951ACBD49B0486D818717586EB0D7E95E" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---def_BLOCK_4FCF954951ACBD49B0486D818717586EB0D7E95E" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---def_BLOCK_A63505DA174568C5D5F92AD8430AFA0F051CD9F7_1706" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---def_BLOCK_A63505DA174568C5D5F92AD8430AFA0F051CD9F7_1786" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---def_DB_PDO_MYSQL_DDL_THEME_1" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---def_DB_PDO_MYSQL_DDL_THEME_1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---def_EAV_STORE_LABEL_ATTRIBUTE27" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---def_FRONTEND__RESOURCESCACHE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---def_LAYOUT_FRONTEND_STORE1_3A7CCD8094436548B564A588F6303121C_PAGE_LAYOUT_MERGED" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---def_SERVICEINTERFACEMETHODSMAP_A42C212C5BFEA0CD279B95E1C8B3DA6F" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---def_THEME_BY_ID_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---def_UI_COMPONENT_CONFIGURATION_DATA_PRODUCT_LISTING" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---def_Zend_LocaleC_en_US_currencynumber_" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---def_Zend_LocaleC_en_US_currencysymbol_USD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---def_Zend_LocaleC_en_US_currencytoregion_US" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---def_5B158254F335927B530734B12DD3EF0FDDEB5764" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---def_ADDRESS_FORMAT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---def_BLOCK_1E8063C8FFF012C635DF25315E0C93DB85C4A806" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---def_COLLECTION_63A0AC16DEB5E07F568A3C486AEFB91E" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---def_CORE_CACHE_INVALIDATE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---def_DB_PDO_MYSQL_DDL_QUOTE_ITEM_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---def_EAV_STORE_LABEL_ATTRIBUTE24" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---def_EAV_STORE_LABEL_ATTRIBUTE35" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---def_EAV_STORE_LABEL_ATTRIBUTE38" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---def_LAYOUT_FRONTEND_STORE1_3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---def_SALES_TOTALS_CONFIG_CACHE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---def_STRUCTURE_LAYOUT_ADMINHTML_STORE1_26F1B068EC7CCF4878F9284DD1137AFD1" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--a/mage---def_STRUCTURE_LAYOUT_ADMINHTML_STORE1_26F1B068EC7CCF4878F9284DD1137AFD1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---def_UI_COMPONENT_CONFIGURATION_DEFINITION_DATA" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--a/mage---def_UI_COMPONENT_CONFIGURATION_DEFINITION_DATA" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---def_ADMINHTML__DICONFIG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---def_ATTRIBUTE_NAVIGATION_OPTION_COLOR_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---def_ATTRIBUTE_NAVIGATION_OPTION_MATERIAL_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---def_ATTRIBUTE_NAVIGATION_OPTION_NEW_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---def_BLOCK_79AC40D0184A9E56D777F335BE0EA7199A6D360C" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---def_COLLECTION_01070DC35759FD33A31F3F35A7130548" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---def_COUNTRYOFMANUFACTURE_SELECT_STORE_DEFAULT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---def_DB_PDO_MYSQL_DDL_CMS_BLOCK_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---def_DB_PDO_MYSQL_DDL_SALES_ORDER_STATUS_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---def_DESIGN__WIDGET_CONFIG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---def_EAV_ENTITY_ATTRIBUTES_3_0_3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---def_EAV_ENTITY_ATTRIBUTES_BY_SET_ID2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---def_GLOBAL_PRIMARY_FRONTEND_PLUGIN_LIST" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---def_LAYOUT_FRONTEND_STORE1_30A98983867A1770682B48D9A0AD63441_PAGE_LAYOUT_MERGED" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---def_LAYOUT_FRONTEND_STORE1_3A6C36867E85C9C89105BD96828B3D8F3_PAGE_LAYOUT_MERGED" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---def_PRODUCT_OPTIONS_CONFIG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---def_SORTED_QUOTE_COLLECTORS" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---def_Zend_LocaleC_en_US_parentlocale_" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---def_A1213F94537171341D3D88219029C40CFC9C5A12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---def_Zend_LocaleC_en_US_nametocurrency_USD" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--2/mage---def_Zend_LocaleC_en_US_nametocurrency_USD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---def_Zend_LocaleC_en_US_currencysymbol_" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---def_Zend_LocaleC_en_US_currencysymbol_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---def_Zend_LocaleL_en_US_symbols_" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---def_Zend_LocaleL_en_US_symbols_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---def_BLOCK_AAF7E66BB5DEE9649796FCC1799B88737ED00559" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--5/mage---def_BLOCK_AAF7E66BB5DEE9649796FCC1799B88737ED00559" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---def_TRANSLATE_EN_US_FRONTEND_DEFAULT_MAGENTO_LUMA_MAGENTO_CUSTOMER" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--6/mage---def_TRANSLATE_EN_US_FRONTEND_DEFAULT_MAGENTO_LUMA_MAGENTO_CUSTOMER" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---def_Zend_LocaleC_en_US_nametocurrency_" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--7/mage---def_Zend_LocaleC_en_US_nametocurrency_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---def_BLOCK_A7B0164946D947E2D11F34760570F721568F98D0" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---def_BLOCK_A7B0164946D947E2D11F34760570F721568F98D0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---def_Zend_LocaleC_en_US_currencynumber_" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---def_Zend_LocaleC_en_US_currencynumber_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---def_Zend_LocaleC_en_US_currencysymbol_USD" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---def_Zend_LocaleC_en_US_currencysymbol_USD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---def_Zend_LocaleC_en_US_currencytoregion_US" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---def_Zend_LocaleC_en_US_currencytoregion_US" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---def_BLOCK_79AC40D0184A9E56D777F335BE0EA7199A6D360C" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--b/mage---def_BLOCK_79AC40D0184A9E56D777F335BE0EA7199A6D360C" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---def_Zend_LocaleC_en_US_parentlocale_" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--b/mage---def_Zend_LocaleC_en_US_parentlocale_" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---def_APP_35C0BF370AE35F8C482DC31B8A81FC2F" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---def_APP_35C0BF370AE35F8C482DC31B8A81FC2F" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---def_APP_CE79F7EF764E9F981C8549B9DBEC468F" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---def_ATTRIBUTE_NAVIGATION_OPTION_STYLE_BOTTOM_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---def_BLOCK_6306536845AB8AC348665674A297084C74115486_1818" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---def_BLOCK_A63505DA174568C5D5F92AD8430AFA0F051CD9F7_1802" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---def_EAV_ENTITY_ATTRIBUTESCUSTOMER_ADDRESS" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---def_EAV_STORE_LABEL_ATTRIBUTE22" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---def_EAV_STORE_LABEL_ATTRIBUTE25" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---def_EAV_STORE_LABEL_ATTRIBUTE26" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---def_EAV_STORE_LABEL_ATTRIBUTE37" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---def_GLOBAL__CONFIG_CACHE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---def_GLOBAL__EVENT_CONFIG_CACHE" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---def_GLOBAL__EVENT_CONFIG_CACHE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---def_LAYOUT_ADMINHTML_STORE1_2D41D8CD98F00B204E9800998ECF8427E_PAGE_LAYOUT_MERGED" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---def_LAYOUT_ADMINHTML_STORE1_2D41D8CD98F00B204E9800998ECF8427E_PAGE_LAYOUT_MERGED" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---def_SYSTEM_STORES_0" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---def_SYSTEM_STORES_0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---def_SYSTEM_STORES_DEFAULT" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---def_SYSTEM_STORES_DEFAULT" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---def_3FF3061ACB94789D65399028E57C276FD8C854C6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---def_ATTRIBUTE_METADATA_INSTANCES_CACHECUSTOMERCUSTOM1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---def_ATTRIBUTE_NAVIGATION_OPTION_ERIN_RECOMMENDS_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---def_ATTRIBUTE_NAVIGATION_OPTION_PATTERN_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---def_BACKEND_MENU_OBJECT" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---def_BACKEND_MENU_OBJECT" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---def_BLOCK_41894734AC0DD5FF6504D4CD595ECEC826FFA848" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---def_DB_IS_UP_TO_DATE" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---def_DB_IS_UP_TO_DATE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---def_EAV_ENTITY_ATTRIBUTES_3_1_3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---def_EAV_STORE_LABEL_ATTRIBUTE29" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---def_GLOBAL_PRIMARY_PLUGIN_LIST" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---def_PRODUCT_LISTING_ATTRIBUTES4_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---def_SERVICEINTERFACEMETHODSMAP_40C18F534FD4E574DAFE9DF0A81001C3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---def_STRUCTURE_LAYOUT_FRONTEND_STORE1_36F1B068EC7CCF4878F9284DD1137AFD1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---def_STRUCTURE_LAYOUT_FRONTEND_STORE1_3D41D8CD98F00B204E9800998ECF8427E" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---def_SYSTEM_STORES_3" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---def_SYSTEM_STORES_3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---def_SYSTEM_STORES_FRENCH" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---def_SYSTEM_STORES_FRENCH" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---def_SYSTEM_WEBSITES_ADMIN" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---def_SYSTEM_WEBSITES_ADMIN" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---def_TRANSLATE_EN_US_ADMINHTML_ADMIN_MAGENTO_BACKEND_MAGENTO_CATALOG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---def_TRANSLATE_EN_US_FRONTEND_DEFAULT_MAGENTO_LUMA_MAGENTO_CMS" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---def_UI_COMPONENT_CONFIGURATION_DATA_CMS_BLOCK_LISTING" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---def_UI_COMPONENT_CONFIGURATION_DATA_CMS_BLOCK_LISTING" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---def_ADMINHTML__ROUTESCONFIG" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--e/mage---def_ADMINHTML__ROUTESCONFIG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---def_ADMIN_NOTIFICATIONS_LASTCHECK" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--e/mage---def_ADMIN_NOTIFICATIONS_LASTCHECK" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---def_APP_108B5EBA5ECACA9F6E9F88D4CD04D6E0" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--e/mage---def_APP_108B5EBA5ECACA9F6E9F88D4CD04D6E0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---def_ATTRIBUTE_NAVIGATION_OPTION_FEATURES_BAGS_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---def_ATTRIBUTE_NAVIGATION_OPTION_FLOWERS_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---def_ATTRIBUTE_NAVIGATION_OPTION_STYLE_BAGS_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---def_ATTRIBUTE_NAVIGATION_OPTION_STYLE_GENERAL_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---def_BLOCK_6306536845AB8AC348665674A297084C74115486_1562" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---def_BLOCK_BB3B1886461436A64C8BFA5A32B9291D6602995A" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---def_DB_PDO_MYSQL_DDL_CUSTOMER_ADDRESS_ENTITY_3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---def_DB_PDO_MYSQL_DDL_CUSTOMER_EAV_ATTRIBUTE_WEBSITE_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---def_EAV_ENTITY_TYPES" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--e/mage---def_EAV_ENTITY_TYPES" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---def_EAV_STORE_LABEL_ATTRIBUTE30" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---def_EAV_STORE_LABEL_ATTRIBUTE31" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---def_RESOLVED_STORES_D1BEFA03C79CA0B84ECC488DEA96BC68" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--e/mage---def_RESOLVED_STORES_D1BEFA03C79CA0B84ECC488DEA96BC68" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---def_SERVICEINTERFACEMETHODSMAP_3F1BE531F7EB7641F0A4608145EB7695" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---def_STRUCTURE_LAYOUT_ADMINHTML_STORE1_2F695F3C45C1EB298DA135279FB0721D6" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--e/mage---def_STRUCTURE_LAYOUT_ADMINHTML_STORE1_2F695F3C45C1EB298DA135279FB0721D6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---def_SYSTEM" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--e/mage---def_SYSTEM" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---def_THEME_BY_ID_2" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--e/mage---def_THEME_BY_ID_2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---def_6B9AEE329638C32EF1C49A913F04DB36454F0410" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---def_ADMINHTML__EVENT_CONFIG_CACHE" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--f/mage---def_ADMINHTML__EVENT_CONFIG_CACHE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---def_APP_ACTION_LIST" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--f/mage---def_APP_ACTION_LIST" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---def_BLOCK_74ACA5DC3F6523B2EFC3C83299950588F70556BE" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--f/mage---def_BLOCK_74ACA5DC3F6523B2EFC3C83299950588F70556BE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---def_CRON_GROUPS_CONFIG_CACHE" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--f/mage---def_CRON_GROUPS_CONFIG_CACHE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---def_EAV_STORE_LABEL_ATTRIBUTE28" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---def_EAV_STORE_LABEL_ATTRIBUTE93" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---def_F36D4F6FE84DCDDE3287C724DC4B74EC8B25F57A" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---def_GLOBAL_PRIMARY_ADMINHTML_PLUGIN_LIST" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---def_GLOBAL__WIDGET_CONFIG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---def_INTERCEPTION" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---def_LAYOUT_FRONTEND_STORE1_3CD60BD5861930399B146FB5ABDC864AB_PAGE_LAYOUT_MERGED" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---def_PAYMENT_CONFIG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_1COLUMN" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_2COLUMNS_LEFT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_ACL_CACHE" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_ACL_CACHE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_ADMINHTML_AUTH_LOGIN" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_ADMINHTML_CACHE_INDEX" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_ADMINHTML_DASHBOARD_INDEX" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_ADMINHTML_SYSTEM_CONFIG_EDIT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_ADMIN_1COLUMN" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_ADMIN_1COLUMN" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_ADMIN_2COLUMNS_LEFT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_ADMIN_LOGIN" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_BACKEND_MAINMENU" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_BACKEND_MAINMENU" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---def_APP_CE79F7EF764E9F981C8549B9DBEC468F" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---def_APP_CE79F7EF764E9F981C8549B9DBEC468F" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---def_BLOCK_320E1AE77F69EC4FE3272BB6DE0B9C9398F8D9C3" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---def_BLOCK_320E1AE77F69EC4FE3272BB6DE0B9C9398F8D9C3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---def_BLOCK_41894734AC0DD5FF6504D4CD595ECEC826FFA848" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---def_BLOCK_41894734AC0DD5FF6504D4CD595ECEC826FFA848" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_BLOCK_HTML" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_BLOCK_HTML" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CATALOG_CATEGORY_VIEW" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CATALOG_CATEGORY_VIEW_ID_20" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CATALOG_CATEGORY_VIEW_ID_21" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CATALOG_CATEGORY_VIEW_LAYOUT_UPDATE_2BEA8C38DE16F78B6A187CF669977B6C494ED253" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CATALOG_CATEGORY_VIEW_TYPE_DEFAULT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CATALOG_CATEGORY_VIEW_TYPE_LAYERED" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CATALOG_PRODUCT_ATTRIBUTE_EDIT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CATALOG_PRODUCT_ATTRIBUTE_INDEX" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CATALOG_PRODUCT_EDIT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CATALOG_PRODUCT_INDEX" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CATALOG_PRODUCT_PRICES" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CATALOG_PRODUCT_PRICES" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CATALOG_PRODUCT_SIMPLE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CATALOG_WIDGET_PRODUCT_LIST" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_C" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_C_11" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_C_20" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_C_21" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_C_3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_C_37" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_C_38" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_C_9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_C_P_20" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_C_P_21" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1099" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1100" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1101" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1102" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1103" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1104" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1105" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1106" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1107" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1108" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1109" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1110" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1111" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1112" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1113" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1114" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_14" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_149" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_150" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_151" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_152" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_153" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_154" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1547" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1548" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1549" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_155" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1550" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1551" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1552" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1553" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1554" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1555" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1556" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1557" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1558" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1559" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_156" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1560" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1561" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1562" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_157" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_158" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_159" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_160" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_161" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_162" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_163" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_164" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1675" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1676" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1677" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1678" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1679" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1680" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1681" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1682" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1683" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1684" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1685" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1686" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1687" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1688" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1689" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1690" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1691" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1692" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1693" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1694" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1695" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1696" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1697" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1698" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1699" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1700" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1701" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1702" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1703" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1704" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1705" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1706" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1707" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1708" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1709" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1710" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1711" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1712" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1713" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1714" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1715" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1716" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1717" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1718" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1719" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1720" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1721" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1722" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1723" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1724" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1725" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1726" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1727" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1728" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1729" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1730" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1731" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1732" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1733" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1734" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1735" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1736" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1737" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1738" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1739" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1740" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1741" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1742" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1743" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1744" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1745" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1746" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1747" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1748" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1749" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1750" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1751" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1752" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1753" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1754" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1755" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1756" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1757" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1758" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1759" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1760" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1761" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1762" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1763" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1764" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1765" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1766" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1767" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1768" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1769" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1770" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1771" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1772" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1773" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1774" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1775" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1776" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1777" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1778" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1779" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1780" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1781" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1782" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1783" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1784" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1785" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1786" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1787" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1788" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1789" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1790" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1791" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1792" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1793" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1794" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1795" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1796" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1797" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1798" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1799" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1800" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1801" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1802" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1803" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1804" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1805" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1806" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1807" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1808" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1809" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1810" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1811" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1812" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1813" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1814" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1815" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1816" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1817" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1818" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1896" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1897" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1898" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1899" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1900" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1901" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_1902" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_47" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_695" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_696" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_697" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_698" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_699" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_P_700" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CMS_B" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CMS_BLOCK_EDIT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CMS_BLOCK_INDEX" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CMS_BLOCK_INDEX" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CMS_B_" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CMS_B_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CMS_B_14" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CMS_B_6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CMS_B_8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CMS_B_FOOTER_LINKS_BLOCK" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CMS_B_HOME_PAGE_BLOCK" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CMS_B_WOMEN_BLOCK" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CMS_B_WOMEN_LEFT_MENU_BLOCK" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CMS_INDEX_INDEX" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CMS_INDEX_INDEX_ID_HOME" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CMS_PAGE_VIEW" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CMS_P_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_C" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_C" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_C_11" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_C_11" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_C_20" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_C_20" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_C_3" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_C_3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_C_37" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_C_37" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_C_38" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_C_38" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_C_9" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CAT_C_9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CMS_B" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CMS_B" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_COLLECTION_DATA" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_COLLECTION_DATA" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_COMPILED_CONFIG" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_COMPILED_CONFIG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CONFIG" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CONFIG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CONFIGURABLE_1114" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CONFIGURABLE_1562" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CONFIGURABLE_164" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CONFIGURABLE_1690" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CONFIGURABLE_1706" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CONFIGURABLE_1722" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CONFIGURABLE_1738" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CONFIGURABLE_1754" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CONFIGURABLE_1770" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CONFIGURABLE_1786" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CONFIGURABLE_1802" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CONFIGURABLE_1818" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CONFIGURABLE_1902" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CONFIGURABLE_700" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CONFIG_SCOPES" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CONFIG_SCOPES" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CORE_DESIGN" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CUSTOMER_ACCOUNT_EDIT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CUSTOMER_ACCOUNT_INDEX" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CUSTOMER_ADDRESS_INDEX" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CUSTOMER_INDEX_INDEX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CORE_DESIGN" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_CORE_DESIGN" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_DB_DDL" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_DB_DDL" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_DB_PDO_MYSQL_DDL" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_DB_PDO_MYSQL_DDL" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_DEFAULT" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_DEFAULT" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_EAV" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_EAV" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_EAV_ATTRIBUTE" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_EAV_ATTRIBUTE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_FPC" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_LAYOUT_GENERAL_CACHE_TAG" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_LAYOUT_GENERAL_CACHE_TAG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_MAGE" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_MAGE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_PRICE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_REFLECTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_REFLECTION" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_REFLECTION" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_STORE" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_STORE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_STORE_RELATIONS" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_STORE_RELATIONS" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_TRANSLATE" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_TRANSLATE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_WEBSERVICE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_WEBSITE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_Zend_Locale" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_Zend_Locale" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---def_Zend_Locale" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/var/log/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/var/log/debug.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/var/log/system.log" beforeDir="false" afterPath="$PROJECT_DIR$/var/log/system.log" afterDir="false" />
     </list>
@@ -955,26 +88,7 @@
     <favorites_list name="magento" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/HeaderBlock/view/frontend/layout/default.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/HeaderBlock/view/frontend/templates/static_block.phtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="7" column="130" selection-start-line="7" selection-start-column="130" selection-end-line="7" selection-end-column="130" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -1062,7 +176,6 @@
         <option value="$PROJECT_DIR$/app/code/TrainingManish/CustomerAttribute/Block/viewNickName.php" />
         <option value="$PROJECT_DIR$/app/code/TrainingManish/CustomerAttribute/Block/ViewNickName.php" />
         <option value="$PROJECT_DIR$/app/code/TrainingManish/CustomerAttribute/view/frontend/layout/customer_account_index.xml" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/CustomerAttribute/view/frontend/templates/account/dashboard/info.phtml" />
         <option value="$PROJECT_DIR$/app/code/TrainingManish/ProductAttribute/registration.php" />
         <option value="$PROJECT_DIR$/app/code/TrainingManish/ProductAttribute/etc/module.xml" />
         <option value="$PROJECT_DIR$/app/code/TrainingManish/ProductAttribute/Setup/Patch/Data/AddProductAttribute.php" />
@@ -1070,6 +183,7 @@
         <option value="$PROJECT_DIR$/app/code/TrainingManish/HeaderBlock/etc/module.xml" />
         <option value="$PROJECT_DIR$/app/code/TrainingManish/HeaderBlock/view/frontend/layout/default.xml" />
         <option value="$PROJECT_DIR$/app/code/TrainingManish/HeaderBlock/view/frontend/templates/static_block.phtml" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/CustomerAttribute/view/frontend/templates/account/dashboard/info.phtml" />
       </list>
     </option>
   </component>
@@ -1527,7 +641,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1559,7 +672,7 @@
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
               <item name="TrainingManish" type="462c0819:PsiDirectoryNode" />
-              <item name="HeaderBlock" type="462c0819:PsiDirectoryNode" />
+              <item name="CustomerAttribute" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="magento" type="b2602c69:ProjectViewProjectNode" />
@@ -1567,7 +680,7 @@
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
               <item name="TrainingManish" type="462c0819:PsiDirectoryNode" />
-              <item name="HeaderBlock" type="462c0819:PsiDirectoryNode" />
+              <item name="CustomerAttribute" type="462c0819:PsiDirectoryNode" />
               <item name="view" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -1576,7 +689,7 @@
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
               <item name="TrainingManish" type="462c0819:PsiDirectoryNode" />
-              <item name="HeaderBlock" type="462c0819:PsiDirectoryNode" />
+              <item name="CustomerAttribute" type="462c0819:PsiDirectoryNode" />
               <item name="view" type="462c0819:PsiDirectoryNode" />
               <item name="frontend" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -1586,7 +699,7 @@
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
               <item name="TrainingManish" type="462c0819:PsiDirectoryNode" />
-              <item name="HeaderBlock" type="462c0819:PsiDirectoryNode" />
+              <item name="CustomerAttribute" type="462c0819:PsiDirectoryNode" />
               <item name="view" type="462c0819:PsiDirectoryNode" />
               <item name="frontend" type="462c0819:PsiDirectoryNode" />
               <item name="layout" type="462c0819:PsiDirectoryNode" />
@@ -1597,7 +710,7 @@
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
               <item name="TrainingManish" type="462c0819:PsiDirectoryNode" />
-              <item name="HeaderBlock" type="462c0819:PsiDirectoryNode" />
+              <item name="CustomerAttribute" type="462c0819:PsiDirectoryNode" />
               <item name="view" type="462c0819:PsiDirectoryNode" />
               <item name="frontend" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
@@ -1605,52 +718,33 @@
             <path>
               <item name="magento" type="b2602c69:ProjectViewProjectNode" />
               <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="module-theme" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="module-theme" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="module-theme" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="TrainingManish" type="462c0819:PsiDirectoryNode" />
+              <item name="CustomerAttribute" type="462c0819:PsiDirectoryNode" />
               <item name="view" type="462c0819:PsiDirectoryNode" />
               <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="account" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="magento" type="b2602c69:ProjectViewProjectNode" />
               <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="module-theme" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="TrainingManish" type="462c0819:PsiDirectoryNode" />
+              <item name="CustomerAttribute" type="462c0819:PsiDirectoryNode" />
               <item name="view" type="462c0819:PsiDirectoryNode" />
               <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="layout" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="account" type="462c0819:PsiDirectoryNode" />
+              <item name="dashboard" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1743,7 +837,8 @@
       <workItem from="1575616946940" duration="4755000" />
       <workItem from="1575637048080" duration="1360000" />
       <workItem from="1575639494178" duration="74000" />
-      <workItem from="1575867283507" duration="26406000" />
+      <workItem from="1575867283507" duration="27287000" />
+      <workItem from="1575952641158" duration="1245000" />
     </task>
     <task id="LOCAL-00001" summary="This is just for testing from Phpstrom">
       <created>1575365574327</created>
@@ -1756,7 +851,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="452347000" />
+    <option name="totallyTimeSpent" value="454473000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -1769,9 +864,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1368" height="742" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49261084" visible="true" weight="0.27121213" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49261084" visible="true" weight="0.27575758" />
       <window_info id="Structure" order="1" sideWeight="0.5073892" side_tool="true" weight="0.22954546" />
       <window_info id="Favorites" order="2" sideWeight="0.5073892" side_tool="true" weight="0.22954546" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -1793,7 +887,7 @@
       <window_info anchor="right" id="Database" order="3" weight="0.34040996" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49261084" visible="true" weight="0.27121213" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49261084" visible="true" weight="0.27575758" />
       <window_info id="Structure" order="1" sideWeight="0.5073892" side_tool="true" weight="0.22954546" />
       <window_info id="Favorites" order="2" sideWeight="0.5073892" side_tool="true" weight="0.22954546" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -1898,16 +992,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/CustomerAttribute/Helper/Data.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="e#61#115#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/CustomerAttribute/Helper/Data.php" />
     <entry file="file://$PROJECT_DIR$/app/code/Eadesigndev/RomCity/Controller/Adminhtml/Index/Upload.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="178">
@@ -1938,13 +1023,6 @@
     <entry file="file://$PROJECT_DIR$/var/log/test.log">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/CustomerAttribute/view/frontend/templates/nick_name.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/CustomerAttribute/Ui/Component/Listing/Column/NickName.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="376">
@@ -1955,20 +1033,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/view/frontend/templates/account/dashboard/info.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="19" column="58" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/CustomerAttribute/Block/ViewNickName.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="26" column="59" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/CustomerAttribute/Block/ViewNickName.php" />
     <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/CustomerAttribute/Block/NickNameFiled.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -1976,13 +1041,6 @@
           <folding>
             <element signature="e#59#113#0#PHP" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/CustomerAttribute/view/frontend/templates/account/dashboard/info.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -2100,13 +1158,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/CustomerAttribute/view/frontend/layout/customer_account_index.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/HeaderBlock/registration.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -2135,13 +1186,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/view/frontend/layout/customer_address_index.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="49" lean-forward="true" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/view/frontend/layout/customer_address_form.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -2151,13 +1195,6 @@
     <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/view/frontend/layout/customer_account_login.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-27" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/view/frontend/layout/customer_account_index.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/view/frontend/layout/customer_account_forgotpassword.xml">
@@ -2188,6 +1225,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="7" column="130" selection-start-line="7" selection-start-column="130" selection-end-line="7" selection-end-column="130" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/CustomerAttribute/view/frontend/templates/account/dashboard/info.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/CustomerAttribute/view/frontend/templates/nick_name.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/view/frontend/layout/customer_address_index.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="49" lean-forward="true" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/view/frontend/layout/customer_account_index.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="110" selection-start-line="16" selection-start-column="79" selection-end-line="16" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/view/frontend/templates/account/dashboard/info.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/CustomerAttribute/view/frontend/layout/customer_account_index.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
         </state>
       </provider>
     </entry>

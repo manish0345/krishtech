@@ -5,7 +5,7 @@ if($block->getFieldValue() == '1') {
     $objectManager = \Magento\Framework\App\ObjectManager::getInstance();
     $customerSession = $objectManager->create('Magento\Customer\Model\Session');
     $id = $customerSession->getCustomer()->getId();
-    $customer =    $objectManager->create('Magento\Customer\Model\Customer')->load($id);
+    $customer = $objectManager->create('Magento\Customer\Model\Customer')->load($id);
     ?>
     <p><?= $block->escapeHtml(__('Nick Name:- '. $customer->getNickName())) ?></p>
 <?php } ?>
