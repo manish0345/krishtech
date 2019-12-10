@@ -245,6 +245,7 @@ return [
         'MagePal_GmailSmtpApp' => 1,
         'Prince_Buynow' => 1,
         'Temando_Shipping' => 1,
+        'TrainingManish_CategoryModule' => 1,
         'TrainingManish_CustomerAttribute' => 1,
         'TrainingManish_HeaderBlock' => 1,
         'TrainingManish_ProductAttribute' => 1,
