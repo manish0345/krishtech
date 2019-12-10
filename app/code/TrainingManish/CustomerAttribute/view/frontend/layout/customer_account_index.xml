@@ -3,7 +3,11 @@
         <referenceContainer name="content">
             <block class="Magento\Customer\Block\Account\Dashboard\Info" name="customer_account_dashboard_info" as="info" template="Magento_Customer::account/dashboard/info.phtml" cacheable="false">
                 <container name="customer.account.dashboard.info.extra">
-                    <block class="TrainingManish\CustomerAttribute\Block\NickNameFiled" name="customer.account.dashboard.info.extra.username.login" template="TrainingManish_CustomerAttribute::account/dashboard/info.phtml"/>
+                    <block class="Magento\Framework\View\Element\Template" name="customer.account.dashboard.info.extra.username.login" template="TrainingManish_CustomerAttribute::account/dashboard/info.phtml">
+                        <arguments>
+                            <argument name="view_model" xsi:type="object">TrainingManish\CustomerAttribute\ViewModel\ViewNickName</argument>
+                        </arguments>
+                    </block>
                 </container>
             </block>
         </referenceContainer>

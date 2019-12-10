@@ -1,11 +1,8 @@
 <?php
 /** @var \Magento\Customer\Block\Account\Dashboard\Info $block */
 
-if($block->getFieldValue() == '1') {
-    $objectManager = \Magento\Framework\App\ObjectManager::getInstance();
-    $customerSession = $objectManager->create('Magento\Customer\Model\Session');
-    $id = $customerSession->getCustomer()->getId();
-    $customer = $objectManager->create('Magento\Customer\Model\Customer')->load($id);
-    ?>
-    <p><?= $block->escapeHtml(__('Nick Name:- '. $customer->getNickName())) ?></p>
-<?php } ?>
+$viewModel = $block->getData('view_model');
+if($viewModel->CustomNickName()) :
+?>
+<p><?= $block->escapeHtml(__('Nick Name:- '. $viewModel->CustomNickName())) ?></p>
+<?php endif; ?>
