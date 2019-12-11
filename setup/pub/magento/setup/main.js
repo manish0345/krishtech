@@ -131,7 +131,7 @@ main.controller('navigationController',
                 if (self.isLoadedStates == false) {
                     data.nav.forEach(function (item) {
                         app.stateProvider.state(item.id, item);
-                        if (item.default) {
+                        if (item.local) {
                             self.mainState = item;
                         }
 

@@ -29392,8 +29392,8 @@
 
             if (isNumber(debounceDelay[trigger])) {
                 debounceDelay = debounceDelay[trigger];
-            } else if (isNumber(debounceDelay['default'])) {
-                debounceDelay = debounceDelay['default'];
+            } else if (isNumber(debounceDelay['local.xml'])) {
+                debounceDelay = debounceDelay['local.xml'];
             }
 
             this.$$timeout.cancel(this.$$pendingDebounce);
