@@ -77,7 +77,7 @@ define([
             requestConfig: {
                 method: 'POST',
                 dataType: 'json',
-                ajaxSaveType: 'default',
+                ajaxSaveType: 'local.xml',
                 ignoreProcessEvents: true
             },
             requestSent: 0
