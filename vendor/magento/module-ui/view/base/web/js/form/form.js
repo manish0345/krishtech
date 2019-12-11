@@ -168,7 +168,7 @@ define([
             errorClass: '.admin__field._error',
             eventPrefix: '.${ $.index }',
             ajaxSave: false,
-            ajaxSaveType: 'default',
+            ajaxSaveType: 'local.xml',
             imports: {
                 reloadUrl: '${ $.provider}:reloadUrl'
             },

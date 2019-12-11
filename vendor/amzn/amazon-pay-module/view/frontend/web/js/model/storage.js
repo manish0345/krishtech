@@ -37,7 +37,7 @@ define(
             //eslint-disable-next-line no-use-before-define
             amazonLoginError = amazonCore.amazonLoginError.subscribe(setAmazonLoggedOutIfLoginError),
             amazonDeclineCode = ko.observable(false),
-            sandboxSimulationReference = ko.observable('default'),
+            sandboxSimulationReference = ko.observable('local.xml'),
             isPlaceOrderDisabled = ko.observable(false),
             isShippingMethodsLoading = ko.observable(false),
             isAmazonShippingAddressSelected = ko.observable(false),

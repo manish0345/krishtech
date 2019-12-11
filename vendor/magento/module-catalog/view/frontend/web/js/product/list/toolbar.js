@@ -64,7 +64,7 @@ define([
             this.changeUrl(
                 event.data.paramName,
                 $(event.currentTarget).data('value'),
-                event.data.default
+                event.data.local
             );
         },
 
@@ -76,7 +76,7 @@ define([
             this.changeUrl(
                 event.data.paramName,
                 event.currentTarget.options[event.currentTarget.selectedIndex].value,
-                event.data.default
+                event.data.local
             );
         },
 
