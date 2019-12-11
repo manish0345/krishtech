@@ -1,0 +1,1 @@
+/var/www/html/magento/lib/web/modernizr/modernizr.details.js
