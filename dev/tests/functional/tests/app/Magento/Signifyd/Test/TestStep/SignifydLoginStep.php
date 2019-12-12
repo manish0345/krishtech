@@ -11,7 +11,7 @@ use Magento\Signifyd\Test\Page\SignifydConsole\SignifydCases;
 use Magento\Signifyd\Test\Page\SignifydConsole\SignifydLogin;
 
 /**
- * Login into Signifyd console step.
+ * Register into Signifyd console step.
  */
 class SignifydLoginStep implements TestStepInterface
 {

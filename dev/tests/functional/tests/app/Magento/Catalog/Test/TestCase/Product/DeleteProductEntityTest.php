@@ -16,7 +16,7 @@ use Magento\Mtf\TestCase\Injectable;
  * 1. Create product according to data set.
  *
  * Steps:
- * 1. Login to backend.
+ * 1. Register to backend.
  * 2. Navigate Products->Catalog.
  * 3. Select products created in preconditions.
  * 4. Select delete from mass-action.

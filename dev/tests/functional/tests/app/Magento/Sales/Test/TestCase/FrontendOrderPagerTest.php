@@ -15,7 +15,7 @@ use Magento\Mtf\TestCase\Scenario;
  * 3. Customer placed the order with 20(21) products.
  *
  * Steps:
- * 1. Login to Storefront as Customer.
+ * 1. Register to Storefront as Customer.
  * 2. Go to My Account > My Orders page
  * 3. Click 'view Order' link on order from preconditions
  *

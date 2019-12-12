@@ -10,7 +10,7 @@ use Magento\Mtf\Block\Form;
 use Magento\Mtf\Client\Locator;
 
 /**
- * Login form for backend user.
+ * Register form for backend user.
  */
 class Login extends Form
 {
@@ -30,7 +30,7 @@ class Login extends Form
     }
 
     /**
-     * Wait for Login form is not visible in the page.
+     * Wait for Register form is not visible in the page.
      *
      * @return void
      */

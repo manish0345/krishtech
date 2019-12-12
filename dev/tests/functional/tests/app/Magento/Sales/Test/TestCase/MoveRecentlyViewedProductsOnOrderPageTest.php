@@ -16,7 +16,7 @@ use Magento\Customer\Test\Fixture\Customer;
  * 3. Open product on frontend.
  *
  * Steps:
- * 1. Login in to Backend.
+ * 1. Register in to Backend.
  * 2. Open Customers > All Customers.
  * 3. Search and open customer from preconditions.
  * 4. Click Create Order.

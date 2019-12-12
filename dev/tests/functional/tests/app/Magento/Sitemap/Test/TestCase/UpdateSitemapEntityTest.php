@@ -23,7 +23,7 @@ use Magento\Mtf\TestCase\Injectable;
  *  3. Create simple product
  *  4. Create CMS page
  * Steps:
- *  1. Login as Admin User
+ *  1. Register as Admin User
  *  2. Go to Marketing > SEO & Search: Site Map
  *  3. Click 'Generate' In the grid for sitemap from preconditions
  *  4. Perform all assertions

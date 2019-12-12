@@ -10,7 +10,7 @@ use Magento\Mtf\Factory\Factory;
 use Magento\Mtf\Page\Page;
 
 /**
- * Login page for backend.
+ * Register page for backend.
  */
 class AdminAuthLogin extends Page
 {

@@ -19,7 +19,7 @@ use Magento\Mtf\TestCase\Injectable;
  * 2. Create product
  *
  * Steps:
- * 1. Login as customer in frontend
+ * 1. Register as customer in frontend
  * 2. Add product to cart
  * 3. Logout
  * 4. Add product to cart as unregistered customer

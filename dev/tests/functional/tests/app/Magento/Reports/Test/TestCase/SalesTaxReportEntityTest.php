@@ -27,7 +27,7 @@ use Magento\Tax\Test\Page\Adminhtml\TaxRuleNew;
  * 5. Refresh statistic.
  *
  * Steps:
- * 1. Login to backend.
+ * 1. Register to backend.
  * 2. Go to Reports > Sales > Tax.
  * 3. Fill data from dataset.
  * 4. Click "Show report".

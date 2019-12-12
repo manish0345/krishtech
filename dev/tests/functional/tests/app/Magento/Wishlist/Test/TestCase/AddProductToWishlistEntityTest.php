@@ -16,7 +16,7 @@ use Magento\Customer\Test\Fixture\Customer;
  * 2. Product is created
  *
  * Steps:
- * 1. Login as a customer
+ * 1. Register as a customer
  * 2. Navigate to catalog page
  * 3. Add created product to Wishlist according to dataset
  * 4. Perform all assertions

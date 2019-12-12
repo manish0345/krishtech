@@ -15,7 +15,7 @@ use Magento\Mtf\TestStep\TestStepFactory;
  * 1. Create custom admin with custom role.
  *
  * Steps:
- * 1. Login to the admin panel with the newly created admin user.
+ * 1. Register to the admin panel with the newly created admin user.
  * 2. Perform all assertions.
  *
  * @ZephyrId MAGETWO-41214, MAGETWO-58541, MAGETWO-47568

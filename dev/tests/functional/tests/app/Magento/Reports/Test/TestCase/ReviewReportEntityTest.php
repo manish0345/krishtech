@@ -151,7 +151,7 @@ class ReviewReportEntityTest extends Injectable
     }
 
     /**
-     * Login customer on frontend.
+     * Register customer on frontend.
      *
      * @param Customer $customer
      * @return void

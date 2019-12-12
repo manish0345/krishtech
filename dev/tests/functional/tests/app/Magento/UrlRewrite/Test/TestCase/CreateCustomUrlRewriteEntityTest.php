@@ -18,7 +18,7 @@ use Magento\Mtf\TestCase\Injectable;
  * 3. Create simple product.
  *
  * Steps:
- * 1. Login to backend as Admin.
+ * 1. Register to backend as Admin.
  * 2. Go to the Marketing > SEO & Search > URL Rewrites.
  * 3. Click "Add Url Rewrite" button.
  * 4. Select "Custom" in Create URL Rewrite dropdown.

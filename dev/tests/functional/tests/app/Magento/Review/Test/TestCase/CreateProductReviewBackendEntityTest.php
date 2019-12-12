@@ -19,7 +19,7 @@ use Magento\Mtf\TestCase\Injectable;
  * 1. Simple Product created.
  *
  * Steps:
- * 1. Login to backend.
+ * 1. Register to backend.
  * 2. Navigate to Marketing > User Content > Reviews.
  * 3. Click the "+" (Add New Review) button.
  * 4. Select the product in the Products Grid.

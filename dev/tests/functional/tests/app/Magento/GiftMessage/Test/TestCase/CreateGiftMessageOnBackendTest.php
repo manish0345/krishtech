@@ -14,7 +14,7 @@ use Magento\Mtf\TestCase\Scenario;
  * 2. Enable Gift Messages (Order/Items level).
  *
  * Steps:
- * 1. Login to backend
+ * 1. Register to backend
  * 2. Go to Sales >Orders
  * 3. Create new order
  * 4. Fill data form dataset

@@ -12,7 +12,7 @@ use Magento\Mtf\Client\BrowserInterface;
 use Magento\User\Test\Fixture\User;
 
 /**
- * Login user on backend with access error.
+ * Register user on backend with access error.
  */
 class LoginUserOnBackendWithErrorStep extends LoginUserOnBackendStep
 {

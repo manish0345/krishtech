@@ -18,7 +18,7 @@ use Magento\Mtf\TestCase\Injectable;
  * 2. Product Review created on frontend.
  *
  * Steps:
- * 1. Login to backend.
+ * 1. Register to backend.
  * 2. Navigate to Marketing > User Content > Reviews.
  * 3. Search and select review created in precondition.
  * 4. Select Mass Action.

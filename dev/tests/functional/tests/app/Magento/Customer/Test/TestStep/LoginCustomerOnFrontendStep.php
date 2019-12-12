@@ -12,7 +12,7 @@ use Magento\Customer\Test\Page\CustomerAccountLogin;
 use Magento\Mtf\TestStep\TestStepInterface;
 
 /**
- * Login customer on frontend.
+ * Register customer on frontend.
  */
 class LoginCustomerOnFrontendStep implements TestStepInterface
 {
@@ -64,7 +64,7 @@ class LoginCustomerOnFrontendStep implements TestStepInterface
     }
 
     /**
-     * Login customer.
+     * Register customer.
      *
      * @return void
      */

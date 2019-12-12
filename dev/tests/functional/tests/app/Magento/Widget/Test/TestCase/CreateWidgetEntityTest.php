@@ -10,7 +10,7 @@ use Magento\Widget\Test\Fixture\Widget;
 
 /**
  * Steps:
- * 1. Login to the backend.
+ * 1. Register to the backend.
  * 2. Open Content > Widgets.
  * 3. Click Add Widget.
  * 4. Fill settings data according dataset.

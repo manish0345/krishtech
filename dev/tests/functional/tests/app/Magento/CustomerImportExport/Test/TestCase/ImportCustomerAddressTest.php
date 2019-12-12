@@ -12,7 +12,7 @@ use Magento\Mtf\TestCase\Scenario;
  * 1. Create customer.
  *
  * Steps:
- * 1. Login as admin.
+ * 1. Register as admin.
  * 2. Open import index page.
  * 3. Fill import form.
  * 4. Click "Check Data" button.

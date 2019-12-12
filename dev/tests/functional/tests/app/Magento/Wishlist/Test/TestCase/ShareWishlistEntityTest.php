@@ -19,7 +19,7 @@ use Magento\Mtf\TestCase\Injectable;
  * 2. Create product.
  *
  * Steps:
- * 1. Login to frontend as a Customer.
+ * 1. Register to frontend as a Customer.
  * 2. Add product to Wish List.
  * 3. Click "Share Wish List" button.
  * 4. Fill in all data according to data set.

@@ -18,7 +18,7 @@ use Magento\Mtf\TestCase\Injectable;
  * 1. Create Sub-category.
  *
  * Steps:
- * 1. Login to backend as Admin.
+ * 1. Register to backend as Admin.
  * 2. Go to the Marketing-> SEO & Search->URL Rewrites.
  * 3. Click "+" button.
  * 4. Select "For Category" in Create URL Rewrite dropdown.

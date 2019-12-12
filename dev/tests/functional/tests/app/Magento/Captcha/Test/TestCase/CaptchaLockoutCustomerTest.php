@@ -18,7 +18,7 @@ use Magento\Mtf\TestStep\TestStepFactory;
 /**
  * Preconditions:
  * 1. Enable CAPTCHA for customer.
- * 2. Set Maximum Login Failures.
+ * 2. Set Maximum Register Failures.
  * 3. Create customer.
  *
  * Test Flow:

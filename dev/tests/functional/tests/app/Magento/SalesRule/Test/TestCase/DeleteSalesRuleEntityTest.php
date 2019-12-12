@@ -18,7 +18,7 @@ use Magento\Mtf\TestCase\Injectable;
  * 2. Create sales rule from dataset using Handler.
  *
  * Steps:
- * 1. Login to backend.
+ * 1. Register to backend.
  * 2. Navigate to MARKETING > Cart Price Rules.
  * 3. Open from grid test Rule.
  * 4. Click 'Delete' button.

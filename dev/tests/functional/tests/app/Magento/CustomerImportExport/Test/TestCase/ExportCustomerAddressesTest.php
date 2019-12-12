@@ -17,7 +17,7 @@ use Magento\Mtf\Util\Command\Cli\Cron;
  * 1. Create customer.
  *
  * Steps:
- * 1. Login to admin.
+ * 1. Register to admin.
  * 2. Navigate to System > Export.
  * 3. Select Entity Type = Customer Addresses.
  * 4. Fill Entity Attributes data.

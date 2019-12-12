@@ -23,7 +23,7 @@ use Magento\Mtf\TestCase\Injectable;
  * 2. Virtual product is created and assigned to created category.
  *
  * Steps:
- * 1. Login to backend.
+ * 1. Register to backend.
  * 2. Navigate to PRODUCTS -> Catalog.
  * 3. Select a product in the grid.
  * 4. Edit test value(s) according to dataset.

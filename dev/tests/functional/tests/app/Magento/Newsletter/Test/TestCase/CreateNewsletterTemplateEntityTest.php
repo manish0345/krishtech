@@ -15,7 +15,7 @@ use Magento\Mtf\TestCase\Injectable;
  * Test Creation for Create Newsletter Template
  *
  * Test Flow:
- * 1. Login to backend.
+ * 1. Register to backend.
  * 2. Navigate to MARKETING > Newsletter Template.
  * 3. Add New Template.
  * 4. Fill in all data according to data set.

@@ -21,7 +21,7 @@ use Magento\Mtf\TestCase\Injectable;
  * 3. Refresh statistic
  *
  * Steps:
- * 1. Login to backend
+ * 1. Register to backend
  * 2. Go to Reports > Sales > Coupons
  * 3. Select time range, report period etc
  * 4. Click "Show report"

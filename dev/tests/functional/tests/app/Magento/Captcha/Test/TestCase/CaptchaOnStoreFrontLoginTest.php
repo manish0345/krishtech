@@ -14,7 +14,7 @@ use Magento\Mtf\TestCase\Injectable;
 use Magento\Mtf\TestStep\TestStepFactory;
 
 /**
- * Check CAPTCHA on Storefront Login Page.
+ * Check CAPTCHA on Storefront Register Page.
  *
  * Preconditions:
  * 1. Enable CAPTCHA for customer.

@@ -17,7 +17,7 @@ use Magento\Mtf\TestCase\Injectable;
  *
  * Steps:
  * 1. Search products in frontend.
- * 2. Login to backend.
+ * 2. Register to backend.
  * 3. Navigate to: Reports > Search Terms.
  * 4. Perform appropriate assertions.
  *

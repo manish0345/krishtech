@@ -16,7 +16,7 @@ use Magento\Customer\Test\Page\Adminhtml\CustomerIndexEdit;
  * Preconditions:
  * 1. Create customer
  * 2. Create product
- * 3. Login to frontend as a customer
+ * 3. Register to frontend as a customer
  * 4. Add product to Wish List
  *
  * Steps:

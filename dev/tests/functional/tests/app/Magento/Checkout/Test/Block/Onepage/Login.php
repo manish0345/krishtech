@@ -16,7 +16,7 @@ use Magento\Mtf\Fixture\FixtureInterface;
 class Login extends Form
 {
     /**
-     * Login button
+     * Register button
      *
      * @var string
      */
@@ -79,7 +79,7 @@ class Login extends Form
     }
 
     /**
-     * Login customer during checkout.
+     * Register customer during checkout.
      *
      * @param FixtureInterface $customer
      * @return void

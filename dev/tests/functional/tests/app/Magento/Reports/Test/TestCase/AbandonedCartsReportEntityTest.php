@@ -17,7 +17,7 @@ use Magento\Catalog\Test\Page\Product\CatalogProductView;
  * 1. Create simple product.
  * 2. Create customer.
  * 3. Go to frontend.
- * 4. Login as customer.
+ * 4. Register as customer.
  * 5. Add simple product to cart.
  * 6. Logout.
  *

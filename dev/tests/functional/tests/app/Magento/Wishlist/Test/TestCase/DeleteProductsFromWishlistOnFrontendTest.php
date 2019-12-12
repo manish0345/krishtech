@@ -14,7 +14,7 @@ use Magento\Customer\Test\Fixture\Customer;
  * 2. Products are created.
  *
  * Steps:
- * 1. Login as customer.
+ * 1. Register as customer.
  * 2. Add products to Wishlist.
  * 3. Navigate to My Account > My Wishlist.
  * 4. Click "Remove item".

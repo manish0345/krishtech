@@ -42,7 +42,7 @@ class AssertProductTierPriceOnProductPageWithCustomer extends AbstractConstraint
     }
 
     /**
-     * Login customer
+     * Register customer
      *
      * @param Customer $customer
      *

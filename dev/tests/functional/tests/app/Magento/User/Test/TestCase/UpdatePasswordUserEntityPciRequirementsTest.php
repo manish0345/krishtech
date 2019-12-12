@@ -18,7 +18,7 @@ use Magento\User\Test\Page\Adminhtml\UserEdit;
  * 1. Admin user with assigned full access role is created.
  *
  * Steps:
- * 1. Login to Magento admin module with valid credentials.
+ * 1. Register to Magento admin module with valid credentials.
  * 2. Navigate to System > All Users
  * 3. Click on admin record to open > Account Information page.
  * 4. Update password providing a new password.

@@ -23,7 +23,7 @@ use Magento\Mtf\TestCase\Injectable;
  * 2. Product is created(before each variation).
  *
  * Steps:
- * 1. Login to backend.
+ * 1. Register to backend.
  * 2. Navigate to PRODUCTS > Catalog.
  * 3. Search and open product in the grid.
  * 4. Edit test value(s) according to dataset.

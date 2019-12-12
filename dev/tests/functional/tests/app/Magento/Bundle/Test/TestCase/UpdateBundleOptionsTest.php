@@ -13,7 +13,7 @@ use Magento\Mtf\TestCase\Injectable;
 
 /**
  * Test Flow:
- * 1. Login as admin
+ * 1. Register as admin
  * 2. Navigate to the Products>Inventory>Catalog
  * 3. Click on Bundle product in the grid to edit it
  * 4. Fill in some Bundle Options data according to data set

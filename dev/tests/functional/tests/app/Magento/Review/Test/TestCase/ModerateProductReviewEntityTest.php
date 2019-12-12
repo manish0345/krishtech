@@ -17,7 +17,7 @@ use Magento\Mtf\TestCase\Injectable;
  * 2. Create product review.
  *
  * Steps:
- * 1. Login to backend.
+ * 1. Register to backend.
  * 2. Open Marketing > Reviews.
  * 3. Search and open review created in precondition.
  * 4. Fill data according to dataset.

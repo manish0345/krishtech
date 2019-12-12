@@ -15,7 +15,7 @@ use Magento\Mtf\TestCase\Scenario;
  * 3. Create order.
  *
  * Steps:
- * 1. Login to backend.
+ * 1. Register to backend.
  * 2. Sales > Orders.
  * 3. Open the created order.
  * 4. Create partial invoice

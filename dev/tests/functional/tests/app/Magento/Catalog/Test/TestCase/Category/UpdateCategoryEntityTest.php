@@ -20,7 +20,7 @@ use Magento\Mtf\Fixture\FixtureFactory;
  * 1. Create category
  *
  * Steps:
- * 1. Login as admin
+ * 1. Register as admin
  * 2. Navigate Products->Categories
  * 3. Open category created in preconditions
  * 4. Update data according to data set

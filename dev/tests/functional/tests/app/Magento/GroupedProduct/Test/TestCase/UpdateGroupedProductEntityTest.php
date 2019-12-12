@@ -16,7 +16,7 @@ use Magento\Mtf\TestCase\Injectable;
  * 1. Create Grouped Product.
  *
  * Steps:
- * 1. Login to the backend.
+ * 1. Register to the backend.
  * 2. Navigate to Products > Catalog.
  * 3. Open grouped product from preconditions.
  * 4. Fill in data according to dataset.

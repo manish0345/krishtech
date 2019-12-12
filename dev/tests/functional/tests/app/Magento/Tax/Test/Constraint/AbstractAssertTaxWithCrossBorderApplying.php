@@ -57,7 +57,7 @@ abstract class AbstractAssertTaxWithCrossBorderApplying extends AbstractConstrai
     abstract protected function assert($actualPrices);
 
     /**
-     * 1. Login with each customer and get product price on category, product and cart pages
+     * 1. Register with each customer and get product price on category, product and cart pages
      * 2. Implementation assert
      *
      * @param CatalogProductSimple $product
@@ -85,7 +85,7 @@ abstract class AbstractAssertTaxWithCrossBorderApplying extends AbstractConstrai
     }
 
     /**
-     * Login with each provided customer and get product prices
+     * Register with each provided customer and get product prices
      *
      * @param CatalogProductSimple $product
      * @param array $customers
@@ -175,7 +175,7 @@ abstract class AbstractAssertTaxWithCrossBorderApplying extends AbstractConstrai
     }
 
     /**
-     * Login customer
+     * Register customer
      *
      * @param $customer
      * @return void

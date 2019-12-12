@@ -17,7 +17,7 @@ use Magento\Mtf\TestCase\Injectable;
  * 2. Product rating is created.
  *
  * Steps:
- * 1. Login to backend.
+ * 1. Register to backend.
  * 2. Navigate to Stores > Attributes > Rating.
  * 3. Search product rating in grid by given data.
  * 4. Open this product rating by clicking.

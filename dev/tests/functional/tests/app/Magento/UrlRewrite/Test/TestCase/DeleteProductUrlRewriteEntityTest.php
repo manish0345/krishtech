@@ -18,7 +18,7 @@ use Magento\Mtf\TestCase\Injectable;
  * 3. Product url rewrites is created.
  *
  * Steps:
- * 1. Login to backend.
+ * 1. Register to backend.
  * 2. Navigate to MARKETING > URL Rewrites.
  * 3. Click Redirect from grid.
  * 4. Click 'Delete' button.

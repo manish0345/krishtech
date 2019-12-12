@@ -10,7 +10,7 @@ use Magento\Backend\Test\Block\Admin\Login;
 use Magento\Mtf\Client\Locator;
 
 /**
- * Login form for backend user.
+ * Register form for backend user.
  */
 class LoginWithCaptcha extends Login
 {

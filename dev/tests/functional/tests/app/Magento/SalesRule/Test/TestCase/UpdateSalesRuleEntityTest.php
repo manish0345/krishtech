@@ -17,7 +17,7 @@ use Magento\Mtf\TestCase\Injectable;
  * 1. Cart Price Rule is created.
  *
  * Steps:
- * 1. Login to backend.
+ * 1. Register to backend.
  * 2. Navigate to MARKETING > Cart Price Rules.
  * 3. Click Cart Price Rule from grid.
  * 4. Edit test value(s) according to dataset.

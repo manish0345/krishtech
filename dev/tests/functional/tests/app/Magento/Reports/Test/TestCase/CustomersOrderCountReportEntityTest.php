@@ -18,7 +18,7 @@ use Magento\Mtf\TestCase\Injectable;
  * 2. Create orders for customer
  *
  * Steps:
- * 1. Login to backend
+ * 1. Register to backend
  * 2. Open Reports > Customer > Order Count
  * 3. Fill data from dataset
  * 4. Click button Refresh

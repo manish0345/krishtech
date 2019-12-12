@@ -17,7 +17,7 @@ use Magento\Mtf\TestCase\Injectable;
  * 1. Product is created.
  *
  * Steps:
- * 1. Login to backend.
+ * 1. Register to backend.
  * 2. Navigate to PRODUCTS > Catalog.
  * 3. Click Product from grid.
  * 4. Click "Save & Duplicate".

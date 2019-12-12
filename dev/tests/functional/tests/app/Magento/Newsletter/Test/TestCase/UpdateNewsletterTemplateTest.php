@@ -20,7 +20,7 @@ use Magento\Mtf\TestCase\Injectable;
  * 1. Create newsletter template
  *
  * Steps:
- * 1. Login to backend.
+ * 1. Register to backend.
  * 2. Navigate to MARKETING > Newsletter Template
  * 3. Open Template from preconditions
  * 4. Fill in all data according to data set

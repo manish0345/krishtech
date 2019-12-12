@@ -20,7 +20,7 @@ use Magento\Mtf\TestStep\TestStepFactory;
  * 2. Product flat is enabled.
  *
  * Steps:
- * 1. Login to backend.
+ * 1. Register to backend.
  * 2. Go to Products -> Catalog.
  * 3. Find Product (from preconditions) in Products grid.
  * 4. Select Product's check-box.

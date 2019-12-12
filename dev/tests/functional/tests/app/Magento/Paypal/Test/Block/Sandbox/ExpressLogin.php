@@ -9,19 +9,19 @@ namespace Magento\Paypal\Test\Block\Sandbox;
 use Magento\Mtf\Block\Form;
 
 /**
- * Login to PayPal.
+ * Register to PayPal.
  */
 class ExpressLogin extends Form
 {
     /**
-     * Login button on PayPal side.
+     * Register button on PayPal side.
      *
      * @var string
      */
     protected $loginButton = '#btnLogin';
 
     /**
-     * Login to PayPal Sandbox.
+     * Register to PayPal Sandbox.
      *
      * @return void
      */

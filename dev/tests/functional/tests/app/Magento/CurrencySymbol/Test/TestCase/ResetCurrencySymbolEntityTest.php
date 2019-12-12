@@ -15,7 +15,7 @@ use Magento\CurrencySymbol\Test\Fixture\CurrencySymbolEntity;
  * 2. Create custom Currency Symbol
  *
  * Steps:
- * 1. Login to backend.
+ * 1. Register to backend.
  * 2. Navigate to Stores->Currency Symbols
  * 3. Make changes according to dataset.
  * 4. Click 'Save Currency Symbols' button

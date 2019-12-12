@@ -13,7 +13,7 @@ use Magento\Mtf\TestCase\Scenario;
  * 1. Product is created.
  *
  * Steps:
- * 1. Login to backend.
+ * 1. Register to backend.
  * 2. Open Reports > Low Stock.
  * 3. Perform appropriate assertions.
  *

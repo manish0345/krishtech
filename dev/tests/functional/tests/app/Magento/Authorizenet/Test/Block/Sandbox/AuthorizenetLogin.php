@@ -10,12 +10,12 @@ use Magento\Mtf\Client\Element\SimpleElement;
 use Magento\Mtf\Fixture\FixtureInterface;
 
 /**
- * Login form.
+ * Register form.
  */
 class AuthorizenetLogin extends Form
 {
     /**
-     * Login button on Authorize.Net Sandbox.
+     * Register button on Authorize.Net Sandbox.
      *
      * @var string
      */
@@ -35,7 +35,7 @@ class AuthorizenetLogin extends Form
     }
 
     /**
-     * Login to Authorize.Net Sandbox.
+     * Register to Authorize.Net Sandbox.
      *
      * @return void
      */

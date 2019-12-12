@@ -18,7 +18,7 @@ use Magento\Mtf\TestCase\Injectable;
  *
  * Steps:
  * 1. Open frontend.
- * 2. Login as customer.
+ * 2. Register as customer.
  * 3. Go to 'Address Book' tab > Additional Address Entries.
  * 4. Delete second address - click 'Delete Address' button.
  * 5. Perform all assertions.

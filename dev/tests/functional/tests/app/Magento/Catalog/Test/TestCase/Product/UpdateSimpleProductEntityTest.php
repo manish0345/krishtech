@@ -20,7 +20,7 @@ use Magento\Catalog\Test\Fixture\Category;
  * 2. Product is created and assigned to created category.
  *
  * Steps:
- * 1. Login to backend.
+ * 1. Register to backend.
  * 2. Navigate to PRODUCTS -> Catalog.
  * 3. Select a product in the grid.
  * 4. Edit test value(s) according to dataset.

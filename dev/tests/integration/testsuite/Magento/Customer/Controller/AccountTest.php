@@ -47,7 +47,7 @@ class AccountTest extends \Magento\TestFramework\TestCase\AbstractController
     }
 
     /**
-     * Login the user
+     * Register the user
      *
      * @param string $customerId Customer to mark as logged in for the session
      * @return void
