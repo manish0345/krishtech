@@ -250,6 +250,7 @@ return [
         'TrainingManish_HeaderBlock' => 1,
         'TrainingManish_InvoiceFont' => 1,
         'TrainingManish_LoginPopup' => 1,
+        'TrainingManish_OrderStatusFilter' => 1,
         'TrainingManish_ProductAttribute' => 1,
         'Vertex_Tax' => 1
     ]

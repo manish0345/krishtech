@@ -4,9 +4,9 @@
 namespace TrainingManish\OrderStatusFilter\Model\Status;
 
 
-use Magento\Framework\Option\ArrayInterface;
+use Magento\Framework\Data\OptionSourceInterface;
 
-class Options implements ArrayInterface
+class Options implements OptionSourceInterface
 {
 
     /**
