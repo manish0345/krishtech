@@ -1,1 +1,0 @@
-/var/www/html/magento/vendor/magento/module-downloadable/view/frontend/web/js/downloadable.js

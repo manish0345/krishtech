@@ -1,1 +1,0 @@
-/var/www/html/magento/vendor/klarna/module-kp/view/frontend/web/js/action/override.js
