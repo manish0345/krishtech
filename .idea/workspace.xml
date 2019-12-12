@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99f7291d-015e-4137-8179-99cd008bf758" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/code/TrainingManish/OrderStatusFilter/Model/Status/Options.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/TrainingManish/OrderStatusFilter/Model/Status/Options.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/code/TrainingManish/OrderStatusFilter/view/adminhtml/ui_component/sales_order_grid.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/TrainingManish/OrderStatusFilter/view/adminhtml/ui_component/sales_order_grid.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/etc/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/etc/config.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/backend/form.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/deployed_version.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/deployed_version.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/log/exception.log" beforeDir="false" afterPath="$PROJECT_DIR$/var/log/exception.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/log/temando.log" beforeDir="false" afterPath="$PROJECT_DIR$/var/log/temando.log" afterDir="false" />
-    </list>
+    <list default="true" id="99f7291d-015e-4137-8179-99cd008bf758" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,17 +39,7 @@
     <favorites_list name="magento" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/OrderStatusFilter/view/adminhtml/ui_component/sales_order_grid.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret column="150" selection-start-column="150" selection-end-column="150" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -640,42 +621,6 @@
               <item name="magento" type="b2602c69:ProjectViewProjectNode" />
               <item name="magento" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="TrainingManish" type="462c0819:PsiDirectoryNode" />
-              <item name="OrderStatusFilter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="TrainingManish" type="462c0819:PsiDirectoryNode" />
-              <item name="OrderStatusFilter" type="462c0819:PsiDirectoryNode" />
-              <item name="etc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="TrainingManish" type="462c0819:PsiDirectoryNode" />
-              <item name="OrderStatusFilter" type="462c0819:PsiDirectoryNode" />
-              <item name="Model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="TrainingManish" type="462c0819:PsiDirectoryNode" />
-              <item name="OrderStatusFilter" type="462c0819:PsiDirectoryNode" />
-              <item name="Model" type="462c0819:PsiDirectoryNode" />
-              <item name="Status" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="etc" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -948,7 +893,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="497705000" />
+    <option name="totallyTimeSpent" value="498346000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -961,7 +906,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1368" height="742" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49261084" visible="true" weight="0.26439393" />
       <window_info id="Structure" order="1" sideWeight="0.5073892" side_tool="true" weight="0.22954546" />
@@ -1346,8 +1290,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/OrderStatusFilter/view/adminhtml/ui_component/sales_order_grid.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret column="150" selection-start-column="150" selection-end-column="150" />
+        <state relative-caret-position="30">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
