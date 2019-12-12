@@ -15,7 +15,7 @@ use Magento\Captcha\Test\Page\Captcha\AdminAuthLoginWithCaptcha;
 use Magento\Backend\Test\Page\Adminhtml\SystemConfigEdit;
 
 /**
- * Check CAPTCHA on Admin Login Page.
+ * Check CAPTCHA on Admin Register Page.
  *
  * Preconditions:
  * 1. Enable CAPTCHA for admin.
@@ -45,7 +45,7 @@ class CaptchaOnAdminLoginTest extends Injectable
     private $systemConfigEditPage;
 
     /**
-     * Login page for Admin.
+     * Register page for Admin.
      *
      * @var AdminAuthLogin
      */

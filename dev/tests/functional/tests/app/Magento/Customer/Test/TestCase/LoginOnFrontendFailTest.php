@@ -32,7 +32,7 @@ class LoginOnFrontendFailTest extends Injectable
     /* end tags */
 
     /**
-     * Login on frontend.
+     * Register on frontend.
      *
      * @param Customer $customer
      * @param CustomerAccountLogin $loginPage

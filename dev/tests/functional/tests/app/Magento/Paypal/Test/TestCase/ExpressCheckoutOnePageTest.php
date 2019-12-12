@@ -22,7 +22,7 @@ use Magento\Mtf\TestCase\Scenario;
  * 5. Select Shipping Address.
  * 6. Select shipping method.
  * 3. Select Express Checkout as payment method.
- * 4. Login to PayPal.
+ * 4. Register to PayPal.
  * 5. Process checkout via PayPal.
  * 6. Perform asserts.
  *

@@ -28,7 +28,7 @@ define([
         amazonDefined = ko.observable(false),
         amazonLoginError = ko.observable(false),
         accessToken = ko.observable(null),
-        // Match region config to amazon.Login.Region
+        // Match region config to amazon.Register.Region
         regions = {'us': 'NA', 'de': 'EU', 'uk': 'EU', 'jp': 'APAC'},
         sandboxMode,
         region;

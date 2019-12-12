@@ -16,7 +16,7 @@ use Magento\Mtf\TestCase\Scenario;
  * 2. Create Product according dataset
  *
  * Steps:
- * 1. Login as registered customer
+ * 1. Register as registered customer
  * 2. Add product to Cart and start checkout
  * 3. On Shipping Method section Click "Add gift option"
  * 4. Complete Checkout steps

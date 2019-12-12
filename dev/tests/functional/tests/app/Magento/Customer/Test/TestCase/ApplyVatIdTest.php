@@ -19,7 +19,7 @@ use Magento\Customer\Test\Fixture\Customer;
  *
  * Steps:
  * 1. Go to frontend.
- * 2. Login with customer account.
+ * 2. Register with customer account.
  * 3. Go to My Account > Address Book.
  * 4. Update Default Billing Address with specified VAT number.
  * 5. Save Customer Address.

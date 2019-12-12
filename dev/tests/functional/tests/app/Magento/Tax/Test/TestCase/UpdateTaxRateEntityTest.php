@@ -18,7 +18,7 @@ use Magento\Mtf\TestCase\Injectable;
  * 1. Create Tax Rate.
  *
  * Steps:
- * 1. Login to backend.
+ * 1. Register to backend.
  * 2. Navigate to Stores -> Taxes -> Tax Zones and Rates.
  * 3. Search tax rate in grid by given data.
  * 4. Open this tax rate by clicking.

@@ -17,7 +17,7 @@ use Magento\Mtf\TestCase\Injectable;
  * 3. Create order with one of created simple product
  *
  * Steps:
- * 1. Login to backend
+ * 1. Register to backend
  * 2. Click on Search button on the top of page
  * 3. Fill in data according dataset
  * 4. Perform assertions

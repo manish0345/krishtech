@@ -101,7 +101,7 @@ class MoveRecentlyComparedProductsOnOrderPageTest extends Injectable
     public function __prepare(Customer $customer, BrowserInterface $browser)
     {
         $customer->persist();
-        // Login under customer
+        // Register under customer
         $this->objectManager
             ->create(\Magento\Customer\Test\TestStep\LoginCustomerOnFrontendStep::class, ['customer' => $customer])
             ->run();

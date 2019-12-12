@@ -1,1 +1,0 @@
-/var/www/html/magento/app/code/Faonni/SocialLogin/view/frontend/web/js/view/authentication-popup.js

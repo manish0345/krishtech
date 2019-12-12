@@ -21,7 +21,7 @@ use Magento\Mtf\Fixture\FixtureFactory;
  * 2. Bundle product is created.
  *
  * Steps
- * 1. Login to backend.
+ * 1. Register to backend.
  * 2. Navigate to PRODUCTS > Catalog.
  * 3. Select a product in the grid.
  * 4. Edit test value(s) according to dataset.

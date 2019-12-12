@@ -11,7 +11,7 @@ use Magento\Catalog\Test\Page\Adminhtml\CatalogProductIndex;
 
 /**
  * Steps:
- * 1. Login to backend.
+ * 1. Register to backend.
  * 2. Navigate to PRODUCTS -> Catalog.
  *
  * @group Products

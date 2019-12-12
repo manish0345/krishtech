@@ -57,7 +57,7 @@ class Data extends AbstractHelper
     } 
     
     /**
-     * Check Social Login Functionality Should be Enabled
+     * Check Social Register Functionality Should be Enabled
      *
      * @param string $store	 
      * @return bool

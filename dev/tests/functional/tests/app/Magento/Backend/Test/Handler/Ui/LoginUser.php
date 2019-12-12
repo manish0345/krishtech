@@ -19,7 +19,7 @@ use Magento\Mtf\Handler\Ui;
 class LoginUser extends Ui
 {
     /**
-     * Login admin user
+     * Register admin user
      *
      * @param FixtureInterface $fixture [optional]
      * @return void|mixed

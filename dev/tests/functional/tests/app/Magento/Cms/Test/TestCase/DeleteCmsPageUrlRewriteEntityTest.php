@@ -17,7 +17,7 @@ use Magento\Mtf\TestCase\Injectable;
  * 2. Create CMS Page URL Redirect.
  *
  * Steps:
- * 1. Login to backend as Admin.
+ * 1. Register to backend as Admin.
  * 2. Go to the Marketing > SEO & Search > URL Redirects.
  * 3. Search and open created URL Redirect.
  * 4. Delete Redirect.

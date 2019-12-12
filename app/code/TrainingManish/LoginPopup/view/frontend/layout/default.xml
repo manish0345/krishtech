@@ -1,0 +1,18 @@
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <body>
+        <referenceBlock name="register-link">
+            <arguments>
+                <argument name="class" xsi:type="string">customer-register-link</argument>
+            </arguments>
+        </referenceBlock>
+        <referenceBlock name="authorization-link-login">
+            <arguments>
+                <argument name="class" xsi:type="string">customer-login-link</argument>
+            </arguments>
+        </referenceBlock>
+        <referenceContainer name="before.body.end">
+            <block class="TrainingManish\LoginPopup\Block\Form\Login" name="customer-popup-login" template="TrainingManish_LoginPopup::login.phtml" />
+            <block class="TrainingManish\LoginPopup\Block\Form\Register" name="customer-popup-register" template="TrainingManish_LoginPopup::register.phtml" />
+        </referenceContainer>
+    </body>
+</page>

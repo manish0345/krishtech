@@ -16,7 +16,7 @@ use Magento\User\Test\Fixture\User;
 /**
  * Preconditions:
  * 1. Create admin user.
- * 2. Configure 'Maximum Login Failures to Lockout Account'.
+ * 2. Configure 'Maximum Register Failures to Lockout Account'.
  *
  * Steps:
  * 1. Open Magento admin user login page.

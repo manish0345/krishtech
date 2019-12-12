@@ -17,7 +17,7 @@ use Magento\Customer\Test\Page\CustomerAccountEdit;
  * 1.  Customer is created
  *
  * Steps:
- * 1. Login to fronted as customer from preconditions
+ * 1. Register to fronted as customer from preconditions
  * 2. Navigate to Account Information tab
  * 3. Check "Change Email" checkbox
  * 4. Fill form according to data set and save

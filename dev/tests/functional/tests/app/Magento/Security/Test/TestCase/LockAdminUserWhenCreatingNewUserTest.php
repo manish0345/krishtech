@@ -15,7 +15,7 @@ use Magento\User\Test\Page\Adminhtml\UserIndex;
 /**
  * Preconditions:
  * 1. Create admin user.
- * 2. Configure 'Maximum Login Failures to Lockout Account'.
+ * 2. Configure 'Maximum Register Failures to Lockout Account'.
  *
  * Steps:
  * 1. Log in to backend as admin user.

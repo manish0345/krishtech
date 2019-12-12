@@ -18,7 +18,7 @@ use Magento\Mtf\Fixture\FixtureFactory;
  * 1. Create customer.
  *
  * Steps:
- * 1. Login to backend as admin.
+ * 1. Register to backend as admin.
  * 2. Navigate to CUSTOMERS->All Customers.
  * 3. Open from grid test customer.
  * 4. Edit some values, if addresses fields are not presented click 'Add New Address' button.

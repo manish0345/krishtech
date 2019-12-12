@@ -18,7 +18,7 @@ use Magento\Mtf\TestCase\Scenario;
  * 1. Go to Frontend.
  * 2. Add products to the cart.
  * 3. Click "Checkout with PayPal" button.
- * 4. Login to PayPal.
+ * 4. Register to PayPal.
  * 5. Process checkout via PayPal.
  * 6. Perform asserts.
  *

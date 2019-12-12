@@ -16,7 +16,7 @@ use Magento\Mtf\TestCase\Injectable;
  * 1. Create CMS Page.
  *
  * Steps
- * 1. Login to backend as Admin.
+ * 1. Register to backend as Admin.
  * 2. Go to the Marketing > SEO & Search > URL Rewrites.
  * 3. Click "Add Url Rewrite" button.
  * 4. Select "For CMS Page" in Create URL Rewrite dropdown.

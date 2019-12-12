@@ -15,7 +15,7 @@ use Magento\Mtf\TestCase\Injectable;
 /**
  * Preconditions:
  * 1. Create new admin user.
- * 2. Configure 'Maximum Login Failures to Lockout Account'.
+ * 2. Configure 'Maximum Register Failures to Lockout Account'.
  *
  * Steps:
  * 1. Log in to backend as new created admin user.

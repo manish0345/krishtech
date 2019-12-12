@@ -12,7 +12,7 @@ use Magento\Mtf\TestCase\Injectable;
 
 /**
  * Steps:
- * 1. Login to backend as admin user.
+ * 1. Register to backend as admin user.
  * 2. Navigate to Customers > Customer Groups.
  * 3. Select system Customer Group specified in data set from grid.
  * 4. Perform all assertions.

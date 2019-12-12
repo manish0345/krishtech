@@ -15,7 +15,7 @@ use Magento\Customer\Test\Page\CustomerAccountIndex;
  * 2. Customer created.
  *
  * Steps:
- * 1. Login to frontend.
+ * 1. Register to frontend.
  * 2. Add to Compare Product $products.
  * 3. Navigate to My Account page.
  * 4. Click "Clear All" icon under the left menu tabs.

@@ -137,7 +137,7 @@ class MoveShoppingCartProductsOnOrderPageTest extends Injectable
             \Magento\Catalog\Test\TestStep\CreateProductStep::class,
             ['product' => $product]
         )->run()['product'];
-        // Login under customer
+        // Register under customer
         $this->objectManager->create(
             \Magento\Customer\Test\TestStep\LoginCustomerOnFrontendStep::class,
             ['customer' => $customer]

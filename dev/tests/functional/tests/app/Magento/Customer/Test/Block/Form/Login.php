@@ -16,7 +16,7 @@ use Magento\Mtf\Fixture\FixtureInterface;
 class Login extends Form
 {
     /**
-     * Login button for registered customers.
+     * Register button for registered customers.
      *
      * @var string
      */
@@ -47,7 +47,7 @@ class Login extends Form
     }
 
     /**
-     * Login customer in the Frontend.
+     * Register customer in the Frontend.
      *
      * @param FixtureInterface $customer
      *

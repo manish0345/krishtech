@@ -13,7 +13,7 @@ use Magento\Mtf\TestCase\Injectable;
 /**
  * Steps:
  *
- * 1. Login to backend.
+ * 1. Register to backend.
  * 2. Go to Stores -> Configuration -> General -> Web.
  * 3. Set "Use Secure URLs on Storefront" to Yes.
  * 4. Set "Use Secure URLs in Admin" to Yes.

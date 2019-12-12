@@ -18,7 +18,7 @@ use Magento\Mtf\TestCase\Injectable;
  * 1. Create simple product.
  *
  * Steps:
- * 1. Login to backend.
+ * 1. Register to backend.
  * 2. Navigate Stores > Attributes > Rating.
  * 3. Add New Rating.
  * 4. Fill data according to dataset.

@@ -105,7 +105,7 @@ abstract class AbstractCompareProductsTest extends Injectable
     }
 
     /**
-     * Login customer.
+     * Register customer.
      *
      * @return void
      */

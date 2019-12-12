@@ -16,7 +16,7 @@ use Magento\Mtf\TestCase\Injectable;
  * 1. Create Widget.
  *
  * Steps:
- * 1. Login to backend.
+ * 1. Register to backend.
  * 2. Open Content > Widgets.
  * 3. Open Widget from preconditions.
  * 4. Delete.

@@ -23,7 +23,7 @@ use Magento\SalesRule\Test\Page\Adminhtml\PromoQuoteNew;
  * 3. Default customer are created.
  *
  * Steps:
- * 1. Login to backend as admin.
+ * 1. Register to backend as admin.
  * 2. Navigate to MARKETING > Cart Price Rule.
  * 3. Create Cart Price rule according to dataset and click "Save" button.
  * 4. Perform asserts.

@@ -39,7 +39,7 @@ class SignifydLogin extends Form
     }
 
     /**
-     * Login to Signifyd.
+     * Register to Signifyd.
      *
      * @return void
      */

@@ -21,7 +21,7 @@ use Magento\Mtf\Util\Command\Cli\Cache;
  *
  * Steps:
  * 1. Go to the storefront.
- * 2. Login as 1st customer.
+ * 2. Register as 1st customer.
  * 3. Open the shopping cart page twice.
  * 4. Perform all assertions.
  *

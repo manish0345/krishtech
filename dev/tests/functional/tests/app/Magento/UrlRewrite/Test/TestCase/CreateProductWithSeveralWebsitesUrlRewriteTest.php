@@ -14,7 +14,7 @@ use Magento\Mtf\TestCase\Injectable;
 
 /**
  * Steps:
- * 1. Login to the backend.
+ * 1. Register to the backend.
  * 2. Navigate to Products > Catalog.
  * 3. Start to create simple product.
  * 4. Fill in data according to data set.

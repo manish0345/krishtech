@@ -18,7 +18,7 @@ use Magento\Mtf\TestCase\Injectable;
  * 2. Tax Rule is created.
  *
  * Steps:
- * 1. Login to backend
+ * 1. Register to backend
  * 2. Navigate to Stores > Tax Rules
  * 3. Click Tax Rule from grid
  * 4. Edit test value(s) according to dataset.

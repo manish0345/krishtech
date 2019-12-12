@@ -20,7 +20,7 @@ use Magento\Customer\Test\Page\CustomerAccountLogin;
  * 1. Create customer
  *
  * Steps:
- * 1. Login to fronted as customer from preconditions
+ * 1. Register to fronted as customer from preconditions
  * 2. Navigate to My Account page
  * 3. Click "Change Password" link near "Contact Information"
  * 4. Fill form according to data set and save

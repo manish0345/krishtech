@@ -78,7 +78,7 @@ class CreateTaxWithFptTest extends Injectable
     }
 
     /**
-     * Login customer.
+     * Register customer.
      *
      * @param Customer $customer
      * @return void

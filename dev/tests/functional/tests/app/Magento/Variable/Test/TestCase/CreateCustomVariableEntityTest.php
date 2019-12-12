@@ -13,7 +13,7 @@ use Magento\Mtf\TestCase\Injectable;
 
 /**
  * Steps:
- * 1. Login to backend.
+ * 1. Register to backend.
  * 2. Navigate to System->Other Settings->Custom Variables.
  * 3. Click on 'Add new variable' button.
  * 4. Fill in all data according to data set.

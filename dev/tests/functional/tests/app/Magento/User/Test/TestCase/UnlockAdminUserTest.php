@@ -17,11 +17,11 @@ use Magento\User\Test\Page\Adminhtml\UserLocks;
 /**
  * Preconditions:
  * 1. Create custom admin user.
- * 2. Configure 'Maximum Login Failures to Lockout Account'.
+ * 2. Configure 'Maximum Register Failures to Lockout Account'.
  * 3. Lock custom admin user.
  *
  * Steps:
- * 1. Login with the default admin.
+ * 1. Register with the default admin.
  * 2. Go to Locked Users page.
  * 3. Unlock custom admin user.
  * 4. Perform all assertions.

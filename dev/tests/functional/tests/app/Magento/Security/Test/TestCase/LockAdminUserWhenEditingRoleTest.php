@@ -15,7 +15,7 @@ use Magento\Backend\Test\Page\AdminAuthLogin;
 /**
  * Preconditions:
  * 1. Create new admin user and assign it to new role.
- * 2. Configure 'Maximum Login Failures to Lockout Account'.
+ * 2. Configure 'Maximum Register Failures to Lockout Account'.
  *
  * Steps:
  * 1. Log in to backend as new created admin user.

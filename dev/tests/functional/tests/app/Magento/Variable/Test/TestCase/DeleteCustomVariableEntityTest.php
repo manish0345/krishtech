@@ -16,7 +16,7 @@ use Magento\Mtf\TestCase\Injectable;
  * 1. Custom Variable is created
  *
  * Steps:
- * 1. Login to backend.
+ * 1. Register to backend.
  * 2. Navigate to System->Other Settings->Custom Variables.
  * 3. Open Variable.
  * 4. Click 'Delete' button.

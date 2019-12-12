@@ -1,1 +1,0 @@
-/var/www/html/magento/app/code/SimplifiedMagento/HelloWorld/view/frontend/web/js/script-example.js

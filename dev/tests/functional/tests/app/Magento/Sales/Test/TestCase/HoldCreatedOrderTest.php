@@ -18,7 +18,7 @@ use Magento\Mtf\TestCase\Injectable;
  * 3. Create order.
  *
  * Steps:
- * 1. Login to backend.
+ * 1. Register to backend.
  * 2. Go to Sales > Orders.
  * 3. Open the created order.
  * 4. Do 'Hold' for Order.

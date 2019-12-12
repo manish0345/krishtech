@@ -17,7 +17,7 @@ use Magento\Backend\Test\Page\AdminAuthLogin;
  * Preconditions:
  * 1. Create admin user.
  * 2. Create integration.
- * 3. Configure 'Maximum Login Failures to Lockout Account'.
+ * 3. Configure 'Maximum Register Failures to Lockout Account'.
  *
  * Steps:
  * 1. Log in to backend as admin user.

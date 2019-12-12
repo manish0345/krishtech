@@ -17,7 +17,7 @@ use Magento\Mtf\Util\Command\Cli\Cron;
  * 1. Catalog Price Rule is created.
  *
  * Steps:
- * 1. Login to backend.
+ * 1. Register to backend.
  * 2. Navigate to MARKETING > Catalog Price Rules.
  * 3. Click Catalog Price Rule from grid.
  * 4. Edit test value(s) according to dataset.

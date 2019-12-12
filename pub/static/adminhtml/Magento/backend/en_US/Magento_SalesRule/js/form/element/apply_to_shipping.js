@@ -1,1 +1,0 @@
-/var/www/html/magento/vendor/magento/module-sales-rule/view/adminhtml/web/js/form/element/apply_to_shipping.js

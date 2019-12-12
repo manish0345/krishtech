@@ -20,7 +20,7 @@ use Magento\Mtf\TestStep\TestStepFactory;
  * 2. Additional Non Default Storeview is created.
  *
  * Steps:
- * 1. Login to backend.
+ * 1. Register to backend.
  * 2. Navigate to System->Other Settings->Custom Variables.
  * 3. Open from grid created custom system variable.
  * 4. Navigate to the Store Switcher.

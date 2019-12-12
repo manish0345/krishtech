@@ -21,7 +21,7 @@ use Magento\Mtf\TestCase\Injectable;
  * 1. Default test customer is created.
  *
  * Steps:
- * 1. Login to fronted as test customer from preconditions.
+ * 1. Register to fronted as test customer from preconditions.
  * 2. Navigate to Account Dashboard page.
  * 3. Click "Edit" link near "Contact Information".
  * 4. Fill fields with test data and save.

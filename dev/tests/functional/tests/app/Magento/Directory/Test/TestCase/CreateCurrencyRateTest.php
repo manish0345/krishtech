@@ -19,7 +19,7 @@ use Magento\Mtf\TestStep\TestStepFactory;
  * 2. Configure allowed Currencies Options.
  *
  * Steps:
- * 1. Login to backend.
+ * 1. Register to backend.
  * 2. Go to Stores > Currency > Currency Rates.
  * 3. Fill currency rate according to dataset.
  * 4. Click on 'Save Currency Rates' button.

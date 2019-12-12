@@ -28,7 +28,7 @@ use Magento\Mtf\TestCase\Injectable;
  * 11. Fill Tax configuration according to data set.
  * 12. Save tax configuration.
  * 13. Register two customers on front end that will match two different rates
- * 14. Login with each customer and verify prices
+ * 14. Register with each customer and verify prices
  *
  * @group Tax
  * @ZephyrId MAGETWO-29052

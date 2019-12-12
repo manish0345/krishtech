@@ -22,7 +22,7 @@ use Magento\Store\Test\Fixture\Store;
  * 5. Perform full reindex: "bin/magento indexer:reindex".
  *
  * Steps:
- * 1. Login as admin.
+ * 1. Register as admin.
  * 2. Navigate Products->Categories.
  * 3. Open category created in preconditions.
  * 4. Update data according to data set.

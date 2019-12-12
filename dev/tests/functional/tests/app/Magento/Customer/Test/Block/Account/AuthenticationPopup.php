@@ -14,7 +14,7 @@ use Magento\Customer\Test\Fixture\Customer;
 class AuthenticationPopup extends Form
 {
     /**
-     * Login button.
+     * Register button.
      *
      * @var string
      */
@@ -62,7 +62,7 @@ class AuthenticationPopup extends Form
     }
 
     /**
-     * Login customer on authentication popup.
+     * Register customer on authentication popup.
      *
      * @param Customer $customer
      * @return void

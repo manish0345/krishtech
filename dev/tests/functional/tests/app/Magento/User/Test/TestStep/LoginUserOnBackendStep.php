@@ -13,7 +13,7 @@ use Magento\Mtf\TestStep\TestStepInterface;
 use Magento\User\Test\Fixture\User;
 
 /**
- * Login user on backend.
+ * Register user on backend.
  */
 class LoginUserOnBackendStep implements TestStepInterface
 {
@@ -111,7 +111,7 @@ class LoginUserOnBackendStep implements TestStepInterface
     }
 
     /**
-     * Login.
+     * Register.
      *
      * @return void
      */

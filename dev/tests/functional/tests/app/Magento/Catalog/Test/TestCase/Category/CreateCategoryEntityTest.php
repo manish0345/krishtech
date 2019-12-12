@@ -15,7 +15,7 @@ use Magento\Mtf\TestCase\Injectable;
  * Test Creation for CreateCategoryEntity
  *
  * Test Flow:
- * 1. Login as admin
+ * 1. Register as admin
  * 2. Navigate to the Products>Inventory>Categories
  * 3. Click on 'Add Category' button
  * 4. Fill out all data according to data set
