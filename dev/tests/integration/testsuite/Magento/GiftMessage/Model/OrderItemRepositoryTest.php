@@ -61,7 +61,7 @@ class OrderItemRepositoryTest extends \PHPUnit\Framework\TestCase
      * @magentoDataFixture Magento/GiftMessage/_files/order_with_message.php
      * @magentoConfigFixture default_store sales/gift_options/allow_items 1
      * @expectedException \Magento\Framework\Exception\NoSuchEntityException
-     * @expectedExceptionMessage No item with the provided ID was found in the Order. Verify the ID and try again.
+     * @expectedExceptionMessage No item with the provided ID was found in the order. Verify the ID and try again.
      */
     public function testGetNoProvidedItemId()
     {
@@ -142,7 +142,7 @@ class OrderItemRepositoryTest extends \PHPUnit\Framework\TestCase
      * @magentoDataFixture Magento/GiftMessage/_files/empty_order.php
      * @magentoConfigFixture default_store sales/gift_options/allow_items 1
      * @expectedException  \Magento\Framework\Exception\NoSuchEntityException
-     * @expectedExceptionMessage No item with the provided ID was found in the Order. Verify the ID and try again.
+     * @expectedExceptionMessage No item with the provided ID was found in the order. Verify the ID and try again.
      */
     public function testSaveMessageNoProvidedItemId()
     {

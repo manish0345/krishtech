@@ -30,7 +30,7 @@ class CreateOnlineCreditMemoStep implements TestStepInterface
     private $orderIndex;
 
     /**
-     * Order view Page.
+     * order view Page.
      *
      * @var SalesOrderView
      */
@@ -51,7 +51,7 @@ class CreateOnlineCreditMemoStep implements TestStepInterface
     private $order;
 
     /**
-     * Order invoice view page.
+     * order invoice view page.
      *
      * @var OrderInvoiceView
      */

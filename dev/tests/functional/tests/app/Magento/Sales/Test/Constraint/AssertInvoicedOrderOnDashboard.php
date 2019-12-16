@@ -38,7 +38,7 @@ class AssertInvoicedOrderOnDashboard extends AbstractConstraint
         \PHPUnit\Framework\Assert::assertEquals(
             $invoicedOrdersQty,
             $expectedOrdersQuantityOnDashboard,
-            'Order quantity om admin dashboard is not correct.'
+            'order quantity om admin dashboard is not correct.'
         );
     }
 
@@ -49,6 +49,6 @@ class AssertInvoicedOrderOnDashboard extends AbstractConstraint
      */
     public function toString()
     {
-        return 'Order information on dashboard is correct.';
+        return 'order information on dashboard is correct.';
     }
 }

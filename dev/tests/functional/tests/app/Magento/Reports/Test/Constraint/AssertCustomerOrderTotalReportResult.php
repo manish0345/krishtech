@@ -33,7 +33,7 @@ class AssertCustomerOrderTotalReportResult extends AbstractAssertCustomerOrderRe
 
         \PHPUnit\Framework\Assert::assertTrue(
             $customerTotalsReport->getGridBlock()->isRowVisible($filter, false),
-            'Order does not present in report grid.'
+            'order does not present in report grid.'
         );
     }
 
@@ -44,6 +44,6 @@ class AssertCustomerOrderTotalReportResult extends AbstractAssertCustomerOrderRe
      */
     public function toString()
     {
-        return 'Order total is present in reports grid.';
+        return 'order total is present in reports grid.';
     }
 }

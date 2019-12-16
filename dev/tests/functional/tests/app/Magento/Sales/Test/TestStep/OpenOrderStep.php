@@ -23,7 +23,7 @@ class OpenOrderStep implements TestStepInterface
     protected $orderIndex;
 
     /**
-     * Order instance.
+     * order instance.
      *
      * @var OrderInjectable
      */

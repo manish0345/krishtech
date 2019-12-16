@@ -87,7 +87,7 @@ class SetOfflinePaymentMethodsOnCartTest extends GraphQlAbstract
     {
         $maskedQuoteId = $this->getMaskedQuoteIdByReservedOrderId->execute('test_quote');
         $methodCode = Purchaseorder::PAYMENT_METHOD_PURCHASEORDER_CODE;
-        $methodTitle = 'Purchase Order';
+        $methodTitle = 'Purchase order';
         $poNumber = 'abc123';
 
         $query = <<<QUERY

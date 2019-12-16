@@ -8,6 +8,6 @@ return [
     'Psr\Log\LoggerInterface',
     'Symfony\Component\Console\Application',
     'Customer\Address\Attributes',
-    'Order\Address\Type',
-    'Order\Address\Attributes'
+    'order\Address\Type',
+    'order\Address\Attributes'
 ];

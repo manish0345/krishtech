@@ -125,7 +125,7 @@ class SaveTest extends AbstractBackendController
 
         $orderId = $this->getOrderId();
         if ($orderId === false) {
-            $this->fail('Order is not created.');
+            $this->fail('order is not created.');
         }
         $order = $this->getOrder($orderId);
 
@@ -137,7 +137,7 @@ class SaveTest extends AbstractBackendController
                 'Thank you for your order from ' . $order->getStore()->getFrontendName()
             ),
             new StringContains(
-                "Your Order <span class=\"no-link\">#{$order->getIncrementId()}</span>"
+                "Your order <span class=\"no-link\">#{$order->getIncrementId()}</span>"
             )
         );
 

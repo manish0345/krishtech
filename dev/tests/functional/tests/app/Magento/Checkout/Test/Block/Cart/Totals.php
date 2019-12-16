@@ -134,7 +134,7 @@ class Totals extends Block
     }
 
     /**
-     * Get Tax text from Order Totals.
+     * Get Tax text from order Totals.
      *
      * @return string|null
      */

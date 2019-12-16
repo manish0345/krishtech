@@ -41,7 +41,7 @@ class ExpressCheckoutOrderPlaceStep implements TestStepInterface
     protected $checkoutOnepageSuccess;
 
     /**
-     * Order Review page on Magento side after redirecting from PayPal.
+     * order Review page on Magento side after redirecting from PayPal.
      *
      * @var OrderReviewExpress
      */
@@ -55,7 +55,7 @@ class ExpressCheckoutOrderPlaceStep implements TestStepInterface
     protected $shipping;
 
     /**
-     * Order prices.
+     * order prices.
      *
      * @var array
      */

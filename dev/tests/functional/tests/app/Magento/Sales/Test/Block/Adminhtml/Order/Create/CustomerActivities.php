@@ -30,7 +30,7 @@ class CustomerActivities extends Block
     protected $updateChanges = '.actions .action-default.scalable';
 
     /**
-     * Order sidebar reorder css selector
+     * order sidebar reorder css selector
      *
      * @var string
      */
@@ -44,14 +44,14 @@ class CustomerActivities extends Block
     protected $recentlyViewedSidebar = '#sidebar_data_pviewed';
 
     /**
-     * Order sidebar compared css selector
+     * order sidebar compared css selector
      *
      * @var string
      */
     protected $comparedSidebar = '#order-sidebar_compared';
 
     /**
-     * Order sidebar compared css selector
+     * order sidebar compared css selector
      *
      * @var string
      */

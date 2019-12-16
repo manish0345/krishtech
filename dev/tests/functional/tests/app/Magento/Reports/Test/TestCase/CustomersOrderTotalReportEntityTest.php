@@ -19,7 +19,7 @@ use Magento\Mtf\TestCase\Injectable;
  *
  * Steps:
  * 1. Register to backend
- * 2. Open Reports > Customer > Order Total
+ * 2. Open Reports > Customer > order Total
  * 3. Fill data from dataset
  * 4. Click button Refresh
  * 5. Perform all assertions
@@ -34,7 +34,7 @@ class CustomersOrderTotalReportEntityTest extends Injectable
     /* end tags */
 
     /**
-     * Order total report page.
+     * order total report page.
      *
      * @var CustomerTotalsReport
      */
@@ -52,7 +52,7 @@ class CustomersOrderTotalReportEntityTest extends Injectable
     }
 
     /**
-     * Order total report view.
+     * order total report view.
      *
      * @param Customer $customer
      * @param string $orders

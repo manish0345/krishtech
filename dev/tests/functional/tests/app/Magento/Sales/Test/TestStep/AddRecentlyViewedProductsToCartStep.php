@@ -22,7 +22,7 @@ class AddRecentlyViewedProductsToCartStep implements TestStepInterface
     protected $products = [];
 
     /**
-     * Order create index page.
+     * order create index page.
      *
      * @var OrderCreateIndex
      */

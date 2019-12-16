@@ -18,11 +18,11 @@ use Magento\Mtf\TestCase\Scenario;
  * 5. Place order with options according to dataset.
  *
  * Steps:
- * 1. Find the Order on frontend.
+ * 1. Find the order on frontend.
  * 2. Navigate to: Orders and Returns.
- * 3. Fill the form with correspondent Order data.
+ * 3. Fill the form with correspondent order data.
  * 4. Click on the "Continue" button.
- * 5. Click on the "Print Order" button.
+ * 5. Click on the "Print order" button.
  * 6. Perform appropriate assertions.v
  *
  * @group Order_Management

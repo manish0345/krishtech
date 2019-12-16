@@ -14,7 +14,7 @@ use Magento\Mtf\TestStep\TestStepFactory;
 
 /**
  * Preconditions:
- * 1. Enable payment method: "Check/Money Order/Bank Transfer/Cash on Delivery/Purchase Order/Zero Subtotal Checkout".
+ * 1. Enable payment method: "Check/Money order/Bank Transfer/Cash on Delivery/Purchase order/Zero Subtotal Checkout".
  * 2. Enable shipping method one of "Flat Rate/Free Shipping".
  * 3. Create order.
  *
@@ -22,7 +22,7 @@ use Magento\Mtf\TestStep\TestStepFactory;
  * 1. Register to backend.
  * 2. Sales > Orders.
  * 3. Open the created order.
- * 4. Do cancel Order.
+ * 4. Do cancel order.
  * 5. Perform all assertions.
  *
  * @group Order_Management
@@ -42,7 +42,7 @@ class CancelCreatedOrderTest extends Injectable
     protected $orderIndex;
 
     /**
-     * Order view Page.
+     * order view Page.
      *
      * @var SalesOrderView
      */

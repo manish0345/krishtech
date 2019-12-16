@@ -10,7 +10,7 @@ use Magento\Reports\Test\Block\Adminhtml\AbstractFilter;
 
 /**
  * Class Filter
- * Filter for Order count Report
+ * Filter for order count Report
  */
 class Filter extends AbstractFilter
 {

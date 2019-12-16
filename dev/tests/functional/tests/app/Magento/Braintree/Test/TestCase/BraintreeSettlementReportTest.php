@@ -24,7 +24,7 @@ use Magento\Mtf\TestCase\Scenario;
  * 6. Select shipping method.
  * 7. Select payment method (use reward points and store credit if available).
  * 8. Verify order total on review step.
- * 9. Click 'Place Order' button.
+ * 9. Click 'Place order' button.
  * 10. Go to admin panel.
  * 11. Open 'Reports' -> 'Braintree Settlement'.
  * 12. Find transaction for latest order.

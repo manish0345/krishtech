@@ -25,7 +25,7 @@ use Magento\Mtf\TestCase\Injectable;
  * Steps:
  * 1. Open Customers -> All Customers.
  * 2. Search and open customer from preconditions.
- * 3. Click 'Create Order'.
+ * 3. Click 'Create order'.
  * 4. Check product in comparison list section.
  * 5. Click 'Update Changes'.
  * 6. Perform all assertions.
@@ -63,7 +63,7 @@ class MoveProductsInComparedOnOrderPageTest extends Injectable
     protected $catalogProductView;
 
     /**
-     * Order create index page.
+     * order create index page.
      *
      * @var OrderCreateIndex
      */

@@ -10,12 +10,12 @@ use Magento\Mtf\Constraint\AbstractConstraint;
 use Magento\Sales\Test\Page\Adminhtml\OrderCreateIndex;
 
 /**
- * Assert that customer's Shopping Cart section on Order Create backend page is empty.
+ * Assert that customer's Shopping Cart section on order Create backend page is empty.
  */
 class AssertCartSectionIsEmptyOnBackendOrderPage extends AbstractConstraint
 {
     /**
-     * Assert that customer's Shopping Cart section on Order Create backend page is empty.
+     * Assert that customer's Shopping Cart section on order Create backend page is empty.
      *
      * @param OrderCreateIndex $orderCreateIndex
      * @return void
@@ -26,17 +26,17 @@ class AssertCartSectionIsEmptyOnBackendOrderPage extends AbstractConstraint
         $backendOrderSidebarBlock = $orderCreateIndex->getBackendOrderSidebarBlock()->noItemsInCartCheck();
         \PHPUnit\Framework\Assert::assertTrue(
             $backendOrderSidebarBlock,
-            "Customer's Shopping Cart section on Order Create backend page is not empty."
+            "Customer's Shopping Cart section on order Create backend page is not empty."
         );
     }
 
     /**
-     * Success assert message that customer's Shopping Cart section on Order Create backend page is empty.
+     * Success assert message that customer's Shopping Cart section on order Create backend page is empty.
      *
      * @return string
      */
     public function toString()
     {
-        return "Customer's Shopping Cart section on Order Create backend page is empty.";
+        return "Customer's Shopping Cart section on order Create backend page is empty.";
     }
 }

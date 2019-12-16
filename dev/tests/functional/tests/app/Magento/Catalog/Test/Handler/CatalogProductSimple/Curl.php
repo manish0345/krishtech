@@ -116,7 +116,7 @@ class Curl extends AbstractCurl implements CatalogProductSimpleInterface
             'Use config' => 0,
             'On Gesture' => 1,
             'In Cart' => 2,
-            'Before Order Confirmation' => 3
+            'Before order Confirmation' => 3
         ],
         'enable_qty_increments' => [
             'Yes' => 1,

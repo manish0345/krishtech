@@ -25,7 +25,7 @@ abstract class AbstractAssertInvoiceReportResult extends AbstractConstraint
     protected $salesInvoiceReport;
 
     /**
-     * Order.
+     * order.
      *
      * @var OrderInjectable
      */

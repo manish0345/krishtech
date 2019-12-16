@@ -10,7 +10,7 @@ use Magento\Checkout\Test\Page\CheckoutOnepage;
 use Magento\Mtf\Constraint\AbstractConstraint;
 
 /**
- * Assert that Order Grand Total is correct on checkoutOnePage.
+ * Assert that order Grand Total is correct on checkoutOnePage.
  */
 class AssertGrandTotalOrderReview extends AbstractConstraint
 {
@@ -22,7 +22,7 @@ class AssertGrandTotalOrderReview extends AbstractConstraint
     protected $waitElement = '.loading-mask';
 
     /**
-     * Assert that Order Grand Total is correct on checkoutOnePage
+     * Assert that order Grand Total is correct on checkoutOnePage
      *
      * @param CheckoutOnepage $checkoutOnepage
      * @param string $grandTotal

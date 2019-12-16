@@ -14,7 +14,7 @@ use Magento\Mtf\TestCase\Injectable;
 /**
  * Steps:
  * 1. Log in as admin.
- * 2. Navigate to the Stores > Settings > Order Status.
+ * 2. Navigate to the Stores > Settings > order Status.
  * 3. Click on "Create New Status" button.
  * 4. Fill in all data according to data set.
  * 5. Save order status.
@@ -30,7 +30,7 @@ class CreateCustomOrderStatusEntityTest extends Injectable
     /* end tags */
 
     /**
-     * Order status page.
+     * order status page.
      *
      * @var OrderStatusIndex
      */
@@ -57,7 +57,7 @@ class CreateCustomOrderStatusEntityTest extends Injectable
     }
 
     /**
-     * Run Create Order Status test.
+     * Run Create order Status test.
      *
      * @param OrderStatus $orderStatus
      * @return void

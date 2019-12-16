@@ -48,6 +48,6 @@ class AssertOrderSuccessVoidedMessage extends AbstractConstraint
      */
     public function toString()
     {
-        return 'Order successful void message is present.';
+        return 'order successful void message is present.';
     }
 }

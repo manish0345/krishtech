@@ -35,21 +35,21 @@ class AcceptTransactionOnAuthorizenetStep implements TestStepInterface
     private $main;
 
     /**
-     * Sales Order view page.
+     * Sales order view page.
      *
      * @var SalesOrderView
      */
     private $salesOrderView;
 
     /**
-     * Order Index page.
+     * order Index page.
      *
      * @var OrderIndex
      */
     private $salesOrder;
 
     /**
-     * Order id.
+     * order id.
      *
      * @var string
      */

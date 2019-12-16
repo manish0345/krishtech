@@ -51,11 +51,11 @@ class AssertOrderItemsPagerHiddenOnFrontend extends AbstractConstraint
         $orderHistory->getOrderHistoryBlock()->openOrderById($orderId);
         \PHPUnit\Framework\Assert::assertFalse(
             $customerOrderView->getOrderViewBlock()->isTopPagerDisplayed(),
-            'Order items top pager is expected to be hidden for order '. $orderId
+            'order items top pager is expected to be hidden for order '. $orderId
         );
         \PHPUnit\Framework\Assert::assertFalse(
             $customerOrderView->getOrderViewBlock()->isBottomPagerDisplayed(),
-            'Order items bottom pager is expected to be hidden for order '. $orderId
+            'order items bottom pager is expected to be hidden for order '. $orderId
         );
     }
 
@@ -66,6 +66,6 @@ class AssertOrderItemsPagerHiddenOnFrontend extends AbstractConstraint
      */
     public function toString()
     {
-        return 'Order items pager is present on frontend.';
+        return 'order items pager is present on frontend.';
     }
 }

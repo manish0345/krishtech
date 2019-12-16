@@ -14,7 +14,7 @@ use Magento\Backend\Test\Block\FormPageActions as ParentFormPageActions;
 class FormPageActions extends ParentFormPageActions
 {
     /**
-     * "Create Order" button.
+     * "Create order" button.
      *
      * @var string
      */
@@ -28,7 +28,7 @@ class FormPageActions extends ParentFormPageActions
     protected $manageShoppingCartButton = '#manage_quote';
 
     /**
-     * Click on "Create Order" button.
+     * Click on "Create order" button.
      *
      * @return void
      */

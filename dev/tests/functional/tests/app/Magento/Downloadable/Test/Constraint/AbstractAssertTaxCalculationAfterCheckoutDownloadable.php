@@ -57,7 +57,7 @@ abstract class AbstractAssertTaxCalculationAfterCheckoutDownloadable extends Abs
         $actualPrices = $this->getReviewPrices($actualPrices, $product);
         $actualPrices = $this->getReviewTotals($actualPrices);
         $prices = $this->preparePrices($prices);
-        //Order review prices verification
+        //order review prices verification
         $message = 'Prices on order review should be equal to defined in dataset.';
         \PHPUnit\Framework\Assert::assertEquals($prices, array_filter($actualPrices), $message);
 

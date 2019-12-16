@@ -51,7 +51,7 @@ class SaveTest extends AbstractCreditmemoControllerTest
                 'Thank you for your order from ' . $creditMemo->getStore()->getFrontendName()
             ),
             new StringContains(
-                "Your Credit Memo #{$creditMemo->getIncrementId()} for Order #{$order->getIncrementId()}"
+                "Your Credit Memo #{$creditMemo->getIncrementId()} for order #{$order->getIncrementId()}"
             )
         );
 
@@ -125,7 +125,7 @@ class SaveTest extends AbstractCreditmemoControllerTest
     }
 
     /**
-     * Gets all items of given Order in proper format.
+     * Gets all items of given order in proper format.
      *
      * @param Order $order
      * @param int $subQty

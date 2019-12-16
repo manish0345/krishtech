@@ -62,7 +62,7 @@ class SignifydObserveCaseStep implements TestStepInterface
     private $prices;
 
     /**
-     * Order fixture.
+     * order fixture.
      *
      * @var string
      */

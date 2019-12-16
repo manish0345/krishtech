@@ -21,7 +21,7 @@ class Api
      *
      * @param \PHPUnit\Framework\TestCase $testCase Active test case
      * @param string $path
-     * @param array $params Order of items matters as they are passed to call_user_func_array
+     * @param array $params order of items matters as they are passed to call_user_func_array
      * @return mixed
      */
     public static function call(\PHPUnit\Framework\TestCase $testCase, $path, $params = [])
@@ -67,7 +67,7 @@ class Api
      *
      * @param \PHPUnit\Framework\TestCase $testCase Active test case
      * @param string $path
-     * @param array $params Order of items matters as they are passed to call_user_func_array
+     * @param array $params order of items matters as they are passed to call_user_func_array
      * @param string $expectedMessage exception message
      * @return \SoapFault
      */

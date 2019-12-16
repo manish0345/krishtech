@@ -52,7 +52,7 @@ class AuthorizationTest extends \Magento\TestFramework\TestCase\AbstractBackendC
      * Test of authorization of full order amount.
      *
      * @magentoConfigFixture current_store payment/paypal_express/active 1
-     * @magentoConfigFixture current_store payment/paypal_express/payment_action Order
+     * @magentoConfigFixture current_store payment/paypal_express/payment_action order
      * @magentoDataFixture Magento/Paypal/_files/order_express_payment_action_order.php
      * @magentoDbIsolation enabled
      * @return void

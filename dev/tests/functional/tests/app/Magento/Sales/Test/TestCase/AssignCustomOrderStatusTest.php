@@ -17,16 +17,16 @@ use Magento\Mtf\TestCase\Injectable;
 
 /**
  * Preconditions:
- * 1. Custom Order Status is created.
+ * 1. Custom order Status is created.
  *
  * Steps:
  * 1. Log in as admin.
- * 2. Navigate to the Stores > Settings > Order Status.
+ * 2. Navigate to the Stores > Settings > order Status.
  * 3. Click on "Assign Status to State.
  * 4. Fill in all data according to data set.
  * 5. Save Status Assignment.
  * 6. Call assert assertOrderStatusSuccessAssignMessage.
- * 7. Create Order.
+ * 7. Create order.
  * 8. Perform all assertions from dataset.
  *
  * @group Order_Management
@@ -40,21 +40,21 @@ class AssignCustomOrderStatusTest extends Injectable
     /* end tags */
 
     /**
-     * Order Status Index page.
+     * order Status Index page.
      *
      * @var OrderStatusIndex
      */
     protected $orderStatusIndex;
 
     /**
-     * Order Status Assign page.
+     * order Status Assign page.
      *
      * @var OrderStatusAssign
      */
     protected $orderStatusAssign;
 
     /**
-     * Order Index page.
+     * order Index page.
      *
      * @var OrderIndex
      */

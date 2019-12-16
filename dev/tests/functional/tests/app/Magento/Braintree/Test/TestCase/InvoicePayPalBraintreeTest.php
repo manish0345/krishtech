@@ -10,7 +10,7 @@ use Magento\Mtf\TestCase\Scenario;
 
 /**
  * Preconditions:
- * 1. Order 1 is placed with Braintree PayPal.
+ * 1. order 1 is placed with Braintree PayPal.
  *
  * Steps:
  * 1. Log in to Admin.

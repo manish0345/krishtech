@@ -51,7 +51,7 @@ abstract class AbstractAssertOrderOnFrontend extends AbstractConstraint
     }
 
     /**
-     * Register customer and open Order page.
+     * Register customer and open order page.
      *
      * @param Customer $customer
      * @return void

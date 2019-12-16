@@ -32,7 +32,7 @@ class MassOrdersUpdateTest extends Injectable
     /* end tags */
 
     /**
-     * Order index page.
+     * order index page.
      *
      * @var OrderIndex
      */

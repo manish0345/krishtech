@@ -11,7 +11,7 @@ use Magento\Mtf\Constraint\AbstractConstraint;
 use Magento\Signifyd\Test\Fixture\SignifydData;
 
 /**
- * Assert that Order Case Entity is correct on order page in Admin.
+ * Assert that order Case Entity is correct on order page in Admin.
  */
 class AssertCaseInfoOnAdmin extends AbstractConstraint
 {
@@ -30,7 +30,7 @@ class AssertCaseInfoOnAdmin extends AbstractConstraint
     private $signifydData;
 
     /**
-     * Order id.
+     * order id.
      *
      * @var string
      */

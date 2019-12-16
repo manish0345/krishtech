@@ -34,7 +34,7 @@ class GridFilteringTest extends Injectable
     /* end tags */
 
     /**
-     * Order index page.
+     * order index page.
      *
      * @var PageFactory
      */

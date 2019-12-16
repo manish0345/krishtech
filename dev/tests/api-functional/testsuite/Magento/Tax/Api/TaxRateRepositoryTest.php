@@ -570,7 +570,7 @@ class TaxRateRepositoryTest extends WebapiAbstract
             ->setValue('2.2000')
             ->create();
         $this->searchCriteriaBuilder->addFilters([$filterBR, $filterUS, $filterCZ]);
-        // Order them by descending postcode (not the default order)
+        // order them by descending postcode (not the default order)
         $this->searchCriteriaBuilder->addFilters([$filterCZ, $filterRate])
             ->addSortOrder($sortOrder);
         $searchData = $this->searchCriteriaBuilder->create()->__toArray();

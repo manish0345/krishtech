@@ -31,28 +31,28 @@ class CreateInvoiceStep implements TestStepInterface
     private $orderIndex;
 
     /**
-     * Order view Page.
+     * order view Page.
      *
      * @var SalesOrderView
      */
     private $salesOrderView;
 
     /**
-     * Order New Invoice Page.
+     * order New Invoice Page.
      *
      * @var OrderInvoiceNew
      */
     private $orderInvoiceNew;
 
     /**
-     * Order invoice view page.
+     * order invoice view page.
      *
      * @var OrderInvoiceView
      */
     private $orderInvoiceView;
 
     /**
-     * Order shipment view page.
+     * order shipment view page.
      *
      * @var OrderShipmentView
      */

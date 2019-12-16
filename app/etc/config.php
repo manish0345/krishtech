@@ -234,8 +234,8 @@ return [
         'Amazon_Login' => 1,
         'Amazon_Payment' => 1,
         'Dotdigitalgroup_Email' => 1,
-        'Eadesigndev_Eacore' => 1,
-        'Eadesigndev_RomCity' => 1,
+        'Eadesigndev_Eacore' => 0,
+        'Eadesigndev_RomCity' => 0,
         'Faonni_SocialLogin' => 1,
         'Klarna_Core' => 1,
         'Klarna_Ordermanagement' => 1,
@@ -252,6 +252,7 @@ return [
         'TrainingManish_LoginPopup' => 1,
         'TrainingManish_OrderStatusFilter' => 1,
         'TrainingManish_ProductAttribute' => 1,
+        'TrainingManish_SalesCustomField' => 1,
         'Vertex_Tax' => 1
     ]
 ];

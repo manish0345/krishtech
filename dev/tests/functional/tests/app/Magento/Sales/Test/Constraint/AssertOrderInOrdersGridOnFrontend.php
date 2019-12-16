@@ -58,7 +58,7 @@ class AssertOrderInOrdersGridOnFrontend extends AbstractConstraint
         $errorMessage = implode(', ', $filter);
         \PHPUnit\Framework\Assert::assertTrue(
             $orderHistory->getOrderHistoryBlock()->isOrderVisible($filter),
-            'Order with following data \'' . $errorMessage . '\' is absent in Orders block on frontend.'
+            'order with following data \'' . $errorMessage . '\' is absent in Orders block on frontend.'
         );
     }
 

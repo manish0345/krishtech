@@ -39,7 +39,7 @@ class SettleTransactionStep implements TestStepInterface
     private $salesOrderView;
 
     /**
-     * Order id.
+     * order id.
      *
      * @var string
      */

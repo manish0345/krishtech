@@ -39,7 +39,7 @@ class Review extends AbstractReview
     }
 
     /**
-     * Click "Place Order" button.
+     * Click "Place order" button.
      */
     public function placeOrder()
     {

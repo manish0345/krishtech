@@ -93,7 +93,7 @@ define([
             expect(braintreeCcForm.messageContainer).toEqual(expectedMessageContainer);
         });
 
-        it('Check if form validation fails when "Place Order" button should be active.', function () {
+        it('Check if form validation fails when "Place order" button should be active.', function () {
             var errorMessage = 'Something went wrong.',
 
                 /**

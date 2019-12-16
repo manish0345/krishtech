@@ -12,12 +12,12 @@ use Magento\Sales\Test\Block\Adminhtml\Order\View\Tab\Info\PaymentInfoBlock;
 use Magento\Sales\Test\Block\Adminhtml\Order\View\Tab\Info\ShippingInfoBlock;
 
 /**
- * Order information tab block.
+ * order information tab block.
  */
 class Info extends Tab
 {
     /**
-     * Order status selector.
+     * order status selector.
      *
      * @var string
      */
@@ -68,7 +68,7 @@ class Info extends Tab
     }
 
     /**
-     * Gets Order Shipping Information block.
+     * Gets order Shipping Information block.
      *
      * @return ShippingInfoBlock
      */

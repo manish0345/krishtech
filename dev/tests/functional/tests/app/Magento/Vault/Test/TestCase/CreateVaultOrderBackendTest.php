@@ -15,7 +15,7 @@ use Magento\Mtf\TestCase\Scenario;
  * Steps:
  * 1. Open Backend.
  * 2. Open Sales -> Orders.
- * 3. Click Create New Order.
+ * 3. Click Create New order.
  * 4. Select Customer created in preconditions.
  * 5. Add Product.
  * 6. Fill data according dataset.
@@ -24,7 +24,7 @@ use Magento\Mtf\TestCase\Scenario;
  * 9. Click Get Shipping Method and rates.
  * 10. Fill data according dataset.
  * 11. Select payment method with enabled Vault.
- * 12. Place Order.
+ * 12. Place order.
  * 13. Reorder placed order.
  * 14. Select stored cards as payment method.
  * 15. Select any available payment token.

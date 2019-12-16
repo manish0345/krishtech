@@ -31,21 +31,21 @@ class CreateShipmentStep implements TestStepInterface
     protected $orderIndex;
 
     /**
-     * Order view Page.
+     * order view Page.
      *
      * @var SalesOrderView
      */
     protected $salesOrderView;
 
     /**
-     * New Order Shipment Page.
+     * New order Shipment Page.
      *
      * @var OrderShipmentNew
      */
     protected $orderShipmentNew;
 
     /**
-     * Order shipment view page.
+     * order shipment view page.
      *
      * @var OrderShipmentView
      */

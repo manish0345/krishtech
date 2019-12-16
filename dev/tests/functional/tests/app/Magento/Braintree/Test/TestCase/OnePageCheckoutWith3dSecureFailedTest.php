@@ -21,7 +21,7 @@ use Magento\Mtf\TestCase\Scenario;
  * 7. Select shipping method.
  * 8. Select payment method.
  * 9. Verify order total on review step.
- * 10. Click 'Place Order' button.
+ * 10. Click 'Place order' button.
  * 11. Specify password in 3D Secure popup.
  * 12. Click 'Submit'.
  * 13. Perform assertions.

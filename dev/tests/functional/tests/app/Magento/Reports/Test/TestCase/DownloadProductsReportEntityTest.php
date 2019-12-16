@@ -85,7 +85,7 @@ class DownloadProductsReportEntityTest extends Injectable
     }
 
     /**
-     * Order downloadable product.
+     * order downloadable product.
      *
      * @param OrderInjectable $order
      * @param string $downloads

@@ -9,7 +9,7 @@ namespace Magento\Sales\Test\Block\Adminhtml\Order\View\Tab\Info;
 use Magento\Mtf\Block\Block;
 
 /**
- * Order comments history block.
+ * order comments history block.
  */
 class CommentsHistoryBlock extends Block
 {

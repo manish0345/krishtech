@@ -20,7 +20,7 @@ use Magento\Mtf\TestCase\Scenario;
  * 4. Fill shipping information.
  * 5. Select shipping method.
  * 6. Select payment method.
- * 7. Click 'Place Order' button.
+ * 7. Click 'Place order' button.
  * 8. Perform assertions.
  *
  * @group Checkout

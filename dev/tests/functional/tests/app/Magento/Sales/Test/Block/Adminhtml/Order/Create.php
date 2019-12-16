@@ -73,7 +73,7 @@ class Create extends Block
     protected $templateBlock = './ancestor::body';
 
     /**
-     * Order items grid block.
+     * order items grid block.
      *
      * @var string
      */
@@ -87,7 +87,7 @@ class Create extends Block
     protected $updateItems = '[onclick="order.itemsUpdate()"]';
 
     /**
-     * 'Add Selected Product(s) to Order' button.
+     * 'Add Selected Product(s) to order' button.
      *
      * @var string
      */
@@ -353,7 +353,7 @@ class Create extends Block
     }
 
     /**
-     * Click "Add Selected Product(s) to Order" button.
+     * Click "Add Selected Product(s) to order" button.
      *
      * @return void
      */

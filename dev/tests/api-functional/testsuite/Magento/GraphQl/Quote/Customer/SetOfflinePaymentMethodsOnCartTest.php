@@ -95,7 +95,7 @@ class SetOfflinePaymentMethodsOnCartTest extends GraphQlAbstract
     public function testSetPurchaseOrderPaymentMethod()
     {
         $maskedQuoteId = $this->getMaskedQuoteIdByReservedOrderId->execute('test_quote');
-        $methodTitle = 'Purchase Order';
+        $methodTitle = 'Purchase order';
         $methodCode = Purchaseorder::PAYMENT_METHOD_PURCHASEORDER_CODE;
         $poNumber = 'abc123';
 

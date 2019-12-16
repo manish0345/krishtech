@@ -28,7 +28,7 @@ class AssertProductTypeOrderOnCreate extends AbstractConstraint
         \PHPUnit\Framework\Assert::assertEquals(
             implode("\n", $menu),
             $catalogProductIndex->getGridPageActionBlock()->getTypeList(),
-            'Order and filling of types on product page not equals to incoming data.'
+            'order and filling of types on product page not equals to incoming data.'
         );
     }
 
@@ -39,6 +39,6 @@ class AssertProductTypeOrderOnCreate extends AbstractConstraint
      */
     public function toString()
     {
-        return 'Order and types of product on product page equals to incoming data.';
+        return 'order and types of product on product page equals to incoming data.';
     }
 }

@@ -24,7 +24,7 @@ class UnholdOrderStep implements TestStepInterface
     protected $orderIndex;
 
     /**
-     * Order view Page.
+     * order view Page.
      *
      * @var SalesOrderView
      */

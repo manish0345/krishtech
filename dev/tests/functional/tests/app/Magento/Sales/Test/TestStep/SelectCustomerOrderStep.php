@@ -12,7 +12,7 @@ use Magento\Mtf\TestStep\TestStepInterface;
 
 /**
  * Class SelectCustomerOrderStep
- * Select Customer for Order
+ * Select Customer for order
  */
 class SelectCustomerOrderStep implements TestStepInterface
 {
@@ -42,7 +42,7 @@ class SelectCustomerOrderStep implements TestStepInterface
     }
 
     /**
-     * Select Customer for Order
+     * Select Customer for order
      *
      * @return void
      */

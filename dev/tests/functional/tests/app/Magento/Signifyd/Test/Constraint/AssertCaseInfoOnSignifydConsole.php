@@ -140,7 +140,7 @@ class AssertCaseInfoOnSignifydConsole extends AbstractConstraint
         \PHPUnit\Framework\Assert::assertEquals(
             $orderId,
             $this->signifydCases->getCaseInfoBlock()->getOrderId(),
-            'Order id is incorrect on case page in Signifyd console.'
+            'order id is incorrect on case page in Signifyd console.'
         );
     }
 
@@ -155,7 +155,7 @@ class AssertCaseInfoOnSignifydConsole extends AbstractConstraint
         \PHPUnit\Framework\Assert::assertEquals(
             number_format($amount, 2),
             $this->signifydCases->getCaseInfoBlock()->getOrderAmount(),
-            'Order amount is incorrect on case page in Signifyd console.'
+            'order amount is incorrect on case page in Signifyd console.'
         );
     }
 
@@ -170,7 +170,7 @@ class AssertCaseInfoOnSignifydConsole extends AbstractConstraint
         \PHPUnit\Framework\Assert::assertEquals(
             $currency,
             $this->signifydCases->getCaseInfoBlock()->getOrderAmountCurrency(),
-            'Order amount currency is incorrect on case page in Signifyd console.'
+            'order amount currency is incorrect on case page in Signifyd console.'
         );
     }
 

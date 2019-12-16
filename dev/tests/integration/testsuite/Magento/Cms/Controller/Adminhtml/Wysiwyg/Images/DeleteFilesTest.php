@@ -66,7 +66,7 @@ class DeleteFilesTest extends \PHPUnit\Framework\TestCase
         copy($fixtureDir . '/' . $this->fileName, $filePath);
         $path = $this->fullDirectoryPath . '/.htaccess';
         if (!$this->mediaDirectory->isFile($path)) {
-            $this->mediaDirectory->writeFile($path, "Order deny,allow\nDeny from all");
+            $this->mediaDirectory->writeFile($path, "order deny,allow\nDeny from all");
         }
         $this->model = $this->objectManager->get(\Magento\Cms\Controller\Adminhtml\Wysiwyg\Images\DeleteFiles::class);
     }

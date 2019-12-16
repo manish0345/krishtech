@@ -13,7 +13,7 @@ use Magento\Mtf\TestCase\Scenario;
  * 2. Create online invoice on full amount with PayPal Payflow Link.
  *
  * Steps:
- * 1. Go to Order.
+ * 1. Go to order.
  * 2. Open Invoice.
  * 3. Click "Credit Memo" button on the Invoice page.
  * 4. Click "Refund".
@@ -32,7 +32,7 @@ class CreateOnlineCreditMemoPayflowLinkTest extends Scenario
     /* end tags */
 
     /**
-     * Create Refund for Order Paid with PayPal Payflow Link.
+     * Create Refund for order Paid with PayPal Payflow Link.
      *
      * @return void
      */

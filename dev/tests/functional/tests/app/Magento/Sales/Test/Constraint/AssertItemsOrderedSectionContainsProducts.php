@@ -10,12 +10,12 @@ use Magento\Mtf\Constraint\AbstractConstraint;
 use Magento\Sales\Test\Page\Adminhtml\OrderCreateIndex;
 
 /**
- * Assert that Items Ordered section on Create Order page on backend contains products.
+ * Assert that Items Ordered section on Create order page on backend contains products.
  */
 class AssertItemsOrderedSectionContainsProducts extends AbstractConstraint
 {
     /**
-     * Assert that Items Ordered section on Create Order page on backend contains products.
+     * Assert that Items Ordered section on Create order page on backend contains products.
      *
      * @param OrderCreateIndex $orderCreateIndex
      * @param array $products
@@ -30,17 +30,17 @@ class AssertItemsOrderedSectionContainsProducts extends AbstractConstraint
         \PHPUnit\Framework\Assert::assertEquals(
             sort($expectedItemNames),
             sort($itemsNames),
-            "Items Ordered section on Create Order page on backend doesn't contain correct products."
+            "Items Ordered section on Create order page on backend doesn't contain correct products."
         );
     }
 
     /**
-     * Success assert message that Items Ordered section on Create Order page on backend contains products.
+     * Success assert message that Items Ordered section on Create order page on backend contains products.
      *
      * @return string
      */
     public function toString()
     {
-        return "Items Ordered section on Create Order page on backend contains correct products.";
+        return "Items Ordered section on Create order page on backend contains correct products.";
     }
 }

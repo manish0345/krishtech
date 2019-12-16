@@ -73,14 +73,14 @@ class OrderTest extends \PHPUnit\Framework\TestCase
                 [
                     [
                         'id' => 'order/1/#100000001',
-                        'type' => 'Order',
-                        'name' => 'Order #100000001',
+                        'type' => 'order',
+                        'name' => 'order #100000001',
                         'description' => 'firstname lastname',
                     ],
                     [
                         'id' => 'order/1/#100000002',
-                        'type' => 'Order',
-                        'name' => 'Order #100000002',
+                        'type' => 'order',
+                        'name' => 'order #100000002',
                         'description' => 'guest guest'
                     ]
                 ],
@@ -92,8 +92,8 @@ class OrderTest extends \PHPUnit\Framework\TestCase
                 [
                     [
                         'id' => 'order/1/#100000003',
-                        'type' => 'Order',
-                        'name' => 'Order #100000003',
+                        'type' => 'order',
+                        'name' => 'order #100000003',
                         'description' => 'guest guest',
                     ]
                 ],
@@ -105,8 +105,8 @@ class OrderTest extends \PHPUnit\Framework\TestCase
                 [
                     [
                         'id' => 'order/1/#100000001',
-                        'type' => 'Order',
-                        'name' => 'Order #100000001',
+                        'type' => 'order',
+                        'name' => 'order #100000001',
                         'description' => 'firstname lastname',
                     ]
                 ],
@@ -124,8 +124,8 @@ class OrderTest extends \PHPUnit\Framework\TestCase
                 [
                     [
                         'id' => 'order/1/#100000001',
-                        'type' => 'Order',
-                        'name' => 'Order #100000001',
+                        'type' => 'order',
+                        'name' => 'order #100000001',
                         'description' => 'firstname lastname',
                     ]
                 ],

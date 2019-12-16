@@ -11,7 +11,7 @@ use Magento\Mtf\TestCase\Scenario;
 /**
  * Preconditions:
  * 1. Create Product according dataset.
- * 2. Enable Gift Messages (Order/Items level).
+ * 2. Enable Gift Messages (order/Items level).
  *
  * Steps:
  * 1. Register to backend

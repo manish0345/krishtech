@@ -10,7 +10,7 @@ use Magento\Catalog\Model\Product\Type;
 use Magento\ConfigurableProduct\Model\Product\Type\Configurable;
 
 /**
- * Fixture generator for Order entities with configurable number of different types of order items.
+ * Fixture generator for order entities with configurable number of different types of order items.
  *
  * Optionally generates inactive quotes for generated orders.
  *

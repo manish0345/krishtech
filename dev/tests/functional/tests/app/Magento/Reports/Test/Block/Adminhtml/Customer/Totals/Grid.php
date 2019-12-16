@@ -11,7 +11,7 @@ use Magento\Mtf\Client\Element\SimpleElement;
 
 /**
  * Class Grid
- * Order total report grid
+ * order total report grid
  */
 class Grid extends \Magento\Backend\Test\Block\Widget\Grid
 {

@@ -132,14 +132,14 @@ class View extends Block
     // @codingStandardsIgnoreEnd
 
     /**
-     * Order items top pager selector
+     * order items top pager selector
      *
      * @var string
      */
     private $itemTopPagerSelector = '[data-block=order-items-pager-top]';
 
     /**
-     * Order items bottom pager selector
+     * order items bottom pager selector
      *
      * @var string
      */
@@ -247,7 +247,7 @@ class View extends Block
     }
 
     /**
-     * Get Tax text from Order Totals
+     * Get Tax text from order Totals
      *
      * @return string
      */
@@ -258,7 +258,7 @@ class View extends Block
     }
 
     /**
-     * Get Tax text from Order Totals
+     * Get Tax text from order Totals
      *
      * @return string|null
      */

@@ -25,14 +25,14 @@ class AssertEstimateShippingAndTax extends AbstractConstraint
     /* end tags */
 
     /**
-     * Assert that Order Grand Total is correct on checkout page review block.
+     * Assert that order Grand Total is correct on checkout page review block.
      *
      * @var AssertGrandTotalInShoppingCart
      */
     protected $assertGrandTotalInShoppingCart;
 
     /**
-     * Assert that Order Subtotal is correct on checkout page review block.
+     * Assert that order Subtotal is correct on checkout page review block.
      *
      * @var AssertSubtotalInShoppingCart
      */

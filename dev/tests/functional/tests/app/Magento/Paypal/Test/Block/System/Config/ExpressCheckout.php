@@ -28,7 +28,7 @@ class ExpressCheckout extends Block
             'required_express_checkout_required_express_checkout_api_signature',
         'Merchant Account ID' => '#payment_us_paypal_alternative_payment_methods_express_checkout_us_express_' .
             'checkout_required_merchant_id',
-        'Sort Order PayPal Credit' => '#payment_us_paypal_alternative_payment_methods_express_checkout_us_express_' .
+        'Sort order PayPal Credit' => '#payment_us_paypal_alternative_payment_methods_express_checkout_us_express_' .
             'checkout_required_express_checkout_bml_sort_order',
     ];
 

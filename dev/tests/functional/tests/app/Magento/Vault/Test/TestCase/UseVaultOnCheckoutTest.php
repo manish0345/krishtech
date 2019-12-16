@@ -23,12 +23,12 @@ use Magento\Mtf\TestCase\Scenario;
  * 4. Select shipping method.
  * 5. Select payment method (use reward points and store credit if available).
  * 6. Enter credit card data and select *Save credit card* checkbox.
- * 7. Click Place Order button.
+ * 7. Click Place order button.
  * 8. Add products to the cart.
  * 9. Click the 'Proceed to Checkout' button.
  * 10. Select shipping method.
  * 11. Select saved credit card as a payment.
- * 12. Click Place Order button.
+ * 12. Click Place order button.
  * 13. Perform assertions.
  *
  * @group One_Page_Checkout

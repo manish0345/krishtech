@@ -10,12 +10,12 @@ use Magento\Checkout\Test\Page\CheckoutOnepage;
 use Magento\Mtf\Constraint\AbstractConstraint;
 
 /**
- * Assert that Order Subtotal is correct on Order Review page.
+ * Assert that order Subtotal is correct on order Review page.
  */
 class AssertSubTotalOrderReview extends AbstractConstraint
 {
     /**
-     * Assert that Order Subtotal is correct on Review page.
+     * Assert that order Subtotal is correct on Review page.
      *
      * @param CheckoutOnepage $checkoutOnepage
      * @param string $subTotal

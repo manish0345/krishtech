@@ -21,7 +21,7 @@ use Magento\Mtf\TestCase\Scenario;
  * 3.  Open the Mini shopping cart and click "Checkout with PayPal"
  * 4.  Click 'Proceed purchase' in popup.
  * 5.  Select a shipping method.
- * 6.  Click 'Place Order' button.
+ * 6.  Click 'Place order' button.
  * 8.  Select payment method
  * 12. Perform assertions.
  *

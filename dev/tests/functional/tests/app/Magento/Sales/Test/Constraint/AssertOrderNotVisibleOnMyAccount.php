@@ -46,7 +46,7 @@ class AssertOrderNotVisibleOnMyAccount extends AbstractConstraint
         \PHPUnit\Framework\Assert::assertFalse(
             $orderHistory->getOrderHistoryBlock()->isVisible()
             && $orderHistory->getOrderHistoryBlock()->isOrderVisible($filter),
-            'Order with following data \'' . implode(', ', $filter) . '\' is present in Orders block on frontend.'
+            'order with following data \'' . implode(', ', $filter) . '\' is present in Orders block on frontend.'
         );
     }
 

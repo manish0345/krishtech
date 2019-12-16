@@ -10,7 +10,7 @@ use Magento\Mtf\TestCase\Scenario;
 
 /**
  * Preconditions:
- * 1. Enable payment method: "Transfer/Cash on Delivery/Purchase Order/Zero Subtotal Checkout".
+ * 1. Enable payment method: "Transfer/Cash on Delivery/Purchase order/Zero Subtotal Checkout".
  * 2. Enable shipping method one of "Flat Rate.
  * 3. Create order.
  *
@@ -19,7 +19,7 @@ use Magento\Mtf\TestCase\Scenario;
  * 2. Sales > Orders.
  * 3. Open the created order.
  * 4. Create partial invoice
- * 4. Do cancel Order.
+ * 4. Do cancel order.
  * 5. Perform all assertions.
  *
  * @group Order_Management

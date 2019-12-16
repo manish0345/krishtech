@@ -41,7 +41,7 @@ return [
                 'required' => '1',
                 'sort_order' => '20',
                 'label' => 'Link Text',
-                'description' => 'The text of the link to the My Account &gt; Order by SKU page',
+                'description' => 'The text of the link to the My Account &gt; order by SKU page',
                 'depends' => ['link_display' => ['value' => '1']],
             ],
             'id_path' => [

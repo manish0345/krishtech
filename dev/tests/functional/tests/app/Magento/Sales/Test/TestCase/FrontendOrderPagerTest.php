@@ -17,7 +17,7 @@ use Magento\Mtf\TestCase\Scenario;
  * Steps:
  * 1. Register to Storefront as Customer.
  * 2. Go to My Account > My Orders page
- * 3. Click 'view Order' link on order from preconditions
+ * 3. Click 'view order' link on order from preconditions
  *
  * @group Order_Management
  * @ZephyrId MAGETWO-63457

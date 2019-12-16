@@ -122,7 +122,7 @@ class CheckExpressConfigStep implements TestStepInterface
         $expressFields = $this->expressCheckoutConfigBlock->getFields();
         $this->assertFieldsArePresent->processAssert(
             $this->systemConfigEditSectionPayment,
-            [$expressFields['Merchant Account ID'], $expressFields['Sort Order PayPal Credit']]
+            [$expressFields['Merchant Account ID'], $expressFields['Sort order PayPal Credit']]
         );
         $this->assertFieldsAreActive->processAssert(
             $this->systemConfigEditSectionPayment,

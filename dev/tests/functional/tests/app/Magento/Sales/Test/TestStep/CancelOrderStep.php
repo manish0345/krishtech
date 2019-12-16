@@ -23,14 +23,14 @@ class CancelOrderStep implements TestStepInterface
     private $orderIndex;
 
     /**
-     * Order instance.
+     * order instance.
      *
      * @var OrderInjectable
      */
     private $order;
 
     /**
-     * Order view Page.
+     * order view Page.
      *
      * @var SalesOrderView
      */

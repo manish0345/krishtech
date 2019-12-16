@@ -16,7 +16,7 @@ use Magento\Sales\Test\Page\Adminhtml\SalesOrderView;
 
 /**
  * Assert first step on Checkout page is available.
- * Assert that Order Grand Total is correct on order page in backend.
+ * Assert that order Grand Total is correct on order page in backend.
  */
 class AssertCustomerIsRedirectedToCheckoutFromCart extends AbstractConstraint
 {
@@ -28,7 +28,7 @@ class AssertCustomerIsRedirectedToCheckoutFromCart extends AbstractConstraint
     private $stepFactory;
 
     /**
-     * Order Id.
+     * order Id.
      *
      * @var string
      */
@@ -36,7 +36,7 @@ class AssertCustomerIsRedirectedToCheckoutFromCart extends AbstractConstraint
 
     /**
      * Assert first step on Checkout page is available.
-     * Assert that Order Grand Total is correct on order page in backend.
+     * Assert that order Grand Total is correct on order page in backend.
      *
      * @param CmsIndex $cmsIndex
      * @param CheckoutOnepage $checkoutOnepage
@@ -74,12 +74,12 @@ class AssertCustomerIsRedirectedToCheckoutFromCart extends AbstractConstraint
             $this->getOrder($checkoutData);
         }
 
-        //Assert that Order Grand Total is correct on order page in backend.
+        //Assert that order Grand Total is correct on order page in backend.
         $assertOrderGrandTotal->processAssert($salesOrderView, $orderIndex, $prices, $this->orderId);
     }
 
     /**
-     * Get Order.
+     * Get order.
      *
      * @param array $checkoutData
      * @return void

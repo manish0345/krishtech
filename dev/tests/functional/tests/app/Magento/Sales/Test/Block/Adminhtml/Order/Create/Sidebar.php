@@ -11,12 +11,12 @@ use Magento\Mtf\Client\Locator;
 use Magento\Mtf\Fixture\InjectableFixture;
 
 /**
- * Sidebar block on Create Order page on backend.
+ * Sidebar block on Create order page on backend.
  */
 class Sidebar extends Block
 {
     /**
-     * Locator for cart section in sidebar on Create Order page on backend.
+     * Locator for cart section in sidebar on Create order page on backend.
      *
      * @var string
      */
@@ -58,7 +58,7 @@ class Sidebar extends Block
     protected $itemRowCartSection = '//tr[td[contains(.,"%s")]][td/span[contains(., "%d")]]';
 
     /**
-     * Locator for 'Add to Order' checkbox in Shopping Cart section in sidebar.
+     * Locator for 'Add to order' checkbox in Shopping Cart section in sidebar.
      *
      * @var string
      */
@@ -113,7 +113,7 @@ class Sidebar extends Block
     }
 
     /**
-     * Check that Shopping Cart section on Create Order page on backend is empty.
+     * Check that Shopping Cart section on Create order page on backend is empty.
      *
      * @return bool
      */

@@ -6,7 +6,7 @@
 namespace Magento\Sales\Block\Adminhtml\Order\View;
 
 /**
- * Test class for \Magento\Sales\Block\Adminhtml\Order\view\Info
+ * Test class for \Magento\Sales\Block\Adminhtml\order\view\Info
  */
 class InfoTest extends \Magento\TestFramework\TestCase\AbstractBackendController
 {

@@ -119,7 +119,7 @@ class InterceptionConfigurationBuilder
 
     /**
      * Returns plugin list:
-     * ['concrete class name' => ['plugin name' => [instance => 'instance name', 'order' => 'Order Number']]]
+     * ['concrete class name' => ['plugin name' => [instance => 'instance name', 'order' => 'order Number']]]
      *
      * @param array $interceptedInstances
      * @return array

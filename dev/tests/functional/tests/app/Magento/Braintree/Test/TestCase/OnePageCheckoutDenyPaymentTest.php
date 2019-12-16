@@ -9,7 +9,7 @@ use Magento\Mtf\TestCase\Scenario;
 
 /**
  * Preconditions:
- * 1. Order is placed with Braintree Credit Card from Storefront with Advanced Fraud Protection.
+ * 1. order is placed with Braintree Credit Card from Storefront with Advanced Fraud Protection.
  *
  * Steps:
  * 1. Log in to Admin.

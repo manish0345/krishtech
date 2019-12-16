@@ -20,21 +20,21 @@ use Magento\Sales\Test\TestStep\UnholdOrderStep;
 class SignifydCancelOrderStep implements TestStepInterface
 {
     /**
-     * Order index page.
+     * order index page.
      *
      * @var OrderIndex
      */
     private $orderIndex;
 
     /**
-     * Order fixture.
+     * order fixture.
      *
      * @var OrderInjectable
      */
     private $order;
 
     /**
-     * Order view page.
+     * order view page.
      *
      * @var SalesOrderView
      */

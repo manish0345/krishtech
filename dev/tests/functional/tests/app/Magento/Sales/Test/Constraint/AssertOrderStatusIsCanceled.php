@@ -48,6 +48,6 @@ class AssertOrderStatusIsCanceled extends AbstractConstraint
      */
     public function toString()
     {
-        return 'Order status is correct.';
+        return 'order status is correct.';
     }
 }

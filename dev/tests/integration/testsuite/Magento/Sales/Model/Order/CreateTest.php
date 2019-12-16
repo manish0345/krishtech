@@ -90,7 +90,7 @@ class CreateTest extends \PHPUnit\Framework\TestCase
                 'Thank you for your order from ' . $order->getStore()->getFrontendName()
             ),
             new StringContains(
-                "Your Order <span class=\"no-link\">#{$order->getIncrementId()}</span>"
+                "Your order <span class=\"no-link\">#{$order->getIncrementId()}</span>"
             )
         );
 

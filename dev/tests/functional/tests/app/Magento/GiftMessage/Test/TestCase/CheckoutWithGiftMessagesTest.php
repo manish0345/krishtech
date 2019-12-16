@@ -12,7 +12,7 @@ use Magento\Mtf\TestCase\Scenario;
  * Test Flow:
  *
  * Preconditions:
- * 1. Enable Gift Messages (Order/Items level)
+ * 1. Enable Gift Messages (order/Items level)
  * 2. Create Product according dataset
  *
  * Steps:

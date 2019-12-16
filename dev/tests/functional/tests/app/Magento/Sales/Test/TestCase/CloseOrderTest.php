@@ -10,7 +10,7 @@ use Magento\Mtf\TestCase\Scenario;
 
 /**
  * Preconditions:
- * 1. Order is placed.
+ * 1. order is placed.
  *
  * Steps:
  * 1. Log in to Admin.

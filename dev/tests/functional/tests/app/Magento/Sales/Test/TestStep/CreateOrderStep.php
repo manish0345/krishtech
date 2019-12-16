@@ -16,7 +16,7 @@ use Magento\Sales\Test\Fixture\OrderInjectable;
 class CreateOrderStep implements TestStepInterface
 {
     /**
-     * Order.
+     * order.
      *
      * @var OrderInjectable
      */

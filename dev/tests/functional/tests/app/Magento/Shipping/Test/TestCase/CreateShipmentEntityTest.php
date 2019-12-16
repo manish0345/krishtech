@@ -11,7 +11,7 @@ use Magento\Mtf\TestCase\Injectable;
 
 /**
  * Preconditions:
- * 1. Enable payment method "Check/Money Order".
+ * 1. Enable payment method "Check/Money order".
  * 2. Enable shipping method one of "Flat Rate/Free Shipping".
  * 3. Create order.
  *

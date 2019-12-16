@@ -15,7 +15,7 @@ use Magento\Sales\Test\Page\Adminhtml\OrderCreateIndex;
 use Magento\Sales\Test\Page\Adminhtml\SalesOrderView;
 
 /**
- * Submit Order step.
+ * Submit order step.
  */
 class SubmitOrderStep implements TestStepInterface
 {

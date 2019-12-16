@@ -802,7 +802,7 @@ class CreateTest extends \PHPUnit\Framework\TestCase
     {
         /** Selectively check order data */
         $orderData = $order->getData();
-        self::assertNotEmpty($orderData['increment_id'], 'Order increment ID is empty.');
+        self::assertNotEmpty($orderData['increment_id'], 'order increment ID is empty.');
         self::assertEquals($this->model->getQuote()->getId(), $orderData['quote_id'], 'Quote ID is invalid.');
         self::assertEquals(
             $this->model->getQuote()->getCustomer()->getEmail(),

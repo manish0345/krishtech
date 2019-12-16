@@ -41,7 +41,7 @@ class FillAccountInformationStep implements TestStepInterface
     }
 
     /**
-     * Fill Order Account Data.
+     * Fill order Account Data.
      *
      * @return void
      */

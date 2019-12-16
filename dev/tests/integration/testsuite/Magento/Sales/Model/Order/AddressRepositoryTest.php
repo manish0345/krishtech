@@ -12,7 +12,7 @@ use Magento\Framework\Api\SortOrderBuilder;
 
 /**
  * Class AddressRepositoryTest
- * @package Magento\Sales\Model\Order]
+ * @package Magento\Sales\Model\order]
  * @magentoDbIsolation enabled
  */
 class AddressRepositoryTest extends \PHPUnit\Framework\TestCase

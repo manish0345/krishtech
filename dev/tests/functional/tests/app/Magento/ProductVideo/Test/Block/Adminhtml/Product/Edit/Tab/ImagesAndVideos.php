@@ -15,7 +15,7 @@ use Magento\Mtf\Client\Element\SimpleElement;
 class ImagesAndVideos extends Tab
 {
     /**
-     * Order Id of first video
+     * order Id of first video
      *
      * @var int
      */

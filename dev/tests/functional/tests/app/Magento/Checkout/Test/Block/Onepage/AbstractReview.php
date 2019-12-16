@@ -309,7 +309,7 @@ abstract class AbstractReview extends Block
     }
 
     /**
-     * Get Tax text from Order Totals.
+     * Get Tax text from order Totals.
      *
      * @return string|null
      */
@@ -320,7 +320,7 @@ abstract class AbstractReview extends Block
     }
 
     /**
-     * Get Discount text from Order Totals.
+     * Get Discount text from order Totals.
      *
      * @return string|null
      */

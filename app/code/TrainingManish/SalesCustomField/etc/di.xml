@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+    <preference for="TrainingManish\SalesCustomField\Api\Data\CustomFieldsInterface" type="TrainingManish\SalesCustomField\Model\Data\CustomFields" />
+    <preference for="TrainingManish\SalesCustomField\Api\CustomFieldsRepositoryInterface" type="TrainingManish\SalesCustomField\Model\CustomFieldsRepository" />
+    <preference for="TrainingManish\SalesCustomField\Api\CustomFieldsGuestRepositoryInterface" type="TrainingManish\SalesCustomField\Model\CustomFieldsGuestRepository" />
+</config>

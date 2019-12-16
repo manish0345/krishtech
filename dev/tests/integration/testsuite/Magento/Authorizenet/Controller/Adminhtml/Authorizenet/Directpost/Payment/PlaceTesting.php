@@ -12,7 +12,7 @@ class PlaceTesting extends Place
 {
     /**
      * {@inheritdoc}
-     * This method tested in Magento\Sales\Controller\Adminhtml\Order\CreateTest
+     * This method tested in Magento\Sales\Controller\Adminhtml\order\CreateTest
      */
     protected function _processActionData($action = null)
     {

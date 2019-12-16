@@ -46,7 +46,7 @@ class SaveTest extends AbstractShipmentControllerTest
                 'Thank you for your order from ' . $shipment->getStore()->getFrontendName()
             ),
             new StringContains(
-                "Your Shipment #{$shipment->getIncrementId()} for Order #{$order->getIncrementId()}"
+                "Your Shipment #{$shipment->getIncrementId()} for order #{$order->getIncrementId()}"
             )
         );
 

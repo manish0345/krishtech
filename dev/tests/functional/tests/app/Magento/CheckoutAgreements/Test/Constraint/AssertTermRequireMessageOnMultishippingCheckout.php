@@ -11,7 +11,7 @@ use Magento\Multishipping\Test\Page\MultishippingCheckoutOverview;
 use Magento\Mtf\TestStep\TestStepFactory;
 
 /**
- * Check that Terms and Conditions is present on the last checkout step - Order Review.
+ * Check that Terms and Conditions is present on the last checkout step - order Review.
  * @SuppressWarnings(PHPMD.CouplingBetweenObjects)
  */
 class AssertTermRequireMessageOnMultishippingCheckout extends AbstractConstraint

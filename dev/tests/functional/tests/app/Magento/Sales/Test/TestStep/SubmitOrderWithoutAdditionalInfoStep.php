@@ -14,7 +14,7 @@ use Magento\Sales\Test\Page\Adminhtml\OrderCreateIndex;
 use Magento\Sales\Test\Page\Adminhtml\SalesOrderView;
 
 /**
- * Submit Order without additional info step.
+ * Submit order without additional info step.
  */
 class SubmitOrderWithoutAdditionalInfoStep implements TestStepInterface
 {

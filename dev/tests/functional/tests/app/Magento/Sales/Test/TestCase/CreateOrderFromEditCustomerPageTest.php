@@ -32,26 +32,26 @@ use Magento\Wishlist\Test\Constraint\AssertProductsIsPresentInCustomerBackendWis
  * 1. Log in to Admin.
  * 2. Go to Customers -> All Customers page.
  * 3. Open created customer to edit.
- * 4. Click Create Order button.
+ * 4. Click Create order button.
  * 5. Select Store.
  * 6. Click Add Products button.
  * 7. Select corresponded Products.
- * 8. Click Add Selected Product(s) to Order button.
+ * 8. Click Add Selected Product(s) to order button.
  * 9. Perform assertions.
  * 10. Select Move to Wish List action for Products from Test Data.
  * 11. Click Update Items and Quantities button.
  * 12. Perform assertions.
- * 13. Select Add to Order in "Wish List" data grid for correspondent Products.
+ * 13. Select Add to order in "Wish List" data grid for correspondent Products.
  * 14. Click Update Changes button.
  * 15. Perform assertions.
  * 16. Select Move to Shopping Cart action for Products from Test Data.
  * 17. Click Update Items and Quantities button.
  * 18. Perform assertions.
- * 19. Select Add to Order in "Shopping Cart" data grid for correspondent Products.
+ * 19. Select Add to order in "Shopping Cart" data grid for correspondent Products.
  * 20. Click Update Changes button.
  * 21. Perform assertions.
  * 22. Fill billing and shipping addresses.
- * 23. Click Submit Order button.
+ * 23. Click Submit order button.
  * 24. Perform all assertions.
  *
  * @group Order_Management
@@ -96,35 +96,35 @@ class CreateOrderFromEditCustomerPageTest extends Injectable
     protected $store;
 
     /**
-     * Order Create Index page.
+     * order Create Index page.
      *
      * @var OrderCreateIndex
      */
     protected $orderCreateIndex;
 
     /**
-     * Order view Page.
+     * order view Page.
      *
      * @var SalesOrderView
      */
     protected $salesOrderView;
 
     /**
-     * Assert that Items Ordered section on Create Order page on backend contains products.
+     * Assert that Items Ordered section on Create order page on backend contains products.
      *
      * @var AssertItemsOrderedSectionContainsProducts
      */
     protected $assertItemsOrderedSectionContainsProducts;
 
     /**
-     * Assert that customer's Wish List section on Order Create backend page is empty.
+     * Assert that customer's Wish List section on order Create backend page is empty.
      *
      * @var AssertCustomerWishlistOnBackendIsEmpty
      */
     protected $assertCustomerWishlistOnBackendIsEmpty;
 
     /**
-     * Assert that customer's Shopping Cart section on Order Create backend page is empty.
+     * Assert that customer's Shopping Cart section on order Create backend page is empty.
      *
      * @var AssertCartSectionIsEmptyOnBackendOrderPage
      */
@@ -138,14 +138,14 @@ class CreateOrderFromEditCustomerPageTest extends Injectable
     protected $assertProductsIsPresentInCustomerBackendWishlist;
 
     /**
-     * Assert that Items Ordered section on Create Order page on backend is empty.
+     * Assert that Items Ordered section on Create order page on backend is empty.
      *
      * @var AssertItemsOrderedSectionOnBackendOrderIsEmpty
      */
     protected $assertItemsOrderedSectionOnBackendOrderIsEmpty;
 
     /**
-     * Assert that customer's Shopping Cart section on Order Create backend page contains products.
+     * Assert that customer's Shopping Cart section on order Create backend page contains products.
      *
      * @var AssertCartSectionWithProductsOnBackendOrderPage
      */

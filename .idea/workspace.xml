@@ -1,7 +1,245 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99f7291d-015e-4137-8179-99cd008bf758" name="Default Changelist" comment="" />
+    <list default="true" id="99f7291d-015e-4137-8179-99cd008bf758" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/code/TrainingManish/InvoiceFont/etc/di.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/code/TrainingManish/InvoiceFont/etc/di.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/etc/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/etc/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/api-functional/testsuite/Magento/GraphQl/Quote/Customer/SetOfflinePaymentMethodsOnCartTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/api-functional/testsuite/Magento/GraphQl/Quote/Customer/SetOfflinePaymentMethodsOnCartTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/api-functional/testsuite/Magento/GraphQl/Quote/Customer/SetPurchaseOrderPaymentMethodOnCartTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/api-functional/testsuite/Magento/GraphQl/Quote/Customer/SetPurchaseOrderPaymentMethodOnCartTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/api-functional/testsuite/Magento/GraphQl/Quote/Guest/SetOfflinePaymentMethodsOnCartTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/api-functional/testsuite/Magento/GraphQl/Quote/Guest/SetOfflinePaymentMethodsOnCartTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/api-functional/testsuite/Magento/GraphQl/Quote/Guest/SetPurchaseOrderPaymentMethodOnCartTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/api-functional/testsuite/Magento/GraphQl/Quote/Guest/SetPurchaseOrderPaymentMethodOnCartTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/api-functional/testsuite/Magento/Sales/Service/V1/OrderInvoiceCreateTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/api-functional/testsuite/Magento/Sales/Service/V1/OrderInvoiceCreateTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/api-functional/testsuite/Magento/Sales/Service/V1/RefundOrderTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/api-functional/testsuite/Magento/Sales/Service/V1/RefundOrderTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/api-functional/testsuite/Magento/Sales/Service/V1/ShipOrderTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/api-functional/testsuite/Magento/Sales/Service/V1/ShipOrderTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/api-functional/testsuite/Magento/Tax/Api/TaxRateRepositoryTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/api-functional/testsuite/Magento/Tax/Api/TaxRateRepositoryTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Authorizenet/Test/TestCase/AuthorizenetFraudCheckoutTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Authorizenet/Test/TestCase/AuthorizenetFraudCheckoutTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Authorizenet/Test/TestStep/AcceptTransactionOnAuthorizenetStep.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Authorizenet/Test/TestStep/AcceptTransactionOnAuthorizenetStep.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Backend/Test/Constraint/AssertGlobalSearchOrderId.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Backend/Test/Constraint/AssertGlobalSearchOrderId.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Braintree/Test/TestCase/BraintreeSettlementReportTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Braintree/Test/TestCase/BraintreeSettlementReportTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Braintree/Test/TestCase/CheckoutWithBraintreePaypalCartTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Braintree/Test/TestCase/CheckoutWithBraintreePaypalCartTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Braintree/Test/TestCase/CheckoutWithBraintreePaypalMinicartTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Braintree/Test/TestCase/CheckoutWithBraintreePaypalMinicartTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Braintree/Test/TestCase/CreateOrderWithPayPalBraintreeVaultBackendTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Braintree/Test/TestCase/CreateOrderWithPayPalBraintreeVaultBackendTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Braintree/Test/TestCase/InvoicePayPalBraintreeTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Braintree/Test/TestCase/InvoicePayPalBraintreeTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Braintree/Test/TestCase/OnePageCheckoutAcceptPaymentTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Braintree/Test/TestCase/OnePageCheckoutAcceptPaymentTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Braintree/Test/TestCase/OnePageCheckoutDenyPaymentTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Braintree/Test/TestCase/OnePageCheckoutDenyPaymentTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Braintree/Test/TestCase/OnePageCheckoutWith3dSecureFailedTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Braintree/Test/TestCase/OnePageCheckoutWith3dSecureFailedTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Braintree/Test/TestCase/OnePageCheckoutWith3dSecureTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Braintree/Test/TestCase/OnePageCheckoutWith3dSecureTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Braintree/Test/TestCase/SaveUseDeleteVaultForPaypalBraintreeTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Braintree/Test/TestCase/SaveUseDeleteVaultForPaypalBraintreeTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Braintree/Test/TestCase/UseVaultWith3dSecureOnCheckoutTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Braintree/Test/TestCase/UseVaultWith3dSecureOnCheckoutTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Braintree/Test/TestStep/PlaceOrderWith3dSecureStep.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Braintree/Test/TestStep/PlaceOrderWith3dSecureStep.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Braintree/Test/TestStep/PlaceOrderWithPaypalStep.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Braintree/Test/TestStep/PlaceOrderWithPaypalStep.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Braintree/Test/TestStep/SettleTransactionStep.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Braintree/Test/TestStep/SettleTransactionStep.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Bundle/Test/TestCase/CancelPartiallyInvoicedOrderTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Bundle/Test/TestCase/CancelPartiallyInvoicedOrderTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Catalog/Test/Constraint/AssertProductTypeOrderOnCreate.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Catalog/Test/Constraint/AssertProductTypeOrderOnCreate.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Catalog/Test/Handler/CatalogProductSimple/Curl.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Catalog/Test/Handler/CatalogProductSimple/Curl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Checkout/Test/Block/Cart/Totals.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Checkout/Test/Block/Cart/Totals.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Checkout/Test/Block/Onepage/AbstractReview.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Checkout/Test/Block/Onepage/AbstractReview.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Checkout/Test/Block/Onepage/Payment.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Checkout/Test/Block/Onepage/Payment.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Checkout/Test/Constraint/AssertCustomerIsRedirectedToCheckoutFromCart.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Checkout/Test/Constraint/AssertCustomerIsRedirectedToCheckoutFromCart.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Checkout/Test/Constraint/AssertEstimateShippingAndTax.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Checkout/Test/Constraint/AssertEstimateShippingAndTax.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Checkout/Test/Constraint/AssertGrandTotalOrderReview.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Checkout/Test/Constraint/AssertGrandTotalOrderReview.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Checkout/Test/Constraint/AssertShippingTotalOrderReview.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Checkout/Test/Constraint/AssertShippingTotalOrderReview.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Checkout/Test/Constraint/AssertSubTotalOrderReview.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Checkout/Test/Constraint/AssertSubTotalOrderReview.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Checkout/Test/Constraint/AssertTaxTotalOrderReview.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Checkout/Test/Constraint/AssertTaxTotalOrderReview.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Checkout/Test/TestCase/OnePageCheckoutDeclinedTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Checkout/Test/TestCase/OnePageCheckoutDeclinedTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Checkout/Test/TestStep/GetPlacedOrderIdStep.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Checkout/Test/TestStep/GetPlacedOrderIdStep.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Checkout/Test/TestStep/PlaceOrderStep.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Checkout/Test/TestStep/PlaceOrderStep.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/CheckoutAgreements/Test/Constraint/AssertTermOnCheckout.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/CheckoutAgreements/Test/Constraint/AssertTermOnCheckout.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/CheckoutAgreements/Test/Constraint/AssertTermRequireMessageOnMultishippingCheckout.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/CheckoutAgreements/Test/Constraint/AssertTermRequireMessageOnMultishippingCheckout.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Customer/Test/Block/Adminhtml/Edit/FormPageActions.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Customer/Test/Block/Adminhtml/Edit/FormPageActions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Customer/Test/Block/Form/Register.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Customer/Test/Block/Form/Register.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Downloadable/Test/Constraint/AbstractAssertTaxCalculationAfterCheckoutDownloadable.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Downloadable/Test/Constraint/AbstractAssertTaxCalculationAfterCheckoutDownloadable.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/GiftMessage/Test/TestCase/CheckoutWithGiftMessagesTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/GiftMessage/Test/TestCase/CheckoutWithGiftMessagesTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/GiftMessage/Test/TestCase/CreateGiftMessageOnBackendTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/GiftMessage/Test/TestCase/CreateGiftMessageOnBackendTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/GroupedProduct/Test/Constraint/AssertGroupedProductInItemsOrderedGrid.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/GroupedProduct/Test/Constraint/AssertGroupedProductInItemsOrderedGrid.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/GroupedProduct/Test/Constraint/AssertProductInItemsOrderedGrid.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/GroupedProduct/Test/Constraint/AssertProductInItemsOrderedGrid.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Multishipping/Test/Block/Checkout/Overview.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Multishipping/Test/Block/Checkout/Overview.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Paypal/Test/Block/Express/Review.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Paypal/Test/Block/Express/Review.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Paypal/Test/Block/System/Config/ExpressCheckout.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Paypal/Test/Block/System/Config/ExpressCheckout.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Paypal/Test/Constraint/Sandbox/AssertTotalPaypalReview.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Paypal/Test/Constraint/Sandbox/AssertTotalPaypalReview.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Paypal/Test/TestCase/CloseSalesWithHostedProTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Paypal/Test/TestCase/CloseSalesWithHostedProTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Paypal/Test/TestCase/CreateOnlineCreditMemoPayflowLinkTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Paypal/Test/TestCase/CreateOnlineCreditMemoPayflowLinkTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Paypal/Test/TestCase/CreatePayFlowOrderBackendNegativeTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Paypal/Test/TestCase/CreatePayFlowOrderBackendNegativeTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Paypal/Test/TestStep/CheckExpressConfigStep.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Paypal/Test/TestStep/CheckExpressConfigStep.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Paypal/Test/TestStep/ContinuePaypalCheckoutStep.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Paypal/Test/TestStep/ContinuePaypalCheckoutStep.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Paypal/Test/TestStep/ExpressCheckoutOrderPlaceStep.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Paypal/Test/TestStep/ExpressCheckoutOrderPlaceStep.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Paypal/Test/TestStep/PlaceOrderWithPayflowLinkStep.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Paypal/Test/TestStep/PlaceOrderWithPayflowLinkStep.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/ProductVideo/Test/Block/Adminhtml/Product/Edit/Tab/ImagesAndVideos.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/ProductVideo/Test/Block/Adminhtml/Product/Edit/Tab/ImagesAndVideos.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Reports/Test/Block/Adminhtml/Customer/Counts/Filter.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Reports/Test/Block/Adminhtml/Customer/Counts/Filter.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Reports/Test/Block/Adminhtml/Customer/Counts/Grid.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Reports/Test/Block/Adminhtml/Customer/Counts/Grid.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Reports/Test/Block/Adminhtml/Customer/Totals/Filter.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Reports/Test/Block/Adminhtml/Customer/Totals/Filter.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Reports/Test/Block/Adminhtml/Customer/Totals/Grid.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Reports/Test/Block/Adminhtml/Customer/Totals/Grid.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Reports/Test/Constraint/AbstractAssertCustomerOrderReportResult.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Reports/Test/Constraint/AbstractAssertCustomerOrderReportResult.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Reports/Test/Constraint/AbstractAssertInvoiceReportResult.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Reports/Test/Constraint/AbstractAssertInvoiceReportResult.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Reports/Test/Constraint/AbstractAssertSalesReportResult.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Reports/Test/Constraint/AbstractAssertSalesReportResult.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Reports/Test/Constraint/AbstractAssertShippingReportResult.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Reports/Test/Constraint/AbstractAssertShippingReportResult.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Reports/Test/Constraint/AssertCustomerOrderCountReportResult.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Reports/Test/Constraint/AssertCustomerOrderCountReportResult.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Reports/Test/Constraint/AssertCustomerOrderTotalReportResult.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Reports/Test/Constraint/AssertCustomerOrderTotalReportResult.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Reports/Test/TestCase/CustomersOrderCountReportEntityTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Reports/Test/TestCase/CustomersOrderCountReportEntityTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Reports/Test/TestCase/CustomersOrderTotalReportEntityTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Reports/Test/TestCase/CustomersOrderTotalReportEntityTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Reports/Test/TestCase/DownloadProductsReportEntityTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Reports/Test/TestCase/DownloadProductsReportEntityTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Reports/Test/TestCase/SalesCouponReportEntityTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Reports/Test/TestCase/SalesCouponReportEntityTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Reports/Test/TestCase/SalesTaxReportEntityTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Reports/Test/TestCase/SalesTaxReportEntityTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Block/Adminhtml/Order/Actions.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Block/Adminhtml/Order/Actions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Block/Adminhtml/Order/Create.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Block/Adminhtml/Order/Create.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Block/Adminhtml/Order/Create/CustomerActivities.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Block/Adminhtml/Order/Create/CustomerActivities.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Block/Adminhtml/Order/Create/CustomerActivities/Sidebar/ShoppingCartItems.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Block/Adminhtml/Order/Create/CustomerActivities/Sidebar/ShoppingCartItems.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Block/Adminhtml/Order/Create/CustomerActivities/Sidebar/Wishlist.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Block/Adminhtml/Order/Create/CustomerActivities/Sidebar/Wishlist.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Block/Adminhtml/Order/Create/Items/ItemProduct.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Block/Adminhtml/Order/Create/Items/ItemProduct.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Block/Adminhtml/Order/Create/Sidebar.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Block/Adminhtml/Order/Create/Sidebar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Block/Adminhtml/Order/Create/Store.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Block/Adminhtml/Order/Create/Store.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Block/Adminhtml/Order/Create/Totals.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Block/Adminhtml/Order/Create/Totals.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Block/Adminhtml/Order/Grid.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Block/Adminhtml/Order/Grid.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Block/Adminhtml/Order/Totals.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Block/Adminhtml/Order/Totals.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Block/Adminhtml/Order/View/OrderForm.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Block/Adminhtml/Order/View/OrderForm.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Block/Adminhtml/Order/View/Tab/Info.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Block/Adminhtml/Order/View/Tab/Info.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Block/Adminhtml/Order/View/Tab/Info/CommentsHistoryBlock.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Block/Adminhtml/Order/View/Tab/Info/CommentsHistoryBlock.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Block/Adminhtml/Order/View/Tab/Info/PaymentInfoBlock.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Block/Adminhtml/Order/View/Tab/Info/PaymentInfoBlock.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Block/Adminhtml/Order/View/Tab/Info/ShippingInfoBlock.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Block/Adminhtml/Order/View/Tab/Info/ShippingInfoBlock.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Block/Order/History.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Block/Order/History.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Block/Order/View.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Block/Order/View.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Block/Order/View/ActionsToolbar.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Block/Order/View/ActionsToolbar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AbstractAssertOrderOnFrontend.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AbstractAssertOrderOnFrontend.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertCartSectionIsEmptyOnBackendOrderPage.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertCartSectionIsEmptyOnBackendOrderPage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertCartSectionWithProductsOnBackendOrderPage.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertCartSectionWithProductsOnBackendOrderPage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertInvoicedOrderOnDashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertInvoicedOrderOnDashboard.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertItemsOrderedSectionContainsProducts.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertItemsOrderedSectionContainsProducts.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertItemsOrderedSectionOnBackendOrderIsEmpty.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertItemsOrderedSectionOnBackendOrderIsEmpty.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertOrderAddresses.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertOrderAddresses.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertOrderBillingAndShippingAddressesAreDifferent.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertOrderBillingAndShippingAddressesAreDifferent.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertOrderByDateInOrdersGrid.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertOrderByDateInOrdersGrid.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertOrderGrandTotal.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertOrderGrandTotal.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertOrderGraphImageIsVisible.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertOrderGraphImageIsVisible.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertOrderInOrdersGrid.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertOrderInOrdersGrid.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertOrderInOrdersGridOnFrontend.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertOrderInOrdersGridOnFrontend.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertOrderItemsPagerDisplayedOnFrontend.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertOrderItemsPagerDisplayedOnFrontend.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertOrderItemsPagerHiddenOnFrontend.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertOrderItemsPagerHiddenOnFrontend.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertOrderNotInOrdersGrid.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertOrderNotInOrdersGrid.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertOrderNotVisibleOnMyAccount.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertOrderNotVisibleOnMyAccount.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertOrderStatusDuplicateStatus.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertOrderStatusDuplicateStatus.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertOrderStatusInGrid.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertOrderStatusInGrid.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertOrderStatusIsCanceled.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertOrderStatusIsCanceled.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertOrderStatusIsCorrect.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertOrderStatusIsCorrect.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertOrderStatusNotAssigned.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertOrderStatusNotAssigned.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertOrderStatusSuccessAssignMessage.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertOrderStatusSuccessAssignMessage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertOrderStatusSuccessCreateMessage.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertOrderStatusSuccessCreateMessage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertOrderStatusSuccessUnassignMessage.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertOrderStatusSuccessUnassignMessage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertOrderSuccessVoidedMessage.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertOrderSuccessVoidedMessage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertOrderTotalPaid.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertOrderTotalPaid.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertProductInItemsOrderedGrid.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertProductInItemsOrderedGrid.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertReorderStatusIsCorrect.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Constraint/AssertReorderStatusIsCorrect.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Handler/OrderInjectable/Curl.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Handler/OrderInjectable/Curl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Handler/OrderInjectable/Webapi.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/Handler/OrderInjectable/Webapi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestCase/AssignCustomOrderStatusTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestCase/AssignCustomOrderStatusTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestCase/CancelCreatedOrderTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestCase/CancelCreatedOrderTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestCase/CloseOrderTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestCase/CloseOrderTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestCase/CreateCreditMemoEntityTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestCase/CreateCreditMemoEntityTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestCase/CreateCustomOrderStatusEntityTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestCase/CreateCustomOrderStatusEntityTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestCase/CreateInvoiceEntityTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestCase/CreateInvoiceEntityTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestCase/CreateOnlineInvoiceEntityTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestCase/CreateOnlineInvoiceEntityTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestCase/CreateOrderBackendPartOneTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestCase/CreateOrderBackendPartOneTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestCase/CreateOrderBackendTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestCase/CreateOrderBackendTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestCase/CreateOrderFromEditCustomerPageTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestCase/CreateOrderFromEditCustomerPageTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestCase/FrontendOrderPagerTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestCase/FrontendOrderPagerTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestCase/HoldCreatedOrderTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestCase/HoldCreatedOrderTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestCase/MassOrdersUpdateTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestCase/MassOrdersUpdateTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestCase/MoveLastOrderedProductsOnOrderPageTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestCase/MoveLastOrderedProductsOnOrderPageTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestCase/MoveProductsInComparedOnOrderPageTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestCase/MoveProductsInComparedOnOrderPageTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestCase/MoveRecentlyComparedProductsOnOrderPageTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestCase/MoveRecentlyComparedProductsOnOrderPageTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestCase/MoveRecentlyViewedProductsOnOrderPageTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestCase/MoveRecentlyViewedProductsOnOrderPageTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestCase/MoveShoppingCartProductsOnOrderPageTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestCase/MoveShoppingCartProductsOnOrderPageTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestCase/PrintOrderFrontendGuestTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestCase/PrintOrderFrontendGuestTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestCase/UnassignCustomOrderStatusTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestCase/UnassignCustomOrderStatusTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestCase/UpdateCustomOrderStatusTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestCase/UpdateCustomOrderStatusTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestStep/AddRecentlyViewedProductsToCartStep.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestStep/AddRecentlyViewedProductsToCartStep.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestStep/CancelOrderStep.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestStep/CancelOrderStep.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestStep/ConfigureProductsStep.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestStep/ConfigureProductsStep.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestStep/CreateCreditMemoStep.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestStep/CreateCreditMemoStep.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestStep/CreateInvoiceStep.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestStep/CreateInvoiceStep.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestStep/CreateOnlineCreditMemoStep.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestStep/CreateOnlineCreditMemoStep.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestStep/CreateOrderStep.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestStep/CreateOrderStep.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestStep/CreateShipmentStep.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestStep/CreateShipmentStep.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestStep/FillAccountInformationStep.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestStep/FillAccountInformationStep.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestStep/GetPaymentUpdateStep.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestStep/GetPaymentUpdateStep.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestStep/OnHoldStep.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestStep/OnHoldStep.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestStep/OpenOrderStep.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestStep/OpenOrderStep.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestStep/PrintOrderOnFrontendStep.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestStep/PrintOrderOnFrontendStep.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestStep/ReorderStep.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestStep/ReorderStep.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestStep/SelectCustomerOrderStep.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestStep/SelectCustomerOrderStep.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestStep/SelectStoreStep.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestStep/SelectStoreStep.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestStep/SubmitOrderNegativeStep.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestStep/SubmitOrderNegativeStep.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestStep/SubmitOrderStep.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestStep/SubmitOrderStep.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestStep/SubmitOrderWithoutAdditionalInfoStep.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestStep/SubmitOrderWithoutAdditionalInfoStep.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestStep/UnholdOrderStep.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestStep/UnholdOrderStep.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestStep/VoidAuthorizationStep.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Sales/Test/TestStep/VoidAuthorizationStep.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/SalesRule/Test/TestStep/ApplySalesRuleOnBackendStep.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/SalesRule/Test/TestStep/ApplySalesRuleOnBackendStep.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Shipping/Test/Constraint/AssertShipTotalQuantity.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Shipping/Test/Constraint/AssertShipTotalQuantity.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Shipping/Test/TestCase/CreateShipmentEntityTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Shipping/Test/TestCase/CreateShipmentEntityTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Shipping/Test/TestCase/TrackingShipmentForPlacedOrderTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Shipping/Test/TestCase/TrackingShipmentForPlacedOrderTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Signifyd/Test/Block/Adminhtml/Order/Grid.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Signifyd/Test/Block/Adminhtml/Order/Grid.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Signifyd/Test/Constraint/AssertCaseInfoOnAdmin.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Signifyd/Test/Constraint/AssertCaseInfoOnAdmin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Signifyd/Test/Constraint/AssertCaseInfoOnSignifydConsole.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Signifyd/Test/Constraint/AssertCaseInfoOnSignifydConsole.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Signifyd/Test/Constraint/AssertSignifydCaseInOrdersGrid.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Signifyd/Test/Constraint/AssertSignifydCaseInOrdersGrid.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Signifyd/Test/TestStep/OpenOrderGridStep.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Signifyd/Test/TestStep/OpenOrderGridStep.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Signifyd/Test/TestStep/SignifydCancelOrderStep.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Signifyd/Test/TestStep/SignifydCancelOrderStep.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Signifyd/Test/TestStep/SignifydObserveCaseStep.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Signifyd/Test/TestStep/SignifydObserveCaseStep.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Signifyd/Test/TestStep/UnholdAndCancelOrderStep.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Signifyd/Test/TestStep/UnholdAndCancelOrderStep.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Tax/Test/Constraint/AbstractAssertOrderTaxOnBackend.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Tax/Test/Constraint/AbstractAssertOrderTaxOnBackend.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Tax/Test/Constraint/AbstractAssertTaxCalculationAfterCheckout.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Tax/Test/Constraint/AbstractAssertTaxCalculationAfterCheckout.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Ui/Test/TestCase/GridFilteringDeletedEntityTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Ui/Test/TestCase/GridFilteringDeletedEntityTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Ui/Test/TestCase/GridFilteringTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Ui/Test/TestCase/GridFilteringTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Ui/Test/TestCase/GridFullTextSearchTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Ui/Test/TestCase/GridFullTextSearchTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Ui/Test/TestCase/GridSortingTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Ui/Test/TestCase/GridSortingTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Vault/Test/TestCase/CreateVaultOrderBackendTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Vault/Test/TestCase/CreateVaultOrderBackendTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Vault/Test/TestCase/ReorderUsingVaultTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Vault/Test/TestCase/ReorderUsingVaultTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Vault/Test/TestCase/UseVaultOnCheckoutTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Vault/Test/TestCase/UseVaultOnCheckoutTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Vault/Test/TestStep/SubmitOrderWithVaultStep.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Vault/Test/TestStep/SubmitOrderWithVaultStep.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Wishlist/Test/Constraint/AssertCustomerWishlistOnBackendIsEmpty.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Wishlist/Test/Constraint/AssertCustomerWishlistOnBackendIsEmpty.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/integration/framework/Magento/TestFramework/Helper/Api.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/integration/framework/Magento/TestFramework/Helper/Api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Authorizenet/Controller/Adminhtml/Authorizenet/Directpost/Payment/PlaceTesting.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Authorizenet/Controller/Adminhtml/Authorizenet/Directpost/Payment/PlaceTesting.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Backend/Model/Search/OrderTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Backend/Model/Search/OrderTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/CheckoutAgreements/Model/Checkout/Plugin/GuestValidationTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/CheckoutAgreements/Model/Checkout/Plugin/GuestValidationTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Cms/Controller/Adminhtml/Wysiwyg/Images/DeleteFilesTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Cms/Controller/Adminhtml/Wysiwyg/Images/DeleteFilesTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Framework/GraphQl/_files/schema_response_sdl_description.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Framework/GraphQl/_files/schema_response_sdl_description.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Framework/GraphQl/_files/schema_with_description_sdl.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Framework/GraphQl/_files/schema_with_description_sdl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Framework/View/_files/static/theme/web/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Framework/View/_files/static/theme/web/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/GiftMessage/Model/OrderItemRepositoryTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/GiftMessage/Model/OrderItemRepositoryTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Multishipping/Model/Checkout/Type/MultishippingTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Multishipping/Model/Checkout/Type/MultishippingTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Paypal/Controller/Adminhtml/Express/AuthorizationTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Paypal/Controller/Adminhtml/Express/AuthorizationTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Persistent/Model/Checkout/GuestPaymentInformationManagementPluginTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Persistent/Model/Checkout/GuestPaymentInformationManagementPluginTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Sales/Block/Adminhtml/Order/Create/Form/AbstractTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Sales/Block/Adminhtml/Order/Create/Form/AbstractTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Sales/Block/Adminhtml/Order/Create/Form/AccountTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Sales/Block/Adminhtml/Order/Create/Form/AccountTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Sales/Block/Adminhtml/Order/Create/HeaderTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Sales/Block/Adminhtml/Order/Create/HeaderTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Sales/Block/Adminhtml/Order/View/InfoTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Sales/Block/Adminhtml/Order/View/InfoTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Sales/Controller/Adminhtml/Order/Create/SaveTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Sales/Controller/Adminhtml/Order/Create/SaveTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Sales/Controller/Adminhtml/Order/Creditmemo/SaveTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Sales/Controller/Adminhtml/Order/Creditmemo/SaveTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Sales/Controller/Adminhtml/Order/EmailTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Sales/Controller/Adminhtml/Order/EmailTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Sales/Controller/Adminhtml/Order/Invoice/EmailTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Sales/Controller/Adminhtml/Order/Invoice/EmailTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Sales/Controller/Adminhtml/Order/Invoice/SaveTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Sales/Controller/Adminhtml/Order/Invoice/SaveTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Sales/Controller/Guest/FormTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Sales/Controller/Guest/FormTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Sales/Model/AdminOrder/CreateTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Sales/Model/AdminOrder/CreateTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Sales/Model/Order/AddressRepositoryTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Sales/Model/Order/AddressRepositoryTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Sales/Model/Order/CreateTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Sales/Model/Order/CreateTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Sales/Model/Order/Payment/RepositoryTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Sales/Model/Order/Payment/RepositoryTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Sales/Model/Order/StatusTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Sales/Model/Order/StatusTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Sales/_files/order_with_bundle.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Sales/_files/order_with_bundle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Sales/_files/order_with_bundle_and_invoiced.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Sales/_files/order_with_bundle_and_invoiced.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Sales/_files/order_with_dummy_item_and_invoiced.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Sales/_files/order_with_dummy_item_and_invoiced.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Shipping/Controller/Adminhtml/Order/Shipment/SaveTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Shipping/Controller/Adminhtml/Order/Shipment/SaveTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Widget/Model/Config/_files/expectedGlobalArray.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Widget/Model/Config/_files/expectedGlobalArray.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Widget/Model/Config/_files/expectedGlobalDesignArray.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/integration/testsuite/Magento/Widget/Model/Config/_files/expectedGlobalDesignArray.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/js/jasmine/tests/app/code/Magento/Braintree/frontend/js/view/payment/method-renderer/cc-form.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/js/jasmine/tests/app/code/Magento/Braintree/frontend/js/view/payment/method-renderer/cc-form.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/tests/static/testsuite/Magento/Test/Legacy/_files/autogenerated_class_not_in_constructor_whitelist.php" beforeDir="false" afterPath="$PROJECT_DIR$/dev/tests/static/testsuite/Magento/Test/Legacy/_files/autogenerated_class_not_in_constructor_whitelist.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/web/css/docs/source/_layout.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/web/css/docs/source/_layout.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/web/requirejs/text.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/web/requirejs/text.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Eadesigndev_Eacore/css/eadesign.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Eadesigndev_Eacore/images/logo-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pub/static/deployed_version.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/deployed_version.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/src/Magento/Setup/Fixtures/OrdersFixture.php" beforeDir="false" afterPath="$PROJECT_DIR$/setup/src/Magento/Setup/Fixtures/OrdersFixture.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/src/Magento/Setup/Module/Di/Code/Generator/InterceptionConfigurationBuilder.php" beforeDir="false" afterPath="$PROJECT_DIR$/setup/src/Magento/Setup/Module/Di/Code/Generator/InterceptionConfigurationBuilder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/log/exception.log" beforeDir="false" afterPath="$PROJECT_DIR$/var/log/exception.log" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,14 +281,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>top.line</find>
-      <find>customer_logged_in</find>
-      <find>isLoggedIn</find>
-      <find>ID</find>
-      <find>QUESTION</find>
-      <find>DATE</find>
-      <find>ValidatorInterface</find>
-      <find>CITY</find>
       <find>getEntityTypeCode</find>
       <find>TABLE_Entity</find>
       <find>attribute</find>
@@ -73,6 +303,14 @@
       <find>d_Pdf_Font::fontWith</find>
       <find>PageLayoutFilter</find>
       <find>TrainingManish_OrderStatusFilter</find>
+      <find>text</find>
+      <find>comme</find>
+      <find>buyer</find>
+      <find>dk</find>
+      <find>bod</find>
+      <find>bodak</find>
+      <find>boda</find>
+      <find>order_custom_fields</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -84,57 +322,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/CategoryModule/etc/module.xml" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/HeaderBlock/Block/StaticBlock.php" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/HeaderBlock/view/frontend/templates/static_block.phtml" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/HeaderBlock/view/frontend/layout/default.xml" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/CustomerAttribute/view/frontend/layout/customer_account_create.xml" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/CustomerAttribute/view/frontend/templates/nick_name.phtml" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/CustomerAttribute/view/frontend/layout/customer_account_index.xml" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/CustomerAttribute/ViewModel/ViewNickName.php" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/CustomerAttribute/view/frontend/templates/account/dashboard/info.phtml" />
-        <option value="$PROJECT_DIR$/app/code/Eadesigndev/RomCity/Controller/Adminhtml/Index/Upload.php" />
-        <option value="$PROJECT_DIR$/app/code/Eadesigndev/RomCity/Helper/Data.php" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/ImportCity/registration.php" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/ImportCity/etc/module.xml" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/ImportCity/etc/import.xml" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/ImportCity/Model/Import/CityImport.php" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/ImportCity/Model/Import/CityImport/RowValidatorInterface.php" />
-        <option value="$PROJECT_DIR$/var/log/exception.log" />
-        <option value="$PROJECT_DIR$/app/code/Eadesigndev/RomCity/Model/Import/EadesignRomcity/RowValidatorInterface.php" />
-        <option value="$PROJECT_DIR$/app/code/Eadesigndev/RomCity/Model/Import/EadesignRomcity.php" />
-        <option value="$PROJECT_DIR$/app/code/Eadesigndev/RomCity/Model/Import/CustomerGroup/RowValidatorInterface.php" />
-        <option value="$PROJECT_DIR$/app/code/Eadesigndev/RomCity/Model/Import/Validator/Validator.php" />
-        <option value="$PROJECT_DIR$/app/code/Eadesigndev/RomCity/Model/Import/Validator/AbstractImportValidator.php" />
-        <option value="$PROJECT_DIR$/app/code/Eadesigndev/RomCity/Model/Import/CustomerGroup.php" />
-        <option value="$PROJECT_DIR$/app/code/Eadesigndev/RomCity/etc/module.xml" />
-        <option value="$PROJECT_DIR$/app/code/Eadesigndev/RomCity/etc/import.xml" />
-        <option value="$PROJECT_DIR$/app/code/Eadesigndev/RomCity/Model/Import/CityData.php" />
-        <option value="$PROJECT_DIR$/app/code/Eadesigndev/RomCity/etc/adminhtml/system.xml" />
-        <option value="$PROJECT_DIR$/app/code/Eadesigndev/RomCity/view/frontend/web/js/form/element/city.js" />
-        <option value="$PROJECT_DIR$/app/code/Eadesigndev/RomCity/view/frontend/layout/checkout_index_index.xml" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/CategoryModule/etc/local.xml" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/CategoryModule/view/frontend/layout/local.xml" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/CategoryModule/view/frontend/layout/default.xml" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/CategoryModule/view/frontend/layout/catalog_category_view.xml" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/InvoiceFont/registration.php" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/InvoiceFont/etc/module.xml" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/InvoiceFont/Model/Rewrite/Order/Pdf/Invoice.php" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/LoginPopup/view/frontend/web/js/view/ajaxlogin-popup.js" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/LoginPopup/etc/frontend/sections.xml" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/LoginPopup/view/frontend/layout/default.xml" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/LoginPopup/view/frontend/web/js/action/customer-authentication-popup.js" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/LoginPopup/Block/Form/Login.php" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/LoginPopup/Block/Form/Register.php" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/LoginPopup/Controller/Customer/Ajax/Register.php" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/LoginPopup/view/frontend/templates/login.phtml" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/LoginPopup/view/frontend/templates/register.phtml" />
-        <option value="$USER_HOME$/.caa/caa.conf" />
-        <option value="$PROJECT_DIR$/var/log/test.log" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/InvoiceFont/Plugin/AddFontToPdf.php" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/InvoiceFont/etc/di.xml" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/OrderStatusFilter/Model/Status/Options.php" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/OrderStatusFilter/view/adminhtml/ui_component/sales_order_grid.xml" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/OrderCustomField/view/frontend/layout/sales_order_view.xml" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/OrderCustomField/view/requirejs-config.js" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/OrderCustomField/view/web/js/view/shipping-mixin.js" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/OrderCustomField/view/web/js/view/checkout/custom-checkout-form.js" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/OrderCustomField/view/frontend/templates/order/view/custom_fields.phtml" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/OrderCustomField/Block/Order/CustomFields.php" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/OrderCustomField/view/frontend/layout/checkout_index_index.xml" />
+        <option value="$PROJECT_DIR$/app/code/Bodak/CheckoutCustomForm/Api/Data/CustomFieldsInterface.php" />
+        <option value="$PROJECT_DIR$/app/code/Bodak/CheckoutCustomForm/Model/Data/CustomFields.php" />
+        <option value="$PROJECT_DIR$/app/code/Bodak/CheckoutCustomForm/Model/CustomFieldsRepository.php" />
+        <option value="$PROJECT_DIR$/app/code/Bodak/CheckoutCustomForm/view/adminhtml/templates/order/view/custom_fields.phtml" />
+        <option value="$PROJECT_DIR$/app/code/Bodak/CheckoutCustomForm/view/frontend/layout/checkout_index_index.xml" />
+        <option value="$PROJECT_DIR$/app/code/Bodak/CheckoutCustomForm/view/frontend/templates/order/view/custom_fields.phtml" />
+        <option value="$PROJECT_DIR$/app/code/Bodak/CheckoutCustomForm/Setup/InstallData.php" />
+        <option value="$PROJECT_DIR$/app/code/Bodak/CheckoutCustomForm/view/adminhtml/layout/sales_order_invoice_view.xml" />
+        <option value="$PROJECT_DIR$/app/code/Bodak/CheckoutCustomForm/view/frontend/layout/sales_order_print.xml" />
+        <option value="$PROJECT_DIR$/app/code/Bodak/CheckoutCustomForm/view/frontend/layout/sales_order_printinvoice.xml" />
+        <option value="$PROJECT_DIR$/app/code/Bodak/CheckoutCustomForm/view/frontend/layout/sales_email_order_renderers.xml" />
+        <option value="$PROJECT_DIR$/app/code/Bodak/CheckoutCustomForm/view/frontend/layout/sales_order_invoice.xml" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/Api/Data/CustomFieldsInterface.php" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/Api/CustomFieldsGuestRepositoryInterface.php" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/Api/CustomFieldsRepositoryInterface.php" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/etc/di.xml" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/registration.php" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/etc/module.xml" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/etc/webapi.xml" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/etc/events.xml" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/etc/adminhtml/di.xml" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/Model/CustomFieldsGuestRepository.php" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/Model/Data/CustomFields.php" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/Observer/AddCustomFieldsToOrder.php" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/Plugin/Block/Adminhtml/CustomFields.php" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/view/adminhtml/layout/sales_order_invoice_view.xml" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/view/adminhtml/layout/sales_order_view.xml" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/view/adminhtml/templates/order/view/custom_fields.phtml" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/view/frontend/layout/checkout_index_index.xml" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/Block/Order/CustomFields.php" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/view/frontend/layout/sales_email_order_renderers.xml" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/view/frontend/layout/sales_order_invoice.xml" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/view/frontend/layout/sales_order_print.xml" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/view/frontend/layout/sales_order_printinvoice.xml" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/view/frontend/layout/sales_order_view.xml" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/view/frontend/templates/order/view/custom_fields.phtml" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/view/frontend/requirejs-config.js" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/view/frontend/web/js/view/shipping-mixin.js" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/view/frontend/web/js/view/checkout/custom-checkout-form.js" />
+        <option value="$USER_HOME$/Desktop/SalesCustomField/Setup/InstallData.php" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/Setup/InstallData.php" />
+        <option value="$PROJECT_DIR$/app/etc/config.php" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/Model/CustomFieldsRepository.php" />
+        <option value="$PROJECT_DIR$/app/code/Bodak/CheckoutCustomForm/Observer/AddCustomFieldsToOrder.php" />
       </list>
     </option>
   </component>
@@ -592,6 +830,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -610,180 +849,10 @@
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="TrainingManish" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="etc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="module-cms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="module-cms" type="462c0819:PsiDirectoryNode" />
-              <item name="Model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="module-cms" type="462c0819:PsiDirectoryNode" />
-              <item name="Model" type="462c0819:PsiDirectoryNode" />
-              <item name="Page" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="module-cms" type="462c0819:PsiDirectoryNode" />
-              <item name="Model" type="462c0819:PsiDirectoryNode" />
-              <item name="Page" type="462c0819:PsiDirectoryNode" />
-              <item name="Source" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="module-cms" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="module-cms" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
-              <item name="adminhtml" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="module-cms" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
-              <item name="adminhtml" type="462c0819:PsiDirectoryNode" />
-              <item name="ui_component" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="module-sales" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="module-sales" type="462c0819:PsiDirectoryNode" />
-              <item name="Ui" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="module-sales" type="462c0819:PsiDirectoryNode" />
-              <item name="Ui" type="462c0819:PsiDirectoryNode" />
-              <item name="Component" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="module-sales" type="462c0819:PsiDirectoryNode" />
-              <item name="Ui" type="462c0819:PsiDirectoryNode" />
-              <item name="Component" type="462c0819:PsiDirectoryNode" />
-              <item name="Listing" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="module-sales" type="462c0819:PsiDirectoryNode" />
-              <item name="Ui" type="462c0819:PsiDirectoryNode" />
-              <item name="Component" type="462c0819:PsiDirectoryNode" />
-              <item name="Listing" type="462c0819:PsiDirectoryNode" />
-              <item name="Column" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="module-sales" type="462c0819:PsiDirectoryNode" />
-              <item name="Ui" type="462c0819:PsiDirectoryNode" />
-              <item name="Component" type="462c0819:PsiDirectoryNode" />
-              <item name="Listing" type="462c0819:PsiDirectoryNode" />
-              <item name="Column" type="462c0819:PsiDirectoryNode" />
-              <item name="Status" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="module-sales" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="module-sales" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
-              <item name="adminhtml" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="module-sales" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
-              <item name="adminhtml" type="462c0819:PsiDirectoryNode" />
-              <item name="ui_component" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -792,7 +861,7 @@
     <property name="ToolWindowEvent Log.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="database.console.LAST_STATE" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/design/frontend/SimplifiedMagento/CustomTheme" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/view" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -804,14 +873,18 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/code/TrainingManish/OrderCustomField/Setup/Patch" />
+      <recent name="$PROJECT_DIR$/app/code/TrainingManish/OrderCustomField/Setup" />
+      <recent name="$PROJECT_DIR$/app/code/TrainingManish/OrderCustomField/Setup/Data/Patch" />
       <recent name="$PROJECT_DIR$/app/code/TrainingManish/LoginPopup/Controller/Customer" />
       <recent name="$PROJECT_DIR$/app/code/TrainingManish/CategoryModule/view/frontend/layout" />
-      <recent name="$PROJECT_DIR$/app/code/TrainingManish/CustomerAttribute/view/frontend/templates/account/dashboard" />
-      <recent name="$PROJECT_DIR$/app/code/SimplifiedMagento/ContactUs/etc/frontend" />
-      <recent name="$PROJECT_DIR$/app/code/SimplifiedMagento/SocialShare/view/frontend/templates/product/view" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/app/design/frontend/SimplifiedMagento/CustomTheme" />
+      <recent name="$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/view" />
+      <recent name="$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/view/adminhtml/templates" />
+      <recent name="$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/view/adminhtml/layout" />
+      <recent name="$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField" />
+      <recent name="$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/Api" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -881,6 +954,7 @@
       <workItem from="1576039133491" duration="3055000" />
       <workItem from="1576043966584" duration="2780000" />
       <workItem from="1576148069074" duration="2414000" />
+      <workItem from="1576472014246" duration="10903000" />
     </task>
     <task id="LOCAL-00001" summary="This is just for testing from Phpstrom">
       <created>1575365574327</created>
@@ -893,7 +967,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="498346000" />
+    <option name="totallyTimeSpent" value="531107000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -907,7 +981,7 @@
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1368" height="742" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49261084" visible="true" weight="0.26439393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49261084" visible="true" weight="0.2659091" />
       <window_info id="Structure" order="1" sideWeight="0.5073892" side_tool="true" weight="0.22954546" />
       <window_info id="Favorites" order="2" sideWeight="0.5073892" side_tool="true" weight="0.22954546" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -1016,282 +1090,386 @@
           <line>7</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/code/Bodak/CheckoutCustomForm/Api/CustomFieldsRepositoryInterface.php</url>
+          <line>14</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/view/frontend/web/js/view/customer.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/view/frontend/web/js/action/check-email-availability.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/view/frontend/web/js/action/login.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-180" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/LoginPopup/etc/frontend/events.xml" />
-    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/LoginPopup/Observer/AddLoggedOutHandleObserver.php" />
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/Block/Account/AuthorizationLink.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/LoginPopup/etc/di.xml" />
-    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/LoginPopup/Plugin/ModifySignInHrefPlugin.php" />
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/Controller/Account/Login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-239">
-          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/Controller/Account/Create.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-344">
-          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/etc/frontend/di.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-733" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/etc/frontend/events.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/etc/frontend/sections.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/etc/di.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-450" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/LoginPopup/view/frontend/web/js/model/authentication-popup.js" />
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/view/frontend/templates/form/login.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-178" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/LoginPopup/view/frontend/templates/account/ajaxlogin-popup.phtml" />
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/view/frontend/layout/customer_account_login.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/tests/functional/tests/app/Magento/Theme/Test/Block/Links.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="28" column="55" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/var/cache/mage--5/mage---def_E290503EF06C4177B3E003AA9A0C209920365BA1">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="643">
-          <caret line="1" column="7900" selection-start-line="1" selection-start-column="7900" selection-end-line="1" selection-end-column="7900" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/LoginPopup/view/frontend/layout/ajaxlogin_customer_logged_out.xml" />
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/view/frontend/layout/customer_account_create.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/LoginPopup/view/frontend/web/js/view/ajaxlogin-popup.js" />
-    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/LoginPopup/view/frontend/web/template/ajaxlogin-popup.html" />
-    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/LoginPopup/etc/frontend/routes.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/LoginPopup/etc/module.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="43" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.caa/caa.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/LoginPopup/Block/Form/Login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/LoginPopup/Controller/Customer/Ajax/Register.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="294" column="17" selection-start-line="294" selection-start-column="17" selection-end-line="294" selection-end-column="17" />
-          <folding>
-            <element signature="e#72#112#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/LoginPopup/view/frontend/templates/register.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="93" selection-start-column="93" selection-end-column="93" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/LoginPopup/view/frontend/templates/login.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/LoginPopup/Block/Form/Register.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-644">
-          <caret line="86" column="21" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="21" />
-          <folding>
-            <element signature="e#58#103#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/LoginPopup/view/frontend/layout/default.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/LoginPopup/etc/frontend/sections.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="27" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/LoginPopup/view/frontend/web/js/action/customer-authentication-popup.js">
+    <entry file="file://$PROJECT_DIR$/app/code/Bodak/CheckoutCustomForm/view/frontend/layout/sales_order_invoice.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/InvoiceFont/Model/Rewrite/Order/Pdf/Invoice.php">
+    <entry file="file://$PROJECT_DIR$/app/code/Bodak/CheckoutCustomForm/Api/Data/CustomFieldsInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="34" column="42" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/Bodak/CheckoutCustomForm/Api/CustomFieldsGuestRepositoryInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="28" column="98" lean-forward="true" selection-start-line="28" selection-start-column="85" selection-end-line="28" selection-end-column="98" />
+          <folding>
+            <element signature="e#319#349#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/Bodak/CheckoutCustomForm/Api/CustomFieldsRepositoryInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="45" column="35" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="35" />
+          <folding>
+            <element signature="e#313#343#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/Bodak/CheckoutCustomForm/Block/Order/CustomFields.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/Api/Data/CustomFieldsInterface.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
+          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales/Model/Order/Pdf/Invoice.php">
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/Api/CustomFieldsRepositoryInterface.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="83" column="24" selection-start-line="83" selection-start-column="24" selection-end-line="83" selection-end-column="24" />
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding>
+            <element signature="e#56#86#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales/Model/Order/Pdf/AbstractPdf.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="860" column="39" lean-forward="true" selection-start-line="857" selection-start-column="8" selection-end-line="860" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/InvoiceFont/registration.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="8" column="84" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/var/log/test.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/InvoiceFont/Plugin/AddFontToPdf.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/InvoiceFont/etc/di.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="127" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-cms/Model/Page/Source/PageLayoutFilter.php">
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/Api/CustomFieldsGuestRepositoryInterface.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="22" />
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/OrderStatusFilter/etc/module.xml">
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/etc/events.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/etc/di.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="96" selection-start-line="3" selection-start-column="96" selection-end-line="3" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/Bodak/CheckoutCustomForm/Setup/InstallData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="122" column="14" lean-forward="true" selection-start-line="111" selection-start-column="8" selection-end-line="122" selection-end-column="14" />
+          <folding>
+            <element signature="e#300#349#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/Bodak/CheckoutCustomForm/view/adminhtml/layout/sales_order_invoice_view.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/view/adminhtml/layout/sales_order_invoice_view.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="135" selection-start-line="3" selection-start-column="124" selection-end-line="3" selection-end-column="135" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/view/adminhtml/templates/order/view/custom_fields.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="43" lean-forward="true" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/view/adminhtml/layout/sales_order_view.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="122" selection-start-line="3" selection-start-column="122" selection-end-line="3" selection-end-column="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/view/frontend/layout/sales_email_order_renderers.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/view/frontend/layout/sales_order_invoice.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/view/frontend/layout/sales_order_print.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/view/frontend/layout/sales_order_printinvoice.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/view/frontend/layout/sales_order_view.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/view/frontend/layout/checkout_index_index.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="24" column="143" selection-start-line="24" selection-start-column="112" selection-end-line="24" selection-end-column="143" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/Block/Order/CustomFields.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          <folding>
+            <element signature="e#64#95#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/Model/Data/CustomFields.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+          <folding>
+            <element signature="e#64#115#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/view/frontend/templates/order/view/custom_fields.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/view/frontend/requirejs-config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/view/frontend/web/template/shipping.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-735">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/view/frontend/web/template/checkout/custom-checkout-form.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="50" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="50" />
+          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/view/frontend/web/js/view/shipping-mixin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="54" column="54" selection-start-line="54" selection-start-column="54" selection-end-line="54" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/SalesCustomField/Setup/InstallData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="74" column="14" selection-start-line="74" selection-start-column="14" selection-end-line="74" selection-end-column="14" />
+          <folding>
+            <element signature="e#59#94#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/etc/module.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/registration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Bodak/CheckoutCustomForm/Setup/InstallData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="90" column="41" selection-start-line="90" selection-start-column="33" selection-end-line="90" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Bodak/CheckoutCustomForm/Setup/Uninstall.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="89" column="47" selection-start-line="89" selection-start-column="36" selection-end-line="89" selection-end-column="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/etc/config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="229" column="44" selection-start-line="229" selection-start-column="44" selection-end-line="229" selection-end-column="44" />
+        <state relative-caret-position="406">
+          <caret line="253" column="47" selection-start-line="253" selection-start-column="47" selection-end-line="253" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/OrderStatusFilter/Model/Status/Options.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales/Ui/Component/Listing/Column/Status/Options.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="40" column="33" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales/view/adminhtml/ui_component/sales_order_grid.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="38" column="17" lean-forward="true" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-cms/Model/Page/Source/PageLayout.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-149">
-          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-cms/view/adminhtml/ui_component/cms_page_listing.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="175" column="79" selection-start-line="175" selection-start-column="46" selection-end-line="175" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/OrderStatusFilter/view/adminhtml/ui_component/sales_order_grid.xml">
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/etc/adminhtml/di.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <caret line="2" column="59" lean-forward="true" selection-start-line="2" selection-start-column="59" selection-end-line="2" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/etc/webapi.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/Setup/InstallData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <element signature="e#59#94#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/Bodak/CheckoutCustomForm/Model/Data/CustomFields.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/Observer/AddCustomFieldsToOrder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/view/frontend/web/js/view/checkout/custom-checkout-form.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/view/frontend/web/js/model/checkout/custom-checkout-form.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/Plugin/Block/Adminhtml/CustomFields.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/Model/CustomFieldsGuestRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/Model/CustomFieldsRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="48" column="47" selection-start-line="48" selection-start-column="47" selection-end-line="48" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/Bodak/CheckoutCustomForm/etc/adminhtml/di.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/Bodak/CheckoutCustomForm/view/frontend/templates/order/view/custom_fields.phtml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/Bodak/CheckoutCustomForm/Observer/AddCustomFieldsToOrder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="14" column="60" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="60" />
+          <folding>
+            <element signature="e#268#314#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/Bodak/CheckoutCustomForm/view/frontend/layout/checkout_index_index.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-540" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/Bodak/CheckoutCustomForm/Plugin/Block/Adminhtml/CustomFields.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="44" column="34" selection-start-line="44" selection-start-column="34" selection-end-line="44" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/Bodak/CheckoutCustomForm/Model/CustomFieldsRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="112" column="25" selection-start-line="112" selection-start-column="25" selection-end-line="112" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/Bodak/CheckoutCustomForm/Model/CustomFieldsGuestRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
         </state>
       </provider>
     </entry>

@@ -8,7 +8,7 @@ namespace Magento\Sales\Model\Order;
 
 /**
  * Class ShipmentTest
- * @package Magento\Sales\Model\Order
+ * @package Magento\Sales\Model\order
  */
 class StatusTest extends \PHPUnit\Framework\TestCase
 {

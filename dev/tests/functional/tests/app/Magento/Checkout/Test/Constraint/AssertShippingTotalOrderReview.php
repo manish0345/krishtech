@@ -10,7 +10,7 @@ use Magento\Checkout\Test\Page\CheckoutOnepage;
 use Magento\Mtf\Constraint\AbstractConstraint;
 
 /**
- * Assert that shipping price is correct on Order Review page.
+ * Assert that shipping price is correct on order Review page.
  */
 class AssertShippingTotalOrderReview extends AbstractConstraint
 {

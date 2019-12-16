@@ -10,17 +10,17 @@ use Magento\Mtf\Constraint\AbstractConstraint;
 use Magento\Sales\Test\Page\Adminhtml\OrderCreateIndex;
 
 /**
- * Assert that Items Ordered section on Create Order page on backend is empty.
+ * Assert that Items Ordered section on Create order page on backend is empty.
  */
 class AssertItemsOrderedSectionOnBackendOrderIsEmpty extends AbstractConstraint
 {
     /**
-     * "No ordered items" message on Create Order page on backend.
+     * "No ordered items" message on Create order page on backend.
      */
     const TEXT_MESSAGE = 'No ordered items';
 
     /**
-     * Assert that Items Ordered section on Create Order page on backend is empty.
+     * Assert that Items Ordered section on Create order page on backend is empty.
      *
      * @param OrderCreateIndex $orderCreateIndex
      * @return void
@@ -30,17 +30,17 @@ class AssertItemsOrderedSectionOnBackendOrderIsEmpty extends AbstractConstraint
         \PHPUnit\Framework\Assert::assertEquals(
             $orderCreateIndex->getCreateBlock()->getItemsBlock()->getEmptyTextMessage(),
             self::TEXT_MESSAGE,
-            'Items Ordered section on Create Order page on backend is not empty.'
+            'Items Ordered section on Create order page on backend is not empty.'
         );
     }
 
     /**
-     * Assert success message that Items Ordered section on Create Order page on backend is empty.
+     * Assert success message that Items Ordered section on Create order page on backend is empty.
      *
      * @return string
      */
     public function toString()
     {
-        return 'Items Ordered section on Create Order page on backend is empty.';
+        return 'Items Ordered section on Create order page on backend is empty.';
     }
 }

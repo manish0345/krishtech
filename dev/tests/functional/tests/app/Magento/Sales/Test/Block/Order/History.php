@@ -11,7 +11,7 @@ use Magento\Mtf\Client\Element\SimpleElement;
 use Magento\Mtf\Client\Locator;
 
 /**
- * Order history block on My Order page.
+ * order history block on My order page.
  */
 class History extends Block
 {
@@ -30,7 +30,7 @@ class History extends Block
     protected $itemOrder = '//tr[td[contains(@class, "id") and normalize-space(.)="%s"]]';
 
     /**
-     * Order total css selector.
+     * order total css selector.
      *
      * @var string
      */
@@ -51,7 +51,7 @@ class History extends Block
     protected $reorderButton = '.action.order';
 
     /**
-     * Order history form selector.
+     * order history form selector.
      *
      * @var string
      */

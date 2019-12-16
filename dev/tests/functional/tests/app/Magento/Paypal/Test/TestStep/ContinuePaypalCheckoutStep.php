@@ -24,14 +24,14 @@ class ContinuePaypalCheckoutStep implements TestStepInterface
     protected $sandboxCustomer;
 
     /**
-     * Order review page on PayPal side.
+     * order review page on PayPal side.
      *
      * @var ExpressReview
      */
     protected $expressReview;
 
     /**
-     * Assert that Order Grand Total is correct on PayPal page.
+     * Assert that order Grand Total is correct on PayPal page.
      *
      * @var AssertTotalPaypalReview
      */

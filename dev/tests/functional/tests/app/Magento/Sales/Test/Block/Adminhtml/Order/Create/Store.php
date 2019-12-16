@@ -45,7 +45,7 @@ class Store extends Block
     }
 
     /**
-     * Select store view for order based on Order fixture
+     * Select store view for order based on order fixture
      *
      * @param StoreFixture|null $fixture
      */

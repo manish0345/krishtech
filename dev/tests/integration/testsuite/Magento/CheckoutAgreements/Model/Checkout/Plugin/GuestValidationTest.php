@@ -76,7 +76,7 @@ class GuestValidationTest extends \PHPUnit\Framework\TestCase
     }
 
     /**
-     * Expected - Order fail with exception.
+     * Expected - order fail with exception.
      *
      * @magentoConfigFixture current_store payment/substitution/active 1
      * @magentoConfigFixture default_store checkout/options/enable_agreements 1

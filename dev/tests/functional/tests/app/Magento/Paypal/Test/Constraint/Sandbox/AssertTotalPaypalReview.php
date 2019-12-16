@@ -10,12 +10,12 @@ use Magento\Paypal\Test\Page\Sandbox\ExpressReview;
 use Magento\Mtf\Constraint\AbstractConstraint;
 
 /**
- * Assert that Order total is correct on PayPal Review page.
+ * Assert that order total is correct on PayPal Review page.
  */
 class AssertTotalPaypalReview extends AbstractConstraint
 {
     /**
-     * Assert that Order Grand Total is correct on PayPal page.
+     * Assert that order Grand Total is correct on PayPal page.
      *
      * @param ExpressReview $expressReview
      * @param string $total

@@ -143,7 +143,7 @@ class Payment extends Block
     }
 
     /**
-     * Press "Place Order" button.
+     * Press "Place order" button.
      *
      * @return void
      */

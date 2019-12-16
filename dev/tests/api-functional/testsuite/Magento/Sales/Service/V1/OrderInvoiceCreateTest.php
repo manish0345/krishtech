@@ -6,7 +6,7 @@
 namespace Magento\Sales\Service\V1;
 
 /**
- * API test for creation of Invoice for certain Order.
+ * API test for creation of Invoice for certain order.
  */
 class OrderInvoiceCreateTest extends \Magento\TestFramework\TestCase\WebapiAbstract
 {
@@ -87,7 +87,7 @@ class OrderInvoiceCreateTest extends \Magento\TestFramework\TestCase\WebapiAbstr
         $this->assertNotEquals(
             $existingOrder->getStatus(),
             $updatedOrder->getStatus(),
-            'Failed asserting that Order status was changed'
+            'Failed asserting that order status was changed'
         );
     }
 

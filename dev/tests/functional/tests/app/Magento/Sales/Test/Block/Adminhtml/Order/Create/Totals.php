@@ -16,35 +16,35 @@ use Magento\Mtf\Block\Block;
 class Totals extends Block
 {
     /**
-     * 'Submit Order' button
+     * 'Submit order' button
      *
      * @var string
      */
     protected $submitOrder = '.order-totals-actions button';
 
     /**
-     * Order Totals rows locator.
+     * order Totals rows locator.
      *
      * @var string
      */
     private $totalsRowsLocator = '.data-table tr';
 
     /**
-     * Order Totals Item label locator.
+     * order Totals Item label locator.
      *
      * @var string
      */
     private $totalsRowKeyLocator = '.admin__total-mark';
 
     /**
-     * Order Totals Item amount locator.
+     * order Totals Item amount locator.
      *
      * @var string
      */
     private $totalsRowValueLocator = '.price';
 
     /**
-     * Click 'Submit Order' button
+     * Click 'Submit order' button
      */
     public function submitOrder()
     {
@@ -52,7 +52,7 @@ class Totals extends Block
     }
 
     /**
-     * Get Order totals.
+     * Get order totals.
      *
      * @return array
      */

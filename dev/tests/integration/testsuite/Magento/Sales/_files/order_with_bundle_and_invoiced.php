@@ -60,7 +60,7 @@ foreach ($order->getAllItems() as $item) {
 
 if (!function_exists('saveOrderItems')) {
     /**
-     * Save Order Items.
+     * Save order Items.
      *
      * @param array $orderItems
      * @param Item|null $parentOrderItem [optional]

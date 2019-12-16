@@ -44,7 +44,7 @@ foreach ($order->getAllItems() as $item) {
 saveOrderItems($orderItems);
 
 /**
- * Save Order Items.
+ * Save order Items.
  *
  * @param array $orderItems
  * @param \Magento\Sales\Model\Order\Item|null $parentOrderItem [optional]

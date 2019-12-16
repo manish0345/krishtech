@@ -12,7 +12,7 @@ use Magento\Framework\Api\SortOrderBuilder;
 
 /**
  * Class RepositoryTest
- * @package Magento\Sales\Model\Order\Payment\
+ * @package Magento\Sales\Model\order\Payment\
  * @magentoDbIsolation enabled
  */
 class RepositoryTest extends \PHPUnit\Framework\TestCase

@@ -31,7 +31,7 @@ class Wishlist extends Sidebar
 
     // @codingStandardsIgnoreStart
     /**
-     * Locator for 'Add To Order' checkbox
+     * Locator for 'Add To order' checkbox
      *
      * @var string
      */

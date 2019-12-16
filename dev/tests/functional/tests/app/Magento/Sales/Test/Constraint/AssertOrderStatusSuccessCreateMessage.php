@@ -40,12 +40,12 @@ class AssertOrderStatusSuccessCreateMessage extends AbstractConstraint
     }
 
     /**
-     * Text of Created Custom Order Status Success Message assert.
+     * Text of Created Custom order Status Success Message assert.
      *
      * @return string
      */
     public function toString()
     {
-        return 'Order status success create message is present.';
+        return 'order status success create message is present.';
     }
 }

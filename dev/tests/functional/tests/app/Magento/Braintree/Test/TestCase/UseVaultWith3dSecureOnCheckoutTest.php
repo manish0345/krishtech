@@ -23,14 +23,14 @@ use Magento\Mtf\TestCase\Scenario;
  * 4. Select shipping method.
  * 5. Select payment method (use reward points and store credit if available).
  * 6. Enter credit card data and select *Save credit card* checkbox.
- * 7. Click Place Order button.
+ * 7. Click Place order button.
  * 8. Specify password in 3D Secure popup.
  * 9. Click 'Submit' to place order.
  * 10. Add products to the cart.
  * 11. Click the 'Proceed to Checkout' button.
  * 12. Select shipping method.
  * 13. Select saved credit card as a payment.
- * 14. Click Place Order button.
+ * 14. Click Place order button.
  * 15. Specify password in 3D Secure popup.
  * 16. Click 'Submit' to place order.
  * 17. Perform assertions.

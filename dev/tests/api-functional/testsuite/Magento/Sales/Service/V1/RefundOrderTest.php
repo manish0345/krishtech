@@ -9,7 +9,7 @@ namespace Magento\Sales\Service\V1;
 use Magento\Sales\Model\Order;
 
 /**
- * API test for creation of Creditmemo for certain Order.
+ * API test for creation of Creditmemo for certain order.
  */
 class RefundOrderTest extends \Magento\TestFramework\TestCase\WebapiAbstract
 {
@@ -86,7 +86,7 @@ class RefundOrderTest extends \Magento\TestFramework\TestCase\WebapiAbstract
             $this->assertEquals(
                 $creditmemo->getShippingAmount(),
                 $updatedOrder->getShippingRefunded(),
-                'Failed asserting that proper shipping amount of the Order was refunded'
+                'Failed asserting that proper shipping amount of the order was refunded'
             );
 
             $this->assertEquals(
@@ -177,7 +177,7 @@ class RefundOrderTest extends \Magento\TestFramework\TestCase\WebapiAbstract
             $this->assertEquals(
                 $expectedShippingAmount,
                 $updatedOrder->getShippingRefunded(),
-                'Failed asserting that proper shipping amount of the Order was refunded'
+                'Failed asserting that proper shipping amount of the order was refunded'
             );
 
             $this->assertEquals(
@@ -292,7 +292,7 @@ class RefundOrderTest extends \Magento\TestFramework\TestCase\WebapiAbstract
     }
 
     /**
-     * Gets all items of given Order in proper format.
+     * Gets all items of given order in proper format.
      *
      * @param \Magento\Sales\Model\Order $order
      *
@@ -314,7 +314,7 @@ class RefundOrderTest extends \Magento\TestFramework\TestCase\WebapiAbstract
     }
 
     /**
-     * Gets refunded items of given Order in proper format.
+     * Gets refunded items of given order in proper format.
      *
      * @param \Magento\Sales\Model\Order $order
      *

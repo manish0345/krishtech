@@ -10,12 +10,12 @@ use Magento\Sales\Test\Page\Adminhtml\OrderIndex;
 use Magento\Sales\Test\Page\Adminhtml\SalesOrderView;
 
 /**
- * Assert that Order Total Paid is correct on order page in Admin.
+ * Assert that order Total Paid is correct on order page in Admin.
  */
 class AssertOrderTotalPaid extends AbstractConstraint
 {
     /**
-     * Assert that Order Total Paid is correct on order page in Admin.
+     * Assert that order Total Paid is correct on order page in Admin.
      *
      * @param SalesOrderView $salesOrderView
      * @param OrderIndex $salesOrder

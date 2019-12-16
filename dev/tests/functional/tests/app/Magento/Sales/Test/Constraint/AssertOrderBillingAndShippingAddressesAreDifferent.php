@@ -9,12 +9,12 @@ use Magento\Sales\Test\Page\Adminhtml\SalesOrderView;
 use Magento\Mtf\Constraint\AbstractConstraint;
 
 /**
- * Assert that Order Billing Address different than Shipping Address on order page.
+ * Assert that order Billing Address different than Shipping Address on order page.
  */
 class AssertOrderBillingAndShippingAddressesAreDifferent extends AbstractConstraint
 {
     /**
-     * Assert that Order Billing Address different than Shipping Address on order page.
+     * Assert that order Billing Address different than Shipping Address on order page.
      *
      * @param SalesOrderView $salesOrderView
      * @param string $orderId

@@ -24,7 +24,7 @@ abstract class AbstractAssertSalesReportResult extends AbstractConstraint
     protected $salesReportPage;
 
     /**
-     * Order
+     * order
      *
      * @var OrderInjectable
      */

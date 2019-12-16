@@ -10,7 +10,7 @@ use Magento\Mtf\Client\Locator;
 use Magento\Ui\Test\Block\Adminhtml\DataGrid;
 
 /**
- * Backend Data Grid for managing "Sales Order" entities.
+ * Backend Data Grid for managing "Sales order" entities.
  */
 class Grid extends DataGrid
 {
@@ -63,7 +63,7 @@ class Grid extends DataGrid
     protected $createNewOrder = '[data-ui-id="add-button"]';
 
     /**
-     * Order Id td selector.
+     * order Id td selector.
      *
      * @var string
      */

@@ -9,7 +9,7 @@ namespace Magento\Sales\Test\Block\Adminhtml\Order\View\Tab\Info;
 use Magento\Mtf\Block\Block;
 
 /**
- * Order payment information block.
+ * order payment information block.
  */
 class PaymentInfoBlock extends Block
 {

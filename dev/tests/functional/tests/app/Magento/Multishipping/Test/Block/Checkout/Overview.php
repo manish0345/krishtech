@@ -14,7 +14,7 @@ use Magento\Mtf\Block\Block;
 class Overview extends Block
 {
     /**
-     * 'Place Order' button
+     * 'Place order' button
      *
      * @var string
      */

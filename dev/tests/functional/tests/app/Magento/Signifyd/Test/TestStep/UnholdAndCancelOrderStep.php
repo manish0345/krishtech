@@ -24,7 +24,7 @@ class UnholdAndCancelOrderStep implements TestStepInterface
     private $placeOrderStatus;
 
     /**
-     * Order fixture.
+     * order fixture.
      *
      * @var OrderInjectable
      */

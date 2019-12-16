@@ -41,6 +41,6 @@ class AssertOrderStatusSuccessUnassignMessage extends AbstractConstraint
      */
     public function toString()
     {
-        return 'Order status success unassign message is present.';
+        return 'order status success unassign message is present.';
     }
 }

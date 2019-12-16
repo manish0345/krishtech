@@ -11,7 +11,7 @@ use Magento\Mtf\Client\Locator;
 use Magento\Ui\Test\Block\Adminhtml\Modal;
 
 /**
- * Order actions block.
+ * order actions block.
  *
  * @SuppressWarnings(PHPMD.TooManyFields)
  * @SuppressWarnings(PHPMD.TooManyPublicMethods)
@@ -260,7 +260,7 @@ class Actions extends Block
     }
 
     /**
-     * Order credit memo.
+     * order credit memo.
      *
      * @return void
      */
@@ -270,7 +270,7 @@ class Actions extends Block
     }
 
     /**
-     * Order invoice credit memo.
+     * order invoice credit memo.
      *
      * @return void
      */

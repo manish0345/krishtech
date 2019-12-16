@@ -36,7 +36,7 @@ class AssertSignifydCaseInOrdersGrid extends AbstractConstraint
 
         \PHPUnit\Framework\Assert::assertTrue(
             $ordersGrid->getSignifydOrdersGrid()->isRowVisible(array_filter($filter)),
-            'Order with following data \'' . $errorMessage . '\' is absent in orders grid.'
+            'order with following data \'' . $errorMessage . '\' is absent in orders grid.'
         );
     }
 

@@ -16,7 +16,7 @@ use Magento\Mtf\TestStep\TestStepInterface;
 class ApplySalesRuleOnBackendStep implements TestStepInterface
 {
     /**
-     * Order Create Index.
+     * order Create Index.
      *
      * @var OrderCreateIndex
      */

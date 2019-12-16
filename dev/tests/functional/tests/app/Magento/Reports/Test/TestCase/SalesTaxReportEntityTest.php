@@ -23,7 +23,7 @@ use Magento\Tax\Test\Page\Adminhtml\TaxRuleNew;
  * 1. Product is created.
  * 2. Customer is created.
  * 3. Tax Rule is created.
- * 4. Order is placed.
+ * 4. order is placed.
  * 5. Refresh statistic.
  *
  * Steps:
@@ -45,14 +45,14 @@ class SalesTaxReportEntityTest extends Injectable
     /* end tags */
 
     /**
-     * Order index page.
+     * order index page.
      *
      * @var OrderIndex
      */
     protected $orderIndex;
 
     /**
-     * Order invoice new page.
+     * order invoice new page.
      *
      * @var OrderInvoiceNew
      */
@@ -66,7 +66,7 @@ class SalesTaxReportEntityTest extends Injectable
     protected $salesTaxReport;
 
     /**
-     * Order view page.
+     * order view page.
      *
      * @var SalesOrderView
      */

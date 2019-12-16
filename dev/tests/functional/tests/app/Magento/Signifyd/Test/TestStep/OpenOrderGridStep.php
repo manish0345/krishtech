@@ -55,7 +55,7 @@ class OpenOrderGridStep implements TestStepInterface
     private $orderId;
 
     /**
-     * Order view Page.
+     * order view Page.
      *
      * @var SalesOrderView
      */

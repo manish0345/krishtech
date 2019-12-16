@@ -29,7 +29,7 @@ use Magento\Mtf\TestCase\Scenario;
  * 13. Open placed order.
  * 14. Click 'Reorder' button.
  * 15. Select stored Braintree PayPal token.
- * 16. Click 'Submit Order'.
+ * 16. Click 'Submit order'.
  * 17. Perform assertions.
  *
  * @group Braintree

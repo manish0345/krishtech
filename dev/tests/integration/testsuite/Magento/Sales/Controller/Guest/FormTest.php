@@ -28,7 +28,7 @@ class FormTest extends AbstractController
         $this->prepareRequestData();
         $this->dispatch('sales/guest/view/');
         $content = $this->getResponse()->getBody();
-        $this->assertContains('Order # 100000001', $content);
+        $this->assertContains('order # 100000001', $content);
     }
 
     /**
@@ -59,7 +59,7 @@ class FormTest extends AbstractController
     }
 
     /**
-     * Test Return Order for guest with incorrect data
+     * Test Return order for guest with incorrect data
      */
     public function testViewOrderAsGuestWithIncorrectData()
     {

@@ -9,7 +9,7 @@ use Magento\Mtf\TestCase\Scenario;
 
 /**
  * Preconditions:
- * 1. Enable payment method "Check/Money Order".
+ * 1. Enable payment method "Check/Money order".
  *
  * Steps:
  * 1. Go to Storefront.
@@ -25,7 +25,7 @@ use Magento\Mtf\TestCase\Scenario;
  * 11. Select created shipment in the grid and open it.
  * 12. Add tracking number according to dataset.
  * 13. Select created order in the grid and open it.
- * 14. Click on 'Track Order' link.
+ * 14. Click on 'Track order' link.
  * 15. Perform all asserts.
  *
  * @group Shipping

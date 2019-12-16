@@ -24,12 +24,12 @@ use Magento\Mtf\TestCase\Scenario;
  * 6. Select *Save for later use* checkbox.
  * 7. Click *Continue to PayPal* button.
  * 8. Click *Proceed with Sandbox Purchase* button.
- * 9. Click Place Order button.
+ * 9. Click Place order button.
  * 8. Add products to the cart.
  * 9. Click the *Proceed to Checkout* button.
  * 10. Select shipping method.
  * 11. Select PayPal payer account as a payment.
- * 12. Click Place Order button.
+ * 12. Click Place order button.
  * 13. Go to *My Account > Stored Payment Methods* section.
  * 14. Click *Delete* link next to stored PayPal payer account.
  * 15. Click *Delete* button on appeared pop up.

@@ -23,7 +23,7 @@ class GetPaymentUpdateStep implements TestStepInterface
     private $orderIndex;
 
     /**
-     * Order view Page.
+     * order view Page.
      *
      * @var SalesOrderView
      */

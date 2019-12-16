@@ -38,14 +38,14 @@ class SalesCouponReportEntityTest extends Injectable
     /* end tags */
 
     /**
-     * Order index page
+     * order index page
      *
      * @var OrderIndex
      */
     protected $orderIndex;
 
     /**
-     * Order invoice new page
+     * order invoice new page
      *
      * @var OrderInvoiceNew
      */
@@ -59,7 +59,7 @@ class SalesCouponReportEntityTest extends Injectable
     protected $salesCouponReportView;
 
     /**
-     * Order view page
+     * order view page
      *
      * @var SalesOrderView
      */

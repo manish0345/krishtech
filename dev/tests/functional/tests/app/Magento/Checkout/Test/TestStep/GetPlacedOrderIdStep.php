@@ -16,7 +16,7 @@ use Magento\Mtf\Util\Protocol\CurlTransport\WebapiDecorator;
 class GetPlacedOrderIdStep implements TestStepInterface
 {
     /**
-     * Order success page.
+     * order success page.
      *
      * @var CheckoutOnepageSuccess
      */

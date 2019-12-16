@@ -474,6 +474,6 @@ class MultishippingTest extends \PHPUnit\Framework\TestCase
      */
     private function performOrderTotalAssertions(float $total, float $expected)
     {
-        self::assertEquals($expected, $total, 'Order total amount does not match.');
+        self::assertEquals($expected, $total, 'order total amount does not match.');
     }
 }

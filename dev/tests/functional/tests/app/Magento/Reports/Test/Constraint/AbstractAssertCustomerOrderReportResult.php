@@ -11,7 +11,7 @@ use Magento\Mtf\Constraint\AbstractConstraint;
 
 /**
  * Class AbstractAssertCustomerOrderReportResult
- * Check Order report grid for all params
+ * Check order report grid for all params
  */
 abstract class AbstractAssertCustomerOrderReportResult extends AbstractConstraint
 {

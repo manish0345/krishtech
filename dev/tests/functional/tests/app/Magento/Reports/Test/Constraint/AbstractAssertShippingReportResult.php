@@ -25,7 +25,7 @@ abstract class AbstractAssertShippingReportResult extends AbstractConstraint
     protected $salesShippingReport;
 
     /**
-     * Order fixture.
+     * order fixture.
      *
      * @var OrderInjectable
      */

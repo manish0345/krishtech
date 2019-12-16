@@ -19,7 +19,7 @@ use Magento\Customer\Test\Fixture\Customer;
  * 1. Register in to Backend.
  * 2. Open Customers > All Customers.
  * 3. Search and open customer from preconditions.
- * 4. Click Create Order.
+ * 4. Click Create order.
  * 5. Check product in Recently Viewed Products section.
  * 6. Click Update Changes.
  * 7. Click Configure.
@@ -54,7 +54,7 @@ class MoveRecentlyViewedProductsOnOrderPageTest extends Injectable
     }
 
     /**
-     * Runs Move Recently Viewed Products On Order Page.
+     * Runs Move Recently Viewed Products On order Page.
      *
      * @param Customer $customer
      * @param array $products

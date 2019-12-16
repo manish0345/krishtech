@@ -22,7 +22,7 @@ use Magento\Mtf\TestCase\Scenario;
  * 4. Select shipping method.
  * 5. Select payment method (use reward points and store credit if available).
  * 6. Enter credit card data and select *Save credit card* checkbox.
- * 7. Click Place Order button.
+ * 7. Click Place order button.
  * 8. Reorder placed order.
  * 9. Select stored cards as payment method.
  * 10. Select any available payment token.

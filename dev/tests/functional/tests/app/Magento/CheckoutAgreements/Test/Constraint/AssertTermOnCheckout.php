@@ -15,7 +15,7 @@ use Magento\CheckoutAgreements\Test\Fixture\CheckoutAgreement;
 
 /**
  * Class AssertTermOnCheckout
- * Check that Terms and Conditions is present on the last checkout step - Order Review.
+ * Check that Terms and Conditions is present on the last checkout step - order Review.
  */
 class AssertTermOnCheckout extends AbstractConstraint
 {
@@ -25,9 +25,9 @@ class AssertTermOnCheckout extends AbstractConstraint
     const NOTIFICATION_MESSAGE = 'This is a required field.';
 
     /**
-     * Check that checkbox is present on the last checkout step - Order Review.
+     * Check that checkbox is present on the last checkout step - order Review.
      * Check that after Place order without click on checkbox "Terms and Conditions" order was not successfully placed.
-     * Check that after clicking on "Terms and Conditions" checkbox and "Place Order" button success place order message
+     * Check that after clicking on "Terms and Conditions" checkbox and "Place order" button success place order message
      * appears.
      *
      * @param ObjectManager $objectManager
@@ -92,6 +92,6 @@ class AssertTermOnCheckout extends AbstractConstraint
      */
     public function toString()
     {
-        return 'Order was placed with checkout agreement successfully.';
+        return 'order was placed with checkout agreement successfully.';
     }
 }

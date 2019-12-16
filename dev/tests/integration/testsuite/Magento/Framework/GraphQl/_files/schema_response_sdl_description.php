@@ -1054,12 +1054,12 @@ return [
         'enumValues' =>  [
             [
                 'name' =>  'ASC',
-                'description' =>  'Ascending Order',
+                'description' =>  'Ascending order',
                 'isDeprecated' =>  false
             ],
             [
                 'name' =>  'DESC',
-                'description' =>  'Descending Order',
+                'description' =>  'Descending order',
                 'isDeprecated' =>  false
             ]
         ],

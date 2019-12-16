@@ -7,7 +7,7 @@
 namespace Magento\GroupedProduct\Test\Constraint;
 
 /**
- * Assert product was added to Items Ordered grid in customer account on Order creation page backend.
+ * Assert product was added to Items Ordered grid in customer account on order creation page backend.
  */
 class AssertProductInItemsOrderedGrid extends \Magento\Sales\Test\Constraint\AssertProductInItemsOrderedGrid
 {

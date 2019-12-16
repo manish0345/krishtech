@@ -10,7 +10,7 @@ use Magento\Mtf\TestCase\Scenario;
 
 /**
  * Preconditions:
- * 1. Enable payment method one of "Check/Money Order/Bank Transfer/Cash on Delivery/Purchase Order".
+ * 1. Enable payment method one of "Check/Money order/Bank Transfer/Cash on Delivery/Purchase order".
  * 2. Enable shipping method one of "Flat Rate/Free Shipping".
  * 3. Create order.
  * 4. Create Invoice.

@@ -13,7 +13,7 @@ use Magento\Mtf\TestCase\Injectable;
 
 /**
  * Preconditions:
- * 1. Enable payment method "Check/Money Order".
+ * 1. Enable payment method "Check/Money order".
  * 2. Enable shipping method one of "Flat Rate".
  * 3. Create order.
  *
@@ -21,7 +21,7 @@ use Magento\Mtf\TestCase\Injectable;
  * 1. Register to backend.
  * 2. Go to Sales > Orders.
  * 3. Open the created order.
- * 4. Do 'Hold' for Order.
+ * 4. Do 'Hold' for order.
  * 5. Perform all assertions.
  *
  * @group Order_Management
@@ -41,14 +41,14 @@ class HoldCreatedOrderTest extends Injectable
     protected $orderIndex;
 
     /**
-     * Order view Page.
+     * order view Page.
      *
      * @var SalesOrderView
      */
     protected $salesOrderView;
 
     /**
-     * Enable "Check/Money Order" and "Flat Rate" in configuration.
+     * Enable "Check/Money order" and "Flat Rate" in configuration.
      *
      * @return void
      */

@@ -19,7 +19,7 @@ use Magento\Mtf\TestCase\Injectable;
  *
  * Steps:
  * 1. Register to backend
- * 2. Open Reports > Customer > Order Count
+ * 2. Open Reports > Customer > order Count
  * 3. Fill data from dataset
  * 4. Click button Refresh
  * 5. Perform all assertions
@@ -35,7 +35,7 @@ class CustomersOrderCountReportEntityTest extends Injectable
     /* end tags */
 
     /**
-     * Order count report page.
+     * order count report page.
      *
      * @var CustomerOrdersReport
      */
@@ -53,7 +53,7 @@ class CustomersOrderCountReportEntityTest extends Injectable
     }
 
     /**
-     * Order count report view.
+     * order count report view.
      *
      * @param Customer $customer
      * @param string $orders

@@ -8,7 +8,7 @@ namespace Magento\Sales\Test\Block\Adminhtml\Order\View\Tab\Info;
 use Magento\Mtf\Block\Block;
 
 /**
- * Representation of Order Shipping Information.
+ * Representation of order Shipping Information.
  */
 class ShippingInfoBlock extends Block
 {

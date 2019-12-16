@@ -34,7 +34,7 @@ class AssertOrderStatusNotAssigned extends AbstractConstraint
             $orderStatusIndex->open()->getOrderStatusGrid()->isRowVisible(
                 ['label' => $statusLabel, 'state' => $orderStatus->getState()]
             ),
-            "Order status $statusLabel is assigned to state."
+            "order status $statusLabel is assigned to state."
         );
     }
 
@@ -45,6 +45,6 @@ class AssertOrderStatusNotAssigned extends AbstractConstraint
      */
     public function toString()
     {
-        return 'Order status with status code from fixture have empty "State Code and Title" value.';
+        return 'order status with status code from fixture have empty "State Code and Title" value.';
     }
 }

@@ -11,12 +11,12 @@ use Magento\Sales\Test\Page\Adminhtml\SalesOrderView;
 use Magento\Mtf\Constraint\AbstractConstraint;
 
 /**
- * Assert that Order Grand Total is correct on order page in Admin.
+ * Assert that order Grand Total is correct on order page in Admin.
  */
 class AssertOrderGrandTotal extends AbstractConstraint
 {
     /**
-     * Assert that Order Grand Total is correct on order page in Admin.
+     * Assert that order Grand Total is correct on order page in Admin.
      *
      * @param SalesOrderView $salesOrderView
      * @param OrderIndex $salesOrder

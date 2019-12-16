@@ -42,6 +42,6 @@ class AssertOrderStatusDuplicateStatus extends AbstractConstraint
      */
     public function toString()
     {
-        return 'Order status duplicate message is present.';
+        return 'order status duplicate message is present.';
     }
 }

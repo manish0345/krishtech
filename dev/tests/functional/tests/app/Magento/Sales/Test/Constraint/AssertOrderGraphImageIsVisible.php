@@ -46,6 +46,6 @@ class AssertOrderGraphImageIsVisible extends AbstractConstraint
      */
     public function toString()
     {
-        return 'Order graph image is visible on the dashboard.';
+        return 'order graph image is visible on the dashboard.';
     }
 }

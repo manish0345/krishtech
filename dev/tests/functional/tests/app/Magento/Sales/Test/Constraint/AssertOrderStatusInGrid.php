@@ -17,14 +17,14 @@ use Magento\Mtf\Constraint\AbstractConstraint;
 class AssertOrderStatusInGrid extends AbstractConstraint
 {
     /**
-     * Order status state data mapping
+     * order status state data mapping
      *
      * @var array
      */
     protected $stateMapping = ["Pending" => "new"];
 
     /**
-     * Assert order status availability in Order Status grid
+     * Assert order status availability in order Status grid
      *
      * @param OrderStatus $orderStatus
      * @param OrderStatusIndex $orderStatusIndexPage
@@ -46,7 +46,7 @@ class AssertOrderStatusInGrid extends AbstractConstraint
 
         \PHPUnit\Framework\Assert::assertTrue(
             $orderStatusIndexPage->getOrderStatusGrid()->isRowVisible($filter, true, false),
-            'Order status \'' . $orderStatusLabel . '\' is absent in Order Status grid.'
+            'order status \'' . $orderStatusLabel . '\' is absent in order Status grid.'
         );
     }
 
@@ -66,12 +66,12 @@ class AssertOrderStatusInGrid extends AbstractConstraint
     }
 
     /**
-     * Text of Order Status in grid assert
+     * Text of order Status in grid assert
      *
      * @return string
      */
     public function toString()
     {
-        return 'Order status is present in grid';
+        return 'order status is present in grid';
     }
 }

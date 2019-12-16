@@ -36,7 +36,7 @@ class Webapi extends AbstractWebapi implements OrderInjectableInterface
     ];
 
     /**
-     * Order quote value.
+     * order quote value.
      *
      * @var string
      */

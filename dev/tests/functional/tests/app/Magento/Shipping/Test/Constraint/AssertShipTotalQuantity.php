@@ -38,7 +38,7 @@ class AssertShipTotalQuantity extends AbstractAssertOrderOnFrontend
         $totalQty = $order->getTotalQtyOrdered();
         $this->loginCustomerAndOpenOrderPage($order->getDataFieldConfig('customer_id')['source']->getCustomer());
         $orderHistory->getOrderHistoryBlock()->openOrderById($order->getId());
-        $customerOrderView->getOrderViewBlock()->openLinkByName('Order Shipments');
+        $customerOrderView->getOrderViewBlock()->openLinkByName('order Shipments');
         foreach ($ids['shipmentIds'] as $key => $shipmentIds) {
             \PHPUnit\Framework\Assert::assertEquals(
                 $totalQty[$key],

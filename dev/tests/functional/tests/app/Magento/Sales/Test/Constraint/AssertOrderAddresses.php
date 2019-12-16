@@ -10,12 +10,12 @@ use Magento\Mtf\Constraint\AbstractConstraint;
 use Magento\Customer\Test\Fixture\Address;
 
 /**
- * Assert that Order Billing and Shipping addresses are correct on order page in backend.
+ * Assert that order Billing and Shipping addresses are correct on order page in backend.
  */
 class AssertOrderAddresses extends AbstractConstraint
 {
     /**
-     * Assert that Order Billing and Shipping addresses are correct on order page in backend.
+     * Assert that order Billing and Shipping addresses are correct on order page in backend.
      *
      * @param SalesOrderView $salesOrderView
      * @param string $orderId

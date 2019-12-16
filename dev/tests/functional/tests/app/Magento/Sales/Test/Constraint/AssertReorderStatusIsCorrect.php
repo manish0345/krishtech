@@ -39,7 +39,7 @@ class AssertReorderStatusIsCorrect extends AbstractConstraint
         \PHPUnit\Framework\Assert::assertEquals(
             $previousOrderStatus,
             $infoTab->getOrderStatus(),
-            'Order status is incorrect on order page in backend.'
+            'order status is incorrect on order page in backend.'
         );
     }
 
@@ -50,6 +50,6 @@ class AssertReorderStatusIsCorrect extends AbstractConstraint
      */
     public function toString()
     {
-        return 'Order status is correct.';
+        return 'order status is correct.';
     }
 }

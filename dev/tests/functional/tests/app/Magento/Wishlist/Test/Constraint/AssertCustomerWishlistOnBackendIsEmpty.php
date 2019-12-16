@@ -10,12 +10,12 @@ use Magento\Mtf\Constraint\AbstractConstraint;
 use Magento\Sales\Test\Page\Adminhtml\OrderCreateIndex;
 
 /**
- * Assert that customer's Wish List section on Order Create backend page is empty.
+ * Assert that customer's Wish List section on order Create backend page is empty.
  */
 class AssertCustomerWishlistOnBackendIsEmpty extends AbstractConstraint
 {
     /**
-     * Assert that customer's Wish List section on Order Create backend page is empty.
+     * Assert that customer's Wish List section on order Create backend page is empty.
      *
      * @param OrderCreateIndex $orderCreateIndex
      * @return void
@@ -26,17 +26,17 @@ class AssertCustomerWishlistOnBackendIsEmpty extends AbstractConstraint
         $orderCreateIndex->getSidebarWishlistBlock()->isSectionEmpty();
         \PHPUnit\Framework\Assert::assertTrue(
             $orderCreateIndex->getSidebarWishlistBlock()->isSectionEmpty(),
-            "Assert that customer's Wish List section on Order Create backend page is not empty."
+            "Assert that customer's Wish List section on order Create backend page is not empty."
         );
     }
 
     /**
-     * Assert success message that customer's Wish List section on Order Create backend page is empty.
+     * Assert success message that customer's Wish List section on order Create backend page is empty.
      *
      * @return string
      */
     public function toString()
     {
-        return "Customer's Wish List section on Order Create backend page is empty.";
+        return "Customer's Wish List section on order Create backend page is empty.";
     }
 }

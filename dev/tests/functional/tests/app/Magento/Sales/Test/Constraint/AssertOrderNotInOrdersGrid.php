@@ -31,7 +31,7 @@ class AssertOrderNotInOrdersGrid extends AbstractConstraint
         $errorMessage = implode(', ', $filter);
         \PHPUnit\Framework\Assert::assertFalse(
             $orderIndex->getSalesOrderGrid()->isRowVisible($filter),
-            'Order with following data \'' . $errorMessage . '\' is present in Orders grid.'
+            'order with following data \'' . $errorMessage . '\' is present in Orders grid.'
         );
     }
 
@@ -42,6 +42,6 @@ class AssertOrderNotInOrdersGrid extends AbstractConstraint
      */
     public function toString()
     {
-        return 'Order is absent in sales orders grid.';
+        return 'order is absent in sales orders grid.';
     }
 }

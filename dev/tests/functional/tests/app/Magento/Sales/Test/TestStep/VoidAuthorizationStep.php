@@ -24,14 +24,14 @@ class VoidAuthorizationStep implements TestStepInterface
     protected $orderIndex;
 
     /**
-     * Order instance.
+     * order instance.
      *
      * @var OrderInjectable
      */
     protected $order;
 
     /**
-     * Order view page.
+     * order view page.
      *
      * @var SalesOrderView
      */

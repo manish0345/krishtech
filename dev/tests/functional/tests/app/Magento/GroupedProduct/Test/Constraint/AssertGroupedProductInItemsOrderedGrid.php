@@ -12,7 +12,7 @@ use Magento\Mtf\Constraint\AbstractConstraint;
 
 /**
  * Class AssertGroupedProductInItemsOrderedGrid
- * Assert grouped product was added to Items Ordered grid in customer account on Order creation page backend
+ * Assert grouped product was added to Items Ordered grid in customer account on order creation page backend
  */
 class AssertGroupedProductInItemsOrderedGrid extends AbstractConstraint
 {
@@ -35,7 +35,7 @@ class AssertGroupedProductInItemsOrderedGrid extends AbstractConstraint
     protected $productsIsConfigured;
 
     /**
-     * Assert product was added to Items Ordered grid in customer account on Order creation page backend
+     * Assert product was added to Items Ordered grid in customer account on order creation page backend
      *
      * @param OrderCreateIndex $orderCreateIndex
      * @param array $products
@@ -89,6 +89,6 @@ class AssertGroupedProductInItemsOrderedGrid extends AbstractConstraint
      */
     public function toString()
     {
-        return 'Product is added to Items Ordered grid from "Last Ordered Items" section on Order creation page.';
+        return 'Product is added to Items Ordered grid from "Last Ordered Items" section on order creation page.';
     }
 }

@@ -42,7 +42,7 @@ class ItemProduct extends Form
     protected $configureButton = 'button';
 
     /**
-     * Order items block locator.
+     * order items block locator.
      *
      * @var string
      */

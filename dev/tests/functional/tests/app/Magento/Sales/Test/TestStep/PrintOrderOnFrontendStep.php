@@ -11,7 +11,7 @@ use Magento\Mtf\Client\BrowserInterface;
 use Magento\Mtf\TestStep\TestStepInterface;
 
 /**
- * Click on "Print Order" button.
+ * Click on "Print order" button.
  */
 class PrintOrderOnFrontendStep implements TestStepInterface
 {
@@ -41,7 +41,7 @@ class PrintOrderOnFrontendStep implements TestStepInterface
     }
 
     /**
-     * Click on "Print Order" button.
+     * Click on "Print order" button.
      *
      * @return void
      */

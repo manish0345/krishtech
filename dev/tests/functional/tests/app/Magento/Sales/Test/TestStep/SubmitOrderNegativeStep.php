@@ -10,7 +10,7 @@ use Magento\Sales\Test\Page\Adminhtml\OrderCreateIndex;
 use Magento\Mtf\TestStep\TestStepInterface;
 
 /**
- * Submit Order step.
+ * Submit order step.
  */
 class SubmitOrderNegativeStep implements TestStepInterface
 {

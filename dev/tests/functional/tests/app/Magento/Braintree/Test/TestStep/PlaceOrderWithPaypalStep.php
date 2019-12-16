@@ -26,7 +26,7 @@ class PlaceOrderWithPaypalStep implements TestStepInterface
     private $checkoutOnepage;
 
     /**
-     * Assert that Order Grand Total is correct on checkout page review block.
+     * Assert that order Grand Total is correct on checkout page review block.
      *
      * @var AssertGrandTotalOrderReview
      */

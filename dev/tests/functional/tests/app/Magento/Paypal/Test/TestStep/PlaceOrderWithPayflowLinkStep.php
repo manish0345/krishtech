@@ -52,7 +52,7 @@ class PlaceOrderWithPayflowLinkStep implements TestStepInterface
     private $creditCard;
 
     /**
-     * Order fixture.
+     * order fixture.
      *
      * @var OrderInjectable
      */

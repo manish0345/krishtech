@@ -19,21 +19,21 @@ use Magento\Mtf\Fixture\InjectableFixture;
 abstract class AbstractAssertOrderTaxOnBackend extends AbstractConstraint
 {
     /**
-     * Order view Page.
+     * order view Page.
      *
      * @var SalesOrderView
      */
     protected $salesOrderView;
 
     /**
-     * Order view Page.
+     * order view Page.
      *
      * @var OrderInvoiceNew
      */
     protected $orderInvoiceNew;
 
     /**
-     * Order view Page.
+     * order view Page.
      *
      * @var OrderCreditMemoNew
      */

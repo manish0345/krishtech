@@ -10,7 +10,7 @@ use Magento\Mtf\TestCase\Scenario;
 
 /**
  * Preconditions:
- * 1. Order is placed via WPPHS.
+ * 1. order is placed via WPPHS.
  *
  * Steps:
  * 1. Log in to Admin.

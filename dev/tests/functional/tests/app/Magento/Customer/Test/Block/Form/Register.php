@@ -24,7 +24,7 @@ class Register extends Form
     protected $submit = '.action.submit';
 
     /**
-     * Locator for customer attribute on New Order page
+     * Locator for customer attribute on New order page
      *
      * @var string
      */

@@ -14,7 +14,7 @@ use Magento\Sales\Test\Page\Adminhtml\OrderCreateIndex;
 use Magento\Sales\Test\Page\Adminhtml\SalesOrderView;
 
 /**
- * Submit Order with vault step.
+ * Submit order with vault step.
  */
 class SubmitOrderWithVaultStep implements TestStepInterface
 {

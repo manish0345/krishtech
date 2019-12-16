@@ -28,11 +28,11 @@ class AssertGlobalSearchOrderId extends AbstractConstraint
     public function processAssert(Dashboard $dashboard, GlobalSearch $search, OrderIndex $orderIndex)
     {
         $order = $search->getDataFieldConfig('query')['source']->getEntity();
-        $orderId = "Order #" . $order->getId();
+        $orderId = "order #" . $order->getId();
         $isVisibleInResult = $dashboard->getAdminPanelHeader()->isSearchResultVisible($orderId);
         \PHPUnit\Framework\Assert::assertTrue(
             $isVisibleInResult,
-            'Order Id ' . $order->getId() . ' is absent in search results'
+            'order Id ' . $order->getId() . ' is absent in search results'
         );
 
         $dashboard->getAdminPanelHeader()->navigateToGrid("Orders");
@@ -40,12 +40,12 @@ class AssertGlobalSearchOrderId extends AbstractConstraint
 
         \PHPUnit\Framework\Assert::assertTrue(
             $isOrderGridVisible,
-            'Order grid is not visible'
+            'order grid is not visible'
         );
         \PHPUnit\Framework\Assert::assertContains(
             (string) $order->getId(),
             $orderIndex->getSalesOrderGrid()->getAllIds(),
-            'Order grid does not have ' . $order->getId()  . ' in search results'
+            'order grid does not have ' . $order->getId()  . ' in search results'
         );
     }
 
@@ -56,6 +56,6 @@ class AssertGlobalSearchOrderId extends AbstractConstraint
      */
     public function toString()
     {
-        return 'Order Id is present in search results';
+        return 'order Id is present in search results';
     }
 }

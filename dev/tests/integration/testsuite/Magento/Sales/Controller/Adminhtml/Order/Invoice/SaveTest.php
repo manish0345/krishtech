@@ -46,7 +46,7 @@ class SaveTest extends AbstractInvoiceControllerTest
                 'Thank you for your order from ' . $invoice->getStore()->getFrontendName()
             ),
             new StringContains(
-                "Your Invoice #{$invoice->getIncrementId()} for Order #{$order->getIncrementId()}"
+                "Your Invoice #{$invoice->getIncrementId()} for order #{$order->getIncrementId()}"
             )
         );
 

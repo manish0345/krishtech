@@ -115,7 +115,7 @@ class GuestPaymentInformationManagementPluginTest extends \PHPUnit\Framework\Tes
      * Test builds out a persistent customer shopping cart, emulates a
      * session expiring, and checks out with the persisted cart as a guest.
      *
-     * Expected - Order contains guest email, not customer email.
+     * Expected - order contains guest email, not customer email.
      *
      * @magentoConfigFixture current_store persistent/options/customer 1
      * @magentoConfigFixture current_store persistent/options/enabled 1
