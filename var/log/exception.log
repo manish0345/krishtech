@@ -64,3 +64,13 @@
 [2019-12-16 07:31:36] main.CRITICAL: No such entity with customerId = 4 {"exception":"[object] (Magento\\Framework\\Exception\\NoSuchEntityException(code: 0): No such entity with customerId = 4 at /var/www/html/magento/vendor/magento/framework/Exception/NoSuchEntityException.php:50)"} []
 [2019-12-16 07:32:04] main.CRITICAL: No such entity with customerId = 4 {"exception":"[object] (Magento\\Framework\\Exception\\NoSuchEntityException(code: 0): No such entity with customerId = 4 at /var/www/html/magento/vendor/magento/framework/Exception/NoSuchEntityException.php:50)"} []
 [2019-12-16 07:46:22] main.CRITICAL: No such entity with customerId = 4 {"exception":"[object] (Magento\\Framework\\Exception\\NoSuchEntityException(code: 0): No such entity with customerId = 4 at /var/www/html/magento/vendor/magento/framework/Exception/NoSuchEntityException.php:50)"} []
+[2019-12-17 06:02:41] main.CRITICAL: Element 'referenceBlock', attribute 'group': The attribute 'group' is not allowed.
+Line: 1231
+ {"exception":"[object] (Magento\\Framework\\Config\\Dom\\ValidationException(code: 0): Element 'referenceBlock', attribute 'group': The attribute 'group' is not allowed.
+Line: 1231
+ at /var/www/html/magento/vendor/magento/framework/Config/Dom.php:461)"} []
+[2019-12-17 06:15:52] main.CRITICAL: Element 'block', attribute 'remove': The attribute 'remove' is not allowed.
+Line: 1230
+ {"exception":"[object] (Magento\\Framework\\Config\\Dom\\ValidationException(code: 0): Element 'block', attribute 'remove': The attribute 'remove' is not allowed.
+Line: 1230
+ at /var/www/html/magento/vendor/magento/framework/Config/Dom.php:461)"} []

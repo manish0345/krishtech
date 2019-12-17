@@ -252,6 +252,7 @@ return [
         'TrainingManish_LoginPopup' => 1,
         'TrainingManish_OrderStatusFilter' => 1,
         'TrainingManish_ProductAttribute' => 1,
+        'TrainingManish_ProductReview' => 1,
         'TrainingManish_SalesCustomField' => 1,
         'Vertex_Tax' => 1
     ]

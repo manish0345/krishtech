@@ -1,0 +1,11 @@
+<div style="display:none;" id="modal-form">
+    <?php echo $this->getLayout()->createBlock("Magento\Review\Block\Form")->setTemplate("Magento_Review::form.phtml")->toHtml(); ?>
+</div>
+
+<script type="text/x-magento-init">
+    {
+        ".add": {
+            "TrainingManish_ProductReview/js/modal-form": {}
+        }
+    }
+</script>
