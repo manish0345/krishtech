@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99f7291d-015e-4137-8179-99cd008bf758" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/etc/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/etc/config.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/deployed_version.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/deployed_version.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/log/exception.log" beforeDir="false" afterPath="$PROJECT_DIR$/var/log/exception.log" afterDir="false" />
-    </list>
+    <list default="true" id="99f7291d-015e-4137-8179-99cd008bf758" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,17 +39,7 @@
     <favorites_list name="magento" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/ProductReview/view/frontend/templates/static_link.phtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -927,7 +912,7 @@
       <workItem from="1576043966584" duration="2780000" />
       <workItem from="1576148069074" duration="2414000" />
       <workItem from="1576472014246" duration="15432000" />
-      <workItem from="1576556715164" duration="12172000" />
+      <workItem from="1576556715164" duration="12438000" />
     </task>
     <task id="LOCAL-00001" summary="This is just for testing from Phpstrom">
       <created>1575365574327</created>
@@ -940,7 +925,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="547808000" />
+    <option name="totallyTimeSpent" value="548074000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -953,7 +938,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1368" height="742" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49261084" visible="true" weight="0.27045456" />
       <window_info id="Structure" order="1" sideWeight="0.5073892" side_tool="true" weight="0.22954546" />
