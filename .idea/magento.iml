@@ -13,6 +13,12 @@
       <sourceFolder url="file://$MODULE_DIR$/dev/tests/static/framework/Magento/Sniffs" isTestSource="true" packagePrefix="Magento\Sniffs\" />
       <sourceFolder url="file://$MODULE_DIR$/lib/internal/Magento/Framework" isTestSource="false" packagePrefix="Magento\Framework\" />
       <sourceFolder url="file://$MODULE_DIR$/dev/build/publication/sanity/Magento/Tools/Sanity" isTestSource="true" packagePrefix="Magento\Tools\Sanity\" />
+      <excludeFolder url="file://$MODULE_DIR$/dev" />
+      <excludeFolder url="file://$MODULE_DIR$/lib" />
+      <excludeFolder url="file://$MODULE_DIR$/pub" />
+      <excludeFolder url="file://$MODULE_DIR$/setup" />
+      <excludeFolder url="file://$MODULE_DIR$/update" />
+      <excludeFolder url="file://$MODULE_DIR$/var" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/allure-framework/allure-codeception" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/allure-framework/allure-php-api" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/allure-framework/allure-phpunit" />

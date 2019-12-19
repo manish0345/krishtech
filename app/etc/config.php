@@ -247,6 +247,7 @@ return [
         'Temando_Shipping' => 1,
         'TrainingManish_CategoryModule' => 1,
         'TrainingManish_CustomerAttribute' => 1,
+        'TrainingManish_Feedback' => 1,
         'TrainingManish_HeaderBlock' => 1,
         'TrainingManish_InvoiceFont' => 1,
         'TrainingManish_LoginPopup' => 1,

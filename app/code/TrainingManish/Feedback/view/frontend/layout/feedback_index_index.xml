@@ -1,0 +1,14 @@
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" layout="1column" xsi:noNamespaceSchemaLocation="../../../../../../../lib/internal/Magento/Framework/View/Layout/etc/page_configuration.xsd">
+    <head>
+        <script src="https://www.google.com/recaptcha/api.js" src_type="url" />
+    </head>
+    <body>
+        <referenceBlock name="content">
+            <block template="TrainingManish_Feedback::feedback_form.phtml" class="Magento\Framework\View\Element\Template" ifconfig="customer/feedback_group/is_enabled">
+                <arguments>
+                    <argument name="feedback_model" xsi:type="object">TrainingManish\Feedback\ViewModel\FeedbackForm</argument>
+                </arguments>
+            </block>
+        </referenceBlock>
+    </body>
+</page>

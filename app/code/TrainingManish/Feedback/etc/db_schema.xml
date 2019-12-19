@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+-->
+<schema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:framework:Setup/Declaration/Schema/etc/schema.xsd">
+    <table name="mage_feedback" resource="default" engine="innodb" comment="Mage Feedback" charset="utf8" collation="utf8_general_ci">
+        <column name="entity_id" xsi:type="int" unsigned="true" padding="11" identity="true" comment="Feedback ID" nullable="false" />
+        <column name="first_name" xsi:type="varchar" length="124" comment="First Name" nullable="false" />
+        <column name="last_name" xsi:type="varchar" length="124" comment="Last Name" nullable="false" />
+        <column name="email" xsi:type="varchar" length="255" comment="Email" nullable="false" />
+        <column name="rating" xsi:type="varchar" length="124" comment="Rating" nullable="false" />
+        <column name="message" xsi:type="text" comment="Feedback Message" nullable="false" />
+        <column name="status" xsi:type="boolean" default="0" comment="Feedback Enabled or Disabled" nullable="false" />
+        <column name="created_at" xsi:type="timestamp" default="CURRENT_TIMESTAMP" />
+
+        <constraint xsi:type="primary" referenceId="PRIMARY">
+            <column name="entity_id" />
+        </constraint>
+    </table>
+</schema>

@@ -1,0 +1,51 @@
+<?php
+$viewModel = $block->getData('feedback_model');
+if($viewModel->getFormPermission()) {
+?>
+<form id="feedback-form" class="form-horizontal" method="post" action="<?php echo $block->getBaseUrl()?>feedback/index/submit" data-mage-init='{"validation": {}}' autocomplete="off">
+    <div class="form-group">
+        <label class="control-label col-sm-2" for="first_name">Firstname:</label>
+        <div class="col-sm-10">
+            <input type="text" class="form-control" id="first_name" placeholder="Enter First Name" name="first_name" data-validate='{ "required": true}'>
+        </div>
+    </div>
+    <br/>
+    <div class="form-group">
+        <label class="control-label col-sm-2" for="last_name">Lastname:</label>
+        <div class="col-sm-10">
+            <input type="text" class="form-control" id="last_name" placeholder="Enter Last Name" name="last_name" data-validate='{ "required": true}'>
+        </div>
+    </div>
+    <br/>
+    <div class="form-group">
+        <label class="control-label col-sm-2" for="email">Email:</label>
+        <div class="col-sm-10">
+            <input type="email" class="form-control" id="email" placeholder="Enter email" name="email" data-validate='{ "required": true, "validate-email":true}'>
+        </div>
+    </div>
+    <br/>
+    <div class="form-group">
+        <label class="control-label col-sm-2" for="rating">Rating:</label>
+        <div class="col-sm-10">
+            <input type="number" class="form-control" id="rating" placeholder="Enter Rating" name="rating" min="1" max="5" data-validate='{ "required": true}'>
+        </div>
+    </div>
+    <br/>
+    <div class="form-group">
+        <label class="control-label col-sm-2" for="message">Message:</label>
+        <div class="col-sm-10">
+            <textarea class="form-control" id="message" placeholder="Enter Message" name="message" data-validate='{ "required": true}'></textarea>
+        </div>
+    </div>
+    <br/>
+    <div class="g-recaptcha" data-sitekey="6LcQjMgUAAAAACVRp3CXVrM_WkQqJJbNQnIZYH29"></div>
+    <br/>
+    <div class="form-group">
+        <div class="col-sm-offset-2 col-sm-10">
+            <button type="submit" name="feedback_frm" id="feedback_frm" class="btn btn-default">Submit</button>
+        </div>
+    </div>
+</form>
+<?php } else { ?>
+    <p>You have to Log In to give feedback.</p>
+<?php } ?>

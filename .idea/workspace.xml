@@ -2,146 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99f7291d-015e-4137-8179-99cd008bf758" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/magento.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/magento.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/FormData.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/FormData.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_AdminNotification/js/grid/columns/message.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_AdminNotification/js/grid/columns/message.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_AdminNotification/js/grid/listing.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_AdminNotification/js/grid/listing.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_AdminNotification/toolbar_entry.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_AdminNotification/toolbar_entry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_AsynchronousOperations/js/grid/listing.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_AsynchronousOperations/js/grid/listing.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_AsynchronousOperations/js/insert-form.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_AsynchronousOperations/js/insert-form.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_AsynchronousOperations/template/grid/listing.html" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_AsynchronousOperations/template/grid/listing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Catalog/catalog/product.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Catalog/catalog/product.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Theme/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Theme/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/core/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/core/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/core/renderer/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/core/renderer/layout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/core/renderer/types.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/core/renderer/types.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/form/components/insert-form.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/form/components/insert-form.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/form/components/insert.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/form/components/insert.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/grid/columns/actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/grid/columns/actions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/grid/columns/column.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/grid/columns/column.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/grid/data-storage.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/grid/data-storage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/grid/dnd.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/grid/dnd.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/grid/listing.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/grid/listing.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/grid/provider.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/grid/provider.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/core/class.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/core/class.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/core/collection.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/core/collection.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/core/element/element.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/core/element/element.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/core/element/links.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/core/element/links.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/core/events.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/core/events.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/core/storage/local.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/core/storage/local.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/key-codes.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/key-codes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/after-render.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/after-render.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/autoselect.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/autoselect.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/bind-html.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/bind-html.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/collapsible.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/collapsible.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/color-picker.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/color-picker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/datepicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/datepicker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/fadeVisible.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/fadeVisible.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/i18n.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/i18n.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/keyboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/keyboard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/mage-init.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/mage-init.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/optgroup.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/optgroup.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/outer_click.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/outer_click.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/range.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/range.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/resizable.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/resizable.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/scope.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/scope.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/simple-checked.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/simple-checked.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/staticChecked.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/staticChecked.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/tooltip.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/tooltip.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/extender/bound-nodes.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/extender/bound-nodes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/extender/observable_array.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/extender/observable_array.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/template/engine.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/template/engine.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/template/loader.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/template/loader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/template/observable_source.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/template/observable_source.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/template/renderer.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/template/renderer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/logger/console-logger.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/logger/console-logger.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/logger/console-output-handler.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/logger/console-output-handler.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/logger/entry-factory.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/logger/entry-factory.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/logger/entry.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/logger/entry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/logger/formatter.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/logger/formatter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/logger/levels-pool.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/logger/levels-pool.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/logger/logger-utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/logger/logger-utils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/logger/logger.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/logger/logger.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/logger/message-pool.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/logger/message-pool.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/registry/registry.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/registry/registry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/spinner.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/spinner.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/view/utils/async.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/view/utils/async.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/view/utils/bindings.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/view/utils/bindings.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/view/utils/dom-observer.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/view/utils/dom-observer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/modal/alert.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/modal/alert.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/modal/confirm.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/modal/confirm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/modal/modal-component.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/modal/modal-component.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/modal/modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/js/modal/modal.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/collection.html" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/collection.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/modal/modal-component.html" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/modal/modal-component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/modal/modal-custom.html" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/modal/modal-custom.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/modal/modal-popup.html" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/modal/modal-popup.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/modal/modal-slide.html" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/modal/modal-slide.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/tooltip/tooltip.html" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/templates/tooltip/tooltip.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/MutationObserver.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/MutationObserver.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/es6-collections.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/es6-collections.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/extjs/resources/css/ext-all.css" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/extjs/resources/css/ext-all.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/extjs/resources/css/ytheme-magento.css" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/extjs/resources/css/ytheme-magento.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/fonts/admin-icons/admin-icons.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/fonts/admin-icons/admin-icons.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/fonts/opensans/bold/opensans-700.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/fonts/opensans/bold/opensans-700.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/fonts/opensans/regular/opensans-400.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/fonts/opensans/regular/opensans-400.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/fonts/opensans/semibold/opensans-600.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/fonts/opensans/semibold/opensans-600.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/images/magento-icon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/images/magento-icon.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/jquery/jquery-migrate.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/jquery/jquery-migrate.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/jquery/jquery-ui-1.9.2.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/jquery/jquery-ui-1.9.2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/jquery/jquery-ui-timepicker-addon.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/jquery/jquery-ui-timepicker-addon.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/jquery/jquery.cookie.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/jquery/jquery.cookie.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/jquery/jquery.metadata.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/jquery/jquery.metadata.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/jquery/jquery.storageapi.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/jquery/jquery.storageapi.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/jquery/jquery.tabs.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/jquery/jquery.tabs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/jquery/jquery.validate.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/jquery/jquery.validate.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/jquery/jstree/themes/default/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/jquery/jstree/themes/default/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/jquery/patches/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/jquery/patches/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/jquery/spectrum/spectrum.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/jquery/spectrum/spectrum.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/jquery/spectrum/tinycolor.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/jquery/spectrum/tinycolor.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/js/theme.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/js/theme.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/knockoutjs/knockout-es5.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/knockoutjs/knockout-es5.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/knockoutjs/knockout-fast-foreach.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/knockoutjs/knockout-fast-foreach.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/knockoutjs/knockout-repeat.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/knockoutjs/knockout-repeat.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/knockoutjs/knockout.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/knockoutjs/knockout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/legacy-build.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/legacy-build.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/adminhtml/globals.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/adminhtml/globals.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/apply/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/apply/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/apply/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/apply/scripts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/backend/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/backend/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/backend/floating-header.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/backend/floating-header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/backend/menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/backend/menu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/backend/notification.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/backend/notification.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/backend/suggest.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/backend/suggest.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/backend/validation.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/backend/validation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/calendar.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/calendar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/dataPost.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/dataPost.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/dropdown_old.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/dropdown_old.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/ie-class-fixer.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/ie-class-fixer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/loader_old.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/loader_old.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/mage.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/mage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/requirejs/mixins.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/requirejs/mixins.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/requirejs/resolver.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/requirejs/resolver.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/requirejs/text.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/requirejs/text.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/smart-keyboard-handler.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/smart-keyboard-handler.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/template.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/template.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/translate.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/translate.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/utils/arrays.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/utils/arrays.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/utils/compare.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/utils/compare.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/utils/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/utils/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/utils/misc.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/utils/misc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/utils/objects.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/utils/objects.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/utils/strings.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/utils/strings.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/utils/template.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/utils/template.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/utils/wrapper.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/utils/wrapper.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/validation.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/validation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/moment.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/moment.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/requirejs/domReady.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/requirejs/domReady.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/requirejs/require.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/requirejs/require.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/underscore.js" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/underscore.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/etc/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/etc/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pub/static/deployed_version.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/deployed_version.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/log/exception.log" beforeDir="false" afterPath="$PROJECT_DIR$/var/log/exception.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/log/temando.log" beforeDir="false" afterPath="$PROJECT_DIR$/var/log/temando.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/log/test.log" beforeDir="false" afterPath="$PROJECT_DIR$/var/log/test.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -180,51 +47,54 @@
     <favorites_list name="magento" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>contact</find>
-      <find>setCr</find>
-      <find>resultRedirectFactory</find>
-      <find>affiliate_newlisting_listing_data_source</find>
-      <find>AffiliateMemberGridDataProvider</find>
-      <find>MemberGridFilterPool</find>
-      <find>customer_feedback_listing_data_source</find>
-      <find>customer_address_form_data_source</find>
-      <find>_data_source</find>
-      <find>member\</find>
-      <find>member</find>
-      <find>newAction</find>
-      <find>*/*/</find>
-      <find>customer/feed</find>
-      <find>edit</find>
-      <find>edit&quot;</find>
-      <find>inte</find>
-      <find>int</find>
-      <find>customerId</find>
-      <find>Magento\Custome</find>
-      <find>dataProvider</find>
-      <find>addFieldToFilter</find>
-      <find>dataprovider</find>
-      <find>Generic</find>
-      <find>&lt;label translate=&quot;true&quot;&gt;Email</find>
-      <find>&lt;label&gt;Email</find>
-      <find>saveAction</find>
-      <find>submit</find>
-      <find>registry-&gt;registe</find>
-      <find>idFieldName</find>
+      <find>is_enabled</find>
+      <find>TrainingManish</find>
+      <find>Customer</find>
+      <find>customer_</find>
+      <find>customer</find>
+      <find>sab</find>
+      <find>requestFieldName</find>
+      <find>dataScope</find>
+      <find>id</find>
+      <find>registry</find>
+      <find>data</find>
+      <find>items.</find>
+      <find>sales_invoice_view</find>
+      <find>buttonList</find>
+      <find>page-actions-inner</find>
+      <find>_mode</find>
+      <find>_objectId</find>
+      <find>getBackUrl</find>
+      <find>ui</find>
+      <find>uiComponent</find>
+      <find>Edit Review</find>
+      <find>Send Email</find>
+      <find>addButton</find>
+      <find>custom_feedback_form</find>
+      <find>customer_form.xml</find>
+      <find>customer_form</find>
+      <find>_viewHelper</find>
+      <find>_blockGroup</find>
+      <find>_controller</find>
+      <find>getCustomerId</find>
     </findStrings>
     <replaceStrings>
       <replace />
     </replaceStrings>
     <dirStrings>
-      <dir>$PROJECT_DIR$/vendor/magento/module-sales</dir>
       <dir>$PROJECT_DIR$/vendor/magento</dir>
       <dir>$PROJECT_DIR$/app/code/TrainingManish/Feedback</dir>
-      <dir>$PROJECT_DIR$/vendor/magento/module-customer</dir>
       <dir>$PROJECT_DIR$/app/code/SimplifiedMagento/Attribute</dir>
       <dir>$PROJECT_DIR$/app/code/SimplifiedMagento/Database</dir>
+      <dir>$PROJECT_DIR$/vendor/magento/module-sales/view/adminhtml/templates</dir>
+      <dir>$PROJECT_DIR$/vendor/magento/module-sales/view/adminhtml/ui_component</dir>
+      <dir>$PROJECT_DIR$/vendor/magento/module-review</dir>
+      <dir>$PROJECT_DIR$/vendor/magento/module-sales</dir>
+      <dir>$PROJECT_DIR$/vendor/magento/module-customer</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -233,44 +103,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/etc/events.xml" />
-        <option value="$PROJECT_DIR$/vendor/magento/module-sales/view/frontend/email/order_new.html" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/etc/email_templates.xml" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/view/frontend/email/order_new.html" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/SalesCustomField/Observer/Emailtemplatevars.php" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/FeedbackModule/registration.php" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/FeedbackModule/etc/module.xml" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/etc/adminhtml/system.xml" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/etc/frontend/routes.xml" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/Controller/Index/Index.php" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/view/frontend/layout/default.xml" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/view/frontend/templates/custom_link.phtml" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/etc/db_schema.xml" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/Block/FeedbackForm.php" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/view/frontend/layout/feedback_index_index.xml" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/ViewModel/FeedbackForm.php" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/view/frontend/templates/feedback_form.phtml" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/Model/ResourceModel/Feedback.php" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/Model/ResourceModel/Feedback/Collection.php" />
-        <option value="$PROJECT_DIR$/var/log/test.log" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/Controller/Index/Submit.php" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/Model/Feedback.php" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/Api/Data/FeedbackInterface.php" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/etc/adminhtml/menu.xml" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/etc/adminhtml/routes.xml" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/Api/FeedbackRepositoryInterface.php" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/Model/FeedbackRepository.php" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/Controller/Adminhtml/Feedback/Index.php" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/view/adminhtml/layout/customer_feedback_index.xml" />
-        <option value="$PROJECT_DIR$/app/code/SimplifiedMagento/Attribute/view/adminhtml/ui_component/affiliate_newlisting_listing.xml" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/etc/di.xml" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/Ui/Component/Listing/Column/FeedbackActions.php" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/view/adminhtml/layout/customer_feedback_edit.xml" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/Controller/Adminhtml/Feedback/newAction.php" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/Block/Adminhtml/Member/Edit/Feedback/CancelButton.php" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/Model/Ui/DataProvider.php" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/view/adminhtml/ui_component/customer_feedback_listing.xml" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/Block/Adminhtml/Member/Edit/Feedback/ResetButton.php" />
         <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/Block/Adminhtml/Member/Edit/Feedback/Generic.php" />
         <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/Block/Adminhtml/Member/Edit/Feedback/BackButton.php" />
         <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/Block/Adminhtml/Member/Edit/Feedback/DeleteButton.php" />
@@ -280,10 +112,48 @@
         <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/Block/Adminhtml/Feedback/Edit/ResetButton.php" />
         <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/Block/Adminhtml/Feedback/Edit/Generic.php" />
         <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/Block/Adminhtml/Feedback/Edit/BackButton.php" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/Controller/Adminhtml/Feedback/Edit.php" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/view/adminhtml/ui_component/customer_feedback_form.xml" />
-        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/Controller/Adminhtml/Feedback/saveAction.php" />
         <option value="$PROJECT_DIR$/app/bootstrap.php" />
+        <option value="$PROJECT_DIR$/var/log/exception.log" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/Controller/Adminhtml/Feedback/saveAction.php" />
+        <option value="$PROJECT_DIR$/var/log/system.log" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/Controller/Adminhtml/Feedback/InlineEdit.php" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/Controller/Adminhtml/Feedback/MassDelete.php" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/Model/ResourceModel/Feedback/Collection.php" />
+        <option value="$PROJECT_DIR$/app/code/SimplifiedMagento/Attribute/Controller/Adminhtml/Member/MassDisable.php" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/view/adminhtml/ui_component/customer_feedback_form.xml" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/etc/db_schema.xml" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/view/adminhtml/ui_component/customer_feedback_listing.xml" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/Controller/Adminhtml/Feedback/MassEnable.php" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/Api/Data/FeedbackInterface.php" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/etc/adminhtml/routes.xml" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/Ui/Component/Listing/Column/FeedbackActions.php" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/view/adminhtml/layout/custom_feedback_index.xml" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/view/adminhtml/layout/custom_feedback_edit.xml" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/etc/di.xml" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/view/adminhtml/ui_component/custom_feedback_listing.xml" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/etc/adminhtml/menu.xml" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/Controller/Adminhtml/Feedback/MassDisable.php" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/Model/Feedback.php" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/Model/FeedbackRepository.php" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/Controller/Adminhtml/Feedback/Delete.php" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/Controller/Adminhtml/Feedback/newAction.php" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/Controller/Adminhtml/Feedback/NewAction.php" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/Controller/Adminhtml/Feedback/Edit.php" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/Model/Ui/DataProvider.php" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/view/adminhtml/ui_component/custom_feedback_form.xml" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/Controller/Adminhtml/Feedback/SaveAction.php" />
+        <option value="$PROJECT_DIR$/var/log/test.log" />
+        <option value="$PROJECT_DIR$/vendor/magento/module-sales/view/adminhtml/layout/sales_order_invoice_view.xml" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/view/adminhtml/templates/info.phtml" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/Controller/Adminhtml/Feedback/View.php" />
+        <option value="$PROJECT_DIR$/vendor/magento/module-sales/view/adminhtml/layout/sales_order_view.xml" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/view/adminhtml/layout/custom_feedback_view.xml" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/view/frontend/layout/feedback_index_index.xml" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/Controller/Index/Submit.php" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/view/frontend/templates/feedback_form.phtml" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/Block/Adminhtml/Feedback/View.php" />
+        <option value="$PROJECT_DIR$/vendor/magento/module-customer/Block/Adminhtml/Edit.php" />
+        <option value="$PROJECT_DIR$/app/code/TrainingManish/Feedback/view/adminhtml/ui_component/custom_feedback_view.xml" />
       </list>
     </option>
   </component>
@@ -742,6 +612,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -765,7 +636,7 @@
               <item name="magento" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="SimplifiedMagento" type="462c0819:PsiDirectoryNode" />
+              <item name="TrainingManish" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="magento" type="b2602c69:ProjectViewProjectNode" />
@@ -773,6 +644,7 @@
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
               <item name="TrainingManish" type="462c0819:PsiDirectoryNode" />
+              <item name="Feedback" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="magento" type="b2602c69:ProjectViewProjectNode" />
@@ -784,12 +656,91 @@
               <item name="magento" type="462c0819:PsiDirectoryNode" />
               <item name="vendor" type="462c0819:PsiDirectoryNode" />
               <item name="magento" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magento" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="magento" type="462c0819:PsiDirectoryNode" />
+              <item name="module-customer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magento" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="magento" type="462c0819:PsiDirectoryNode" />
+              <item name="module-customer" type="462c0819:PsiDirectoryNode" />
+              <item name="Block" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magento" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="magento" type="462c0819:PsiDirectoryNode" />
+              <item name="module-customer" type="462c0819:PsiDirectoryNode" />
+              <item name="Block" type="462c0819:PsiDirectoryNode" />
+              <item name="Adminhtml" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magento" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="magento" type="462c0819:PsiDirectoryNode" />
+              <item name="module-customer" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magento" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="magento" type="462c0819:PsiDirectoryNode" />
+              <item name="module-customer" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="adminhtml" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magento" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="magento" type="462c0819:PsiDirectoryNode" />
+              <item name="module-customer" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="adminhtml" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magento" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="magento" type="462c0819:PsiDirectoryNode" />
+              <item name="module-customer" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="adminhtml" type="462c0819:PsiDirectoryNode" />
+              <item name="ui_component" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magento" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="magento" type="462c0819:PsiDirectoryNode" />
+              <item name="module-customer" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magento" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="magento" type="462c0819:PsiDirectoryNode" />
+              <item name="module-customer" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="ui_component" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -893,7 +844,9 @@
       <workItem from="1576148069074" duration="2414000" />
       <workItem from="1576472014246" duration="15432000" />
       <workItem from="1576556715164" duration="28476000" />
-      <workItem from="1576643783912" duration="24003000" />
+      <workItem from="1576643783912" duration="28558000" />
+      <workItem from="1576729815498" duration="6739000" />
+      <workItem from="1576736793078" duration="19282000" />
     </task>
     <task id="LOCAL-00001" summary="This is just for testing from Phpstrom">
       <created>1575365574327</created>
@@ -906,7 +859,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="588115000" />
+    <option name="totallyTimeSpent" value="618691000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -920,7 +873,7 @@
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1368" height="742" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49261084" visible="true" weight="0.28030303" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49261084" visible="true" weight="0.3090909" />
       <window_info id="Structure" order="1" sideWeight="0.5073892" side_tool="true" weight="0.22954546" />
       <window_info id="Favorites" order="2" sideWeight="0.5073892" side_tool="true" weight="0.22954546" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -941,28 +894,6 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" weight="0.34040996" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49261084" visible="true" weight="0.28030303" />
-      <window_info id="Structure" order="1" sideWeight="0.5073892" side_tool="true" weight="0.22954546" />
-      <window_info id="Favorites" order="2" sideWeight="0.5073892" side_tool="true" weight="0.22954546" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32676518" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.328594" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32840723" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" weight="0.32840723" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32840723" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49772727" weight="0.23481117" />
-      <window_info anchor="bottom" x="15" y="323" width="1336" height="125" id="Event Log" order="11" sideWeight="0.5032787" side_tool="true" weight="0.31639344" />
-      <window_info anchor="bottom" id="Database Console" order="12" weight="0.49836066" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" weight="0.34040996" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -1038,397 +969,325 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-catalog/view/adminhtml/ui_component/product_attribute_add_form.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1260" />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales/view/adminhtml/ui_component/sales_order_grid.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-catalog/view/adminhtml/ui_component/new_category_form.xml">
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales/view/adminhtml/ui_component/sales_order_view_invoice_grid.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-989" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-catalog/view/adminhtml/ui_component/category_form.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2483">
-          <caret line="254" column="16" selection-start-line="233" selection-start-column="8" selection-end-line="254" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-catalog/view/adminhtml/ui_component/product_form.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-524" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/SimplifiedMagento/Attribute/etc/di.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="43" column="143" selection-start-line="43" selection-start-column="131" selection-end-line="43" selection-end-column="143" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/SimplifiedMagento/Attribute/Ui/Component/Listing/Column/MemberActions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-          <folding>
-            <element signature="e#77#112#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/Model/Address/DataProvider.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/Model/Address/CustomerAddressDataProvider.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-314">
-          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/Model/Customer/DataProvider.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5713">
-          <caret line="39" column="6" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/framework/Data/Collection.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="332" column="22" lean-forward="true" selection-start-line="332" selection-start-column="22" selection-end-line="332" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-cms/Model/Page/DataProvider.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="60" column="61" selection-start-line="60" selection-start-column="28" selection-end-line="60" selection-end-column="61" />
-          <folding>
-            <element signature="e#139#198#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/Feedback/Ui/Component/Listing/Column/FeedbackActions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-133">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-          <folding>
-            <element signature="e#73#108#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/SimplifiedMagento/Attribute/Model/Ui/DataProvider.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="e#58#107#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-ui/DataProvider/AbstractDataProvider.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="52" column="13" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/Feedback/etc/adminhtml/system.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="74" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/Feedback/view/adminhtml/ui_component/customer_feedback_listing.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="223" column="39" lean-forward="true" selection-start-line="223" selection-start-column="39" selection-end-line="223" selection-end-column="39" />
-          <folding>
-            <element signature="n#filters#0;n#listingToolbar#0;n#listing#0;n#!!top" />
-            <element signature="n#settings#0;n#filters#0;n#listingToolbar#0;n#listing#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/SimplifiedMagento/Attribute/view/adminhtml/ui_component/affiliate_member_listing.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1867">
-          <caret line="158" column="16" lean-forward="true" selection-start-line="158" selection-start-column="16" selection-end-line="158" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/Block/Adminhtml/Edit/Address/CancelButton.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/view/adminhtml/ui_component/customer_address_form.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="21" column="32" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/Block/Adminhtml/Edit/GenericButton.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/SimplifiedMagento/Attribute/Block/Adminhtml/Member/Edit/ResetButton.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="10" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="17" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/Feedback/Model/Ui/DataProvider.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#54#103#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/SimplifiedMagento/Attribute/Block/Adminhtml/Member/Edit/SaveButton.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="10" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="16" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/SimplifiedMagento/Attribute/Block/Adminhtml/Member/Edit/Generic.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-          <folding>
-            <element signature="e#77#108#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/SimplifiedMagento/Attribute/Block/Adminhtml/Member/Edit/DeleteButton.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="8" column="34" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/SimplifiedMagento/Attribute/Block/Adminhtml/Member/Edit/BackButton.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/Feedback/Block/Adminhtml/Feedback/Edit/SaveButton.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="63" selection-start-line="3" selection-start-column="63" selection-end-line="3" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/Feedback/Block/Adminhtml/Feedback/Edit/ResetButton.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        <state relative-caret-position="256">
+          <caret line="214" column="17" selection-start-line="214" selection-start-column="17" selection-end-line="214" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/Feedback/Block/Adminhtml/Feedback/Edit/BackButton.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/etc/adminhtml/system.xml">
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales/view/adminhtml/layout/sales_order_view.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="105" column="20" selection-start-line="105" selection-start-column="20" selection-end-line="105" selection-end-column="20" />
+        <state relative-caret-position="285">
+          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="61" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/view/adminhtml/ui_component/customer_listing.xml">
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/Feedback/Controller/Adminhtml/Feedback/View.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="143" column="16" selection-start-line="143" selection-start-column="16" selection-end-line="143" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/view/adminhtml/ui_component/customer_online_grid.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="65" column="16" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/Feedback/Block/Adminhtml/Feedback/Edit/Generic.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+        <state relative-caret-position="451">
+          <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
           <folding>
-            <element signature="e#82#113#0#PHP" expanded="true" />
+            <element signature="e#75#106#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/SimplifiedMagento/Attribute/view/adminhtml/ui_component/affiliate_member_form.xml">
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales/view/adminhtml/ui_component/sales_order_creditmemo_grid.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="31" column="60" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="60" />
+        <state relative-caret-position="-900" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales/view/adminhtml/layout/sales_creditmemo_index.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales/view/adminhtml/layout/sales_transactions_view.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales/view/adminhtml/layout/sales_order_shipments.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales/Controller/Adminhtml/Creditmemo/Index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/SimplifiedMagento/Attribute/Controller/Adminhtml/Member/Edit.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="51" column="65" lean-forward="true" selection-start-line="51" selection-start-column="65" selection-end-line="51" selection-end-column="65" />
-          <folding>
-            <element signature="e#77#108#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/Feedback/Block/Adminhtml/Feedback/Edit/DeleteButton.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/SimplifiedMagento/Attribute/Controller/Adminhtml/Member/NewAction.php">
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales/Controller/Adminhtml/Order/View.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-          <folding>
-            <element signature="e#77#108#0#PHP" expanded="true" />
-          </folding>
+          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/SimplifiedMagento/Database/Model/ResourceModel/AffiliateMember/Collection.php">
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales/Controller/Adminhtml/Creditmemo/AbstractCreditmemo/View.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="42" lean-forward="true" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+        <state relative-caret-position="-194">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/Feedback/Model/ResourceModel/Feedback/Collection.php">
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales/Controller/Adminhtml/Order/Creditmemos.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        <state relative-caret-position="60">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/Controller/Address/Form.php">
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales/Controller/Adminhtml/Creditmemo/View.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        <state relative-caret-position="60">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/Controller/Address/FormPost.php">
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales/view/adminhtml/layout/sales_order_creditmemo_view.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-45">
-          <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+        <state relative-caret-position="135">
+          <caret line="8" column="47" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/Controller/Address/NewAction.php">
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-review/view/adminhtml/layout/review_rating_index.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-review/view/adminhtml/layout/review_rating_edit.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-review/view/adminhtml/layout/rating_block.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        <state relative-caret-position="-569" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-review/Controller/Adminhtml/Product/Edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" column="58" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/Controller/Address/Edit.php">
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-review/view/adminhtml/layout/catalog_product_new.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-review/view/adminhtml/layout/review_product_reviews_grid.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-review/view/adminhtml/layout/review_product_index.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-review/view/adminhtml/layout/review_product_edit.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        <state relative-caret-position="120">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/Controller/Adminhtml/Group/Save.php">
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-theme/Block/Adminhtml/System/Design/Theme/Edit/Tab/General.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-945">
+        <state relative-caret-position="-3255">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-theme/view/adminhtml/layout/adminhtml_system_design_theme_edit.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales/view/adminhtml/ui_component/sales_order_view_creditmemo_grid.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-750">
+          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="150" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales/Block/Adminhtml/Order/View/Info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4214">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales/view/adminhtml/templates/order/view/info.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="32" column="43" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales/Block/Adminhtml/Order/View/Items.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-89">
           <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/Controller/Adminhtml/Address/Save.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1742">
-          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/SimplifiedMagento/Attribute/Controller/Adminhtml/Member/SaveAction.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="52" column="45" lean-forward="true" selection-start-line="52" selection-start-column="45" selection-end-line="52" selection-end-column="45" />
-          <folding>
-            <element signature="e#77#108#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/Feedback/view/adminhtml/ui_component/customer_feedback_form.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="41" column="33" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/Feedback/Controller/Adminhtml/Feedback/saveAction.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="57" selection-start-line="57" selection-end-line="57" />
-          <folding>
-            <element signature="e#75#106#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/bootstrap.php">
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales/Controller/OrderInterface.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/Feedback/Controller/Adminhtml/Feedback/Edit.php">
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales/Controller/Order/Plugin/Authentication.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="53" column="30" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
+        <state relative-caret-position="-149">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales/Controller/Order/Invoice.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales/Controller/Order/View.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales/Block/Adminhtml/Order/AbstractOrder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1604">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales/Block/Adminhtml/Order/View/Items/Renderer/DefaultRenderer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4064">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales/Controller/AbstractController/OrderLoader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-509">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales/Block/Adminhtml/Order/View.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="96" column="28" selection-start-line="96" selection-start-column="19" selection-end-line="96" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/Feedback/view/adminhtml/ui_component/custom_feedback_listing.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1710" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/CustomAdmin (2)/Ui/Component/Listing/Column/MemberAction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-209" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/Feedback/Controller/Index/Submit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="48" column="35" selection-start-line="48" selection-start-column="35" selection-end-line="48" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/Feedback/view/frontend/layout/feedback_index_index.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/Feedback/view/frontend/templates/feedback_form.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="4" column="182" lean-forward="true" selection-start-line="4" selection-start-column="182" selection-end-line="4" selection-end-column="182" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/Ui/Component/Listing/Address/Column/Actions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="60" column="47" selection-start-line="60" selection-start-column="47" selection-end-line="60" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/Feedback/view/adminhtml/ui_component/custom_feedback_form.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="48" column="51" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/Feedback/etc/module.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/Block/Adminhtml/Edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="122" column="49" selection-start-line="122" selection-start-column="49" selection-end-line="122" selection-end-column="49" />
           <folding>
-            <element signature="e#75#106#0#PHP" expanded="true" />
+            <element signature="e#149#201#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/Feedback/Controller/Adminhtml/Feedback/newAction.php">
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/view/base/ui_component/customer_form.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="72" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="72" />
+        <state relative-caret-position="105">
+          <caret line="7" column="55" lean-forward="true" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/view/adminhtml/layout/customer_index_edit.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/Feedback/Block/Adminhtml/Feedback/View.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="120" column="21" lean-forward="true" selection-start-line="120" selection-start-column="21" selection-end-line="120" selection-end-column="21" />
           <folding>
-            <element signature="e#75#106#0#PHP" expanded="true" />
+            <element signature="e#71#113#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/Feedback/view/adminhtml/ui_component/custom_feedback_view.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/Feedback/view/adminhtml/layout/custom_feedback_view.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
         </state>
       </provider>
     </entry>
