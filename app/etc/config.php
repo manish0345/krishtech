@@ -255,6 +255,7 @@ return [
         'TrainingManish_ProductAttribute' => 1,
         'TrainingManish_ProductReview' => 1,
         'TrainingManish_SalesCustomField' => 1,
-        'Vertex_Tax' => 1
+        'Vertex_Tax' => 1,
+        'WebShopApps_MatrixRate' => 1
     ]
 ];

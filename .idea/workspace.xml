@@ -2,13 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99f7291d-015e-4137-8179-99cd008bf758" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/magento.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/magento.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/etc/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/etc/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/css/styles-old.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/backend/floating-header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/mage/backend/validation.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pub/static/deployed_version.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pub/static/deployed_version.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/log/exception.log" beforeDir="false" afterPath="$PROJECT_DIR$/var/log/exception.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/log/temando.log" beforeDir="false" afterPath="$PROJECT_DIR$/var/log/temando.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/var/log/test.log" beforeDir="false" afterPath="$PROJECT_DIR$/var/log/test.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Backend/css/source/_module-old.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Catalog/css/source/_module-old.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_ConfigurableProduct/css/source/_module-old.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Developer/css/source/_module-old.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Enterprise/css/source/_module-old.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_GiftRegistry/css/source/_module-old.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Msrp/css/source/_module-old.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Tax/css/source/_module-old.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Theme/css/source/_module-old.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/css/source/_module-old.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/styles-old.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/styles-old.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/mui/clearless/_all.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/mui/clearless/_arrows.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/mui/clearless/_helpers.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/mui/clearless/_icons.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/mui/clearless/_settings.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/mui/clearless/_sprites.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/mui/styles/_abstract.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/mui/styles/_base.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/mui/styles/_table.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/mui/styles/_vars.less" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -649,93 +670,70 @@
             <path>
               <item name="magento" type="b2602c69:ProjectViewProjectNode" />
               <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="module-customer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="module-customer" type="462c0819:PsiDirectoryNode" />
-              <item name="Block" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="module-customer" type="462c0819:PsiDirectoryNode" />
-              <item name="Block" type="462c0819:PsiDirectoryNode" />
-              <item name="Adminhtml" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="module-customer" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="TrainingManish" type="462c0819:PsiDirectoryNode" />
+              <item name="Feedback" type="462c0819:PsiDirectoryNode" />
               <item name="view" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="magento" type="b2602c69:ProjectViewProjectNode" />
               <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="module-customer" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="TrainingManish" type="462c0819:PsiDirectoryNode" />
+              <item name="Feedback" type="462c0819:PsiDirectoryNode" />
               <item name="view" type="462c0819:PsiDirectoryNode" />
-              <item name="adminhtml" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="magento" type="b2602c69:ProjectViewProjectNode" />
               <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="module-customer" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="TrainingManish" type="462c0819:PsiDirectoryNode" />
+              <item name="Feedback" type="462c0819:PsiDirectoryNode" />
               <item name="view" type="462c0819:PsiDirectoryNode" />
-              <item name="adminhtml" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
               <item name="layout" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="magento" type="b2602c69:ProjectViewProjectNode" />
               <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="module-customer" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
-              <item name="adminhtml" type="462c0819:PsiDirectoryNode" />
-              <item name="ui_component" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="TrainingManish" type="462c0819:PsiDirectoryNode" />
+              <item name="HeaderBlock" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="magento" type="b2602c69:ProjectViewProjectNode" />
               <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="module-customer" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="TrainingManish" type="462c0819:PsiDirectoryNode" />
+              <item name="HeaderBlock" type="462c0819:PsiDirectoryNode" />
               <item name="view" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="magento" type="b2602c69:ProjectViewProjectNode" />
               <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="magento" type="462c0819:PsiDirectoryNode" />
-              <item name="module-customer" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="TrainingManish" type="462c0819:PsiDirectoryNode" />
+              <item name="HeaderBlock" type="462c0819:PsiDirectoryNode" />
               <item name="view" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
-              <item name="ui_component" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="magento" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magento" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="TrainingManish" type="462c0819:PsiDirectoryNode" />
+              <item name="HeaderBlock" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -847,6 +845,7 @@
       <workItem from="1576643783912" duration="28558000" />
       <workItem from="1576729815498" duration="6739000" />
       <workItem from="1576736793078" duration="19282000" />
+      <workItem from="1576817586310" duration="1546000" />
     </task>
     <task id="LOCAL-00001" summary="This is just for testing from Phpstrom">
       <created>1575365574327</created>
@@ -859,7 +858,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="618691000" />
+    <option name="totallyTimeSpent" value="620237000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -873,7 +872,7 @@
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1368" height="742" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49261084" visible="true" weight="0.3090909" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49261084" visible="true" weight="0.26742426" />
       <window_info id="Structure" order="1" sideWeight="0.5073892" side_tool="true" weight="0.22954546" />
       <window_info id="Favorites" order="2" sideWeight="0.5073892" side_tool="true" weight="0.22954546" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -969,16 +968,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales/view/adminhtml/ui_component/sales_order_grid.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales/view/adminhtml/ui_component/sales_order_view_invoice_grid.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="214" column="17" selection-start-line="214" selection-start-column="17" selection-end-line="214" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/Feedback/Block/Adminhtml/Feedback/Edit/BackButton.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -1267,16 +1256,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/Feedback/Block/Adminhtml/Feedback/View.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="120" column="21" lean-forward="true" selection-start-line="120" selection-start-column="21" selection-end-line="120" selection-end-column="21" />
-          <folding>
-            <element signature="e#71#113#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/Feedback/Block/Adminhtml/Feedback/View.php" />
     <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/Feedback/view/adminhtml/ui_component/custom_feedback_view.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -1288,6 +1268,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/Feedback/view/frontend/layout/default.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/TrainingManish/HeaderBlock/view/frontend/layout/default.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
         </state>
       </provider>
     </entry>
